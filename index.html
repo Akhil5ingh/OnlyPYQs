@@ -49,7 +49,11 @@
       </label>
     </div>
     <div class="strip-divider"></div>
-    <button id="downloadProgress" class="outline-button" type="button">Download Progress</button>
+    <div class="progress-file-actions">
+      <button id="uploadProgress" class="outline-button" type="button">Upload Progress</button>
+      <button id="downloadProgress" class="outline-button" type="button">Download Progress</button>
+      <input id="uploadProgressFile" type="file" accept="application/json,.json" hidden>
+    </div>
   </section>
 
   <main class="practice-grid">

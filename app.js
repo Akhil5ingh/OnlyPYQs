@@ -39,6 +39,8 @@
     notAnsweredCount: document.getElementById("notAnsweredCount"),
     answeredCount: document.getElementById("answeredCount"),
     markedCount: document.getElementById("markedCount"),
+    uploadProgress: document.getElementById("uploadProgress"),
+    uploadProgressFile: document.getElementById("uploadProgressFile"),
     downloadProgress: document.getElementById("downloadProgress"),
     resetProgress: document.getElementById("resetProgress"),
     resultModal: document.getElementById("resultModal"),
@@ -482,6 +484,55 @@
     URL.revokeObjectURL(link.href);
   }
 
+  function normalizeImportedState(imported) {
+    const importedState = imported?.state || imported;
+    if (!importedState || typeof importedState !== "object" || !importedState.exams) {
+      throw new Error("This file does not look like an Only PYQs progress file.");
+    }
+    return {
+      ...defaultState(),
+      ...importedState,
+      draftAnswer: null,
+      subject: importedState.subject || "All subjects",
+      topic: importedState.topic || "All topics",
+      year: importedState.year || "All years",
+      reviewMode: Boolean(importedState.reviewMode),
+      reviewIds: Array.isArray(importedState.reviewIds) ? importedState.reviewIds : [],
+      currentIndex: Number.isFinite(importedState.currentIndex) ? importedState.currentIndex : 0,
+      exams: importedState.exams || {}
+    };
+  }
+
+  function applyImportedProgress(imported) {
+    const importedState = normalizeImportedState(imported);
+    Object.keys(state).forEach((key) => delete state[key]);
+    Object.assign(state, importedState);
+    populateSubjects();
+    populateTopics();
+    populateYears();
+    saveState();
+    openQuestion(state.currentIndex);
+  }
+
+  function uploadProgressFile(file) {
+    if (!file) return;
+    const reader = new FileReader();
+    reader.addEventListener("load", () => {
+      try {
+        applyImportedProgress(JSON.parse(String(reader.result || "{}")));
+      } catch (error) {
+        alert(error.message || "Could not upload this progress file.");
+      } finally {
+        els.uploadProgressFile.value = "";
+      }
+    });
+    reader.addEventListener("error", () => {
+      alert("Could not read this progress file.");
+      els.uploadProgressFile.value = "";
+    });
+    reader.readAsText(file);
+  }
+
   function resetExam() {
     if (!confirm("Reset this practice selection?")) return;
     delete state.exams[selectionKey()];
@@ -561,6 +612,8 @@
   els.clearBtn.addEventListener("click", clearAnswer);
   els.saveMarkBtn.addEventListener("click", skipAndNext);
   els.markNextBtn.addEventListener("click", skipAndNext);
+  els.uploadProgress.addEventListener("click", () => els.uploadProgressFile.click());
+  els.uploadProgressFile.addEventListener("change", () => uploadProgressFile(els.uploadProgressFile.files?.[0]));
   els.downloadProgress.addEventListener("click", downloadProgress);
   els.resetProgress.addEventListener("click", resetExam);
   els.closeResultBtn.addEventListener("click", () => {
