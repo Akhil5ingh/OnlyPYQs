@@ -403,6 +403,7 @@ body.theme-light .progress-file-actions .outline-button {
 }
 
 .question-card {
+  position: relative;
   min-width: 0;
   padding: 32px;
 }
@@ -413,6 +414,7 @@ body.theme-light .progress-file-actions .outline-button {
   justify-content: space-between;
   gap: 20px;
   margin-bottom: 28px;
+  padding-right: 152px;
 }
 
 .question-head h1 {
@@ -596,6 +598,9 @@ body.theme-light .progress-file-actions .outline-button {
 }
 
 .top-next-button {
+  position: absolute;
+  top: 32px;
+  right: 32px;
   flex: 0 0 auto;
 }
 
@@ -984,6 +989,44 @@ body.theme-light .progress-file-actions .outline-button {
   }
 }
 
+@media (max-width: 1024px) {
+  .exam-strip {
+    grid-template-columns: 1fr;
+    align-items: stretch;
+    row-gap: 20px;
+    padding: 20px;
+  }
+
+  .exam-title-block {
+    min-width: 0;
+  }
+
+  .filter-row {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 14px;
+    min-width: 0;
+  }
+
+  .filter-row label {
+    min-width: 0;
+  }
+
+  .strip-divider {
+    display: none;
+  }
+
+  .progress-file-actions {
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 12px;
+    padding-left: 0;
+  }
+
+  .progress-file-actions .outline-button {
+    min-width: 172px;
+  }
+}
+
 @media (max-width: 900px) {
   .topbar,
   .exam-strip,
@@ -1064,5 +1107,32 @@ body.theme-light .progress-file-actions .outline-button {
 
   .result-grid {
     grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 480px) {
+  .question-head {
+    padding-right: 0;
+  }
+
+  .top-next-button {
+    position: static;
+    width: 100%;
+    min-height: 48px;
+    margin-top: 16px;
+  }
+
+  .question-actions,
+  .right-actions {
+    gap: 12px;
+  }
+
+  .question-actions button,
+  .right-actions button {
+    min-height: 48px;
+  }
+
+  .progress-file-actions .outline-button {
+    width: 100%;
   }
 }
