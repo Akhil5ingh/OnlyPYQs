@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Only PYQs Practice</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="theme-dark">
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="Only PYQs home">
+      <span class="brand-wordmark">
+        <span>ONLY</span><span>PYQS</span>
+      </span>
+      <span class="brand-tag">
+        <span>PREVIOUS YEAR QUESTIONS</span>
+        <i aria-hidden="true"></i>
+      </span>
+    </a>
+    <nav class="main-nav" aria-label="Main navigation">
+      <a href="#">Online Practice Tests</a>
+      <a href="#">Test Preparation Resources</a>
+      <a href="#">PYQ Analysis</a>
+      <a href="#">Blog</a>
+    </nav>
+    <div class="top-actions">
+      <button id="themeToggle" class="theme-toggle" type="button" aria-label="Toggle light and dark mode">Light</button>
+      <span class="practice-mode">Practice Mode</span>
+    </div>
+  </header>
+
+  <section class="exam-strip" aria-label="Practice selection">
+    <div class="exam-title-block">
+      <span class="exam-badge" aria-hidden="true"></span>
+      <p>BPSC</p>
+    </div>
+    <div class="filter-row">
+      <label>
+        Subject
+        <select id="subjectSelect" aria-label="Subject"></select>
+      </label>
+      <label>
+        Topic
+        <select id="topicSelect" aria-label="Topic"></select>
+      </label>
+      <label>
+        Year
+        <select id="yearSelect" aria-label="Year"></select>
+      </label>
+    </div>
+    <div class="strip-divider"></div>
+    <button id="downloadProgress" class="outline-button" type="button">Download Progress</button>
+  </section>
+
+  <main class="practice-grid">
+    <section class="question-card" id="questionCard" aria-live="polite">
+      <div class="question-head">
+        <div>
+          <h1 id="questionTitle">Question 1</h1>
+          <p id="questionMeta"></p>
+        </div>
+        <button id="saveNextBtn" class="primary-button top-next-button" type="button">Next</button>
+      </div>
+
+      <div class="question-body">
+        <p id="questionText"></p>
+        <p class="option-label">Select one option</p>
+        <div id="optionsList" class="option-list"></div>
+
+        <div id="answerPanel" class="answer-panel" hidden>
+          <div class="answer-panel-head">
+            <strong id="answerStatus"></strong>
+            <span id="answerText"></span>
+          </div>
+          <p id="explanationText"></p>
+        </div>
+      </div>
+
+      <div class="question-actions">
+        <button id="previousBtn" class="secondary-button" type="button">Previous</button>
+        <div class="right-actions">
+          <button id="clearBtn" class="secondary-button" type="button">Clear Response</button>
+          <button id="markNextBtn" class="secondary-button" type="button">Skip & Next</button>
+          <button id="saveMarkBtn" class="hidden-action" type="button" aria-hidden="true" tabindex="-1">Next</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="emptyState" class="empty-state" hidden>
+      <h1>No questions in this selection</h1>
+      <p>Choose a different subject, topic, or year.</p>
+    </section>
+
+    <aside class="side-panel" aria-label="Practice dashboard">
+      <section class="progress-card">
+        <div class="progress-card-head">
+          <h2>Your Progress</h2>
+          <div class="strip-stat">
+            <span>Status</span>
+            <strong id="saveStatus">Progress saves automatically</strong>
+          </div>
+        </div>
+        <div class="progress-content">
+          <div class="progress-ring" aria-label="Attempted percentage">
+            <span id="attemptPercent">0%</span>
+          </div>
+          <ul class="status-list">
+            <li><span class="dot answered-dot"></span><strong id="answeredCount">0</strong> Answered</li>
+            <li><span class="dot wrong-dot"></span><strong id="markedCount">0</strong> Wrong</li>
+            <li><span class="dot not-answered-dot"></span><strong id="notAnsweredCount">0</strong> Not Answered</li>
+            <li><span class="dot not-visited-dot"></span><strong id="notVisitedCount">0</strong> Not Visited</li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="review-toggle-card">
+        <div>
+          <h2>Wrong/Skipped</h2>
+          <p id="reviewModeNote">Show only questions you got wrong or skipped.</p>
+        </div>
+        <label class="switch" aria-label="Wrong or skipped reattempt mode">
+          <input id="reviewToggle" type="checkbox">
+          <span></span>
+        </label>
+      </section>
+
+      <section class="navigator-card">
+        <div class="card-title-row">
+          <h2>Question Navigator</h2>
+          <span id="paletteSummary">0 questions</span>
+        </div>
+        <div class="palette-legend" aria-hidden="true">
+          <span><i class="answered-dot"></i> Answered</span>
+          <span><i class="wrong-dot"></i> Wrong</span>
+          <span><i class="not-answered-dot"></i> Not Answered</span>
+          <span><i class="not-visited-dot"></i> Not Visited</span>
+        </div>
+        <div id="questionPalette" class="question-palette" aria-label="Question navigator"></div>
+      </section>
+
+      <section class="quick-card">
+        <h2>Quick Actions</h2>
+        <button id="resetProgress" type="button">Reset Current Practice</button>
+      </section>
+    </aside>
+  </main>
+
+  <footer class="summary-strip">
+    <div>
+      <strong>BPSC Science PYQs</strong>
+      <span>Local practice app</span>
+    </div>
+    <div>
+      <span>Mode</span>
+      <strong>Practice</strong>
+    </div>
+    <div>
+      <span>Scoring</span>
+      <strong>Instant Check</strong>
+    </div>
+    <button class="outline-button" type="button">Instructions</button>
+  </footer>
+
+  <div id="resultModal" class="modal-backdrop" hidden>
+    <section class="result-modal" role="dialog" aria-modal="true" aria-labelledby="resultTitle">
+      <h2 id="resultTitle">Performance Dashboard</h2>
+      <div class="result-grid">
+        <div><span id="resultAttempted">0</span><label>Attempted</label></div>
+        <div><span id="resultSkipped">0</span><label>Unanswered / Skipped</label></div>
+        <div><span id="resultCorrect">0</span><label>Correct</label></div>
+        <div><span id="resultWrong">0</span><label>Wrong</label></div>
+        <div><span id="resultAccuracy">0%</span><label>Accuracy</label></div>
+        <div><span id="resultScore">0 / 0</span><label>Score</label></div>
+      </div>
+      <div class="modal-actions">
+        <button id="closeResultBtn" type="button">Close</button>
+      </div>
+    </section>
+  </div>
+
+  <script src="questions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
