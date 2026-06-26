@@ -404,6 +404,10 @@ body.theme-light select option {
   line-height: 1.05;
 }
 
+.button__text span {
+  display: block;
+}
+
 .practice-grid {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 500px;
@@ -1229,5 +1233,40 @@ body.theme-light select option {
 
   .progress-file-actions .file-action-button {
     width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .progress-file-actions {
+    flex-wrap: nowrap;
+    justify-content: center;
+    gap: 8px;
+    width: 100%;
+  }
+
+  .progress-file-actions .file-action-button {
+    width: auto;
+    min-width: max-content;
+    min-height: 40px;
+    padding: 0.55em 0.75em 0.55em 0.65em;
+    font-size: 0.78rem;
+    white-space: nowrap;
+  }
+
+  .progress-file-actions .button__icon {
+    width: 1.2em;
+    height: 1.2em;
+  }
+
+  .progress-file-actions .button__text {
+    white-space: nowrap;
+  }
+
+  .progress-file-actions .button__text span {
+    display: inline;
+  }
+
+  .progress-file-actions .button__text span + span::before {
+    content: " ";
   }
 }
