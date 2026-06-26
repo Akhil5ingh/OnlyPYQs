@@ -50,8 +50,23 @@
     </div>
     <div class="strip-divider"></div>
     <div class="progress-file-actions">
-      <button id="uploadProgress" class="outline-button" type="button">Upload Progress</button>
-      <button id="downloadProgress" class="outline-button" type="button">Download Progress</button>
+      <button id="uploadProgress" class="file-action-button" type="button">
+        <svg stroke-linejoin="round" stroke-linecap="round" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24" class="button__icon" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <path fill="none" d="M0 0h24v24H0z" stroke="none"></path>
+          <path d="M12 5v14"></path>
+          <path d="M5 12h14"></path>
+        </svg>
+        <span class="button__text">Upload<br>Progress</span>
+      </button>
+      <button id="downloadProgress" class="file-action-button" type="button">
+        <svg stroke-linejoin="round" stroke-linecap="round" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24" class="button__icon" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <path fill="none" d="M0 0h24v24H0z" stroke="none"></path>
+          <path d="M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-2"></path>
+          <path d="M7 11l5 5l5 -5"></path>
+          <path d="M12 4l0 12"></path>
+        </svg>
+        <span class="button__text">Download<br>Progress</span>
+      </button>
       <input id="uploadProgressFile" type="file" accept="application/json,.json" hidden>
     </div>
   </section>
@@ -118,14 +133,14 @@
       </section>
 
       <section class="review-toggle-card">
-        <div>
-          <h2>Wrong/Skipped</h2>
-          <p id="reviewModeNote">Show only questions you got wrong or skipped.</p>
+        <div class="review-card-head">
+          <h2>Wrong/Unanswered</h2>
+          <p id="reviewModeNote">Show only questions you got wrong or left unanswered.</p>
         </div>
-        <label class="switch" aria-label="Wrong or skipped reattempt mode">
-          <input id="reviewToggle" type="checkbox">
-          <span></span>
-        </label>
+        <div class="checkbox-wrapper-8">
+          <input type="checkbox" id="reviewToggle" class="tgl tgl-skewed">
+          <label for="reviewToggle" data-tg-on="ON" data-tg-off="OFF" class="tgl-btn"></label>
+        </div>
       </section>
 
       <section class="navigator-card">

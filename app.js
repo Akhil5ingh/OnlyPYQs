@@ -305,10 +305,10 @@
     const available = wrongOrSkippedQuestions().length;
     els.reviewToggle.checked = state.reviewMode;
     els.reviewModeNote.textContent = state.reviewMode
-      ? `${currentQuestions().length} questions in reattempt mode.`
+      ? `${currentQuestions().length} wrong/unanswered questions in reattempt mode.`
       : available
-        ? `${available} wrong/skipped questions ready to reattempt.`
-        : "Show only questions you got wrong or skipped.";
+        ? `${available} wrong/unanswered questions ready to reattempt.`
+        : "Show only questions you got wrong or left unanswered.";
   }
 
   function renderQuestion() {
