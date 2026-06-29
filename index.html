@@ -25,7 +25,7 @@
     </nav>
     <div class="top-actions">
       <button id="themeToggle" class="theme-toggle" type="button" aria-label="Toggle light and dark mode">Light</button>
-      <span class="practice-mode">Practice Mode</span>
+      <button id="modeToggle" class="practice-mode" type="button">PYQ Mode</button>
     </div>
   </header>
 
@@ -44,7 +44,7 @@
         <select id="topicSelect" aria-label="Topic"></select>
       </label>
       <label>
-        Year
+        <span id="thirdFilterLabel">Year</span>
         <select id="yearSelect" aria-label="Year"></select>
       </label>
     </div>
@@ -99,6 +99,7 @@
         <button id="previousBtn" class="secondary-button" type="button">Previous</button>
         <div class="right-actions">
           <button id="clearBtn" class="secondary-button" type="button">Clear Response</button>
+          <button id="deleteQuestionBtn" class="secondary-button delete-action" type="button">Delete</button>
           <button id="markNextBtn" class="secondary-button" type="button">Skip & Next</button>
           <button id="saveMarkBtn" class="hidden-action" type="button" aria-hidden="true" tabindex="-1">Next</button>
         </div>
@@ -198,6 +199,7 @@
   </div>
 
   <script src="questions.js"></script>
+  <script src="custom_questions.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

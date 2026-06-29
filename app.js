@@ -6,12 +6,18 @@
     : Array.isArray(window.BPSC_PHYSICS_QUESTIONS)
       ? window.BPSC_PHYSICS_QUESTIONS
       : [];
+  const customQuestionBank = Array.isArray(window.BPSC_CUSTOM_QUESTIONS)
+    ? window.BPSC_CUSTOM_QUESTIONS
+    : [];
   const letters = ["A", "B", "C", "D", "E"];
+  const noSeriesLabel = "No test series";
 
   const els = {
     subjectSelect: document.getElementById("subjectSelect"),
     topicSelect: document.getElementById("topicSelect"),
     yearSelect: document.getElementById("yearSelect"),
+    thirdFilterLabel: document.getElementById("thirdFilterLabel"),
+    modeToggle: document.getElementById("modeToggle"),
     reviewToggle: document.getElementById("reviewToggle"),
     reviewModeNote: document.getElementById("reviewModeNote"),
     themeToggle: document.getElementById("themeToggle"),
@@ -31,6 +37,7 @@
     previousBtn: document.getElementById("previousBtn"),
     saveNextBtn: document.getElementById("saveNextBtn"),
     clearBtn: document.getElementById("clearBtn"),
+    deleteQuestionBtn: document.getElementById("deleteQuestionBtn"),
     saveMarkBtn: document.getElementById("saveMarkBtn"),
     markNextBtn: document.getElementById("markNextBtn"),
     questionPalette: document.getElementById("questionPalette"),
@@ -60,10 +67,13 @@
       subject: "All subjects",
       topic: "All topics",
       year: "All years",
+      testSeries: "All series",
+      mode: "pyq",
       currentIndex: 0,
       draftAnswer: null,
       reviewMode: false,
       reviewIds: [],
+      deletedCustomIds: [],
       exams: {}
     };
   }
@@ -77,8 +87,11 @@
           ...saved,
           draftAnswer: null,
           year: saved.year || "All years",
+          testSeries: saved.testSeries || "All series",
+          mode: saved.mode === "custom" ? "custom" : "pyq",
           reviewMode: Boolean(saved.reviewMode),
           reviewIds: Array.isArray(saved.reviewIds) ? saved.reviewIds : [],
+          deletedCustomIds: Array.isArray(saved.deletedCustomIds) ? saved.deletedCustomIds : [],
           exams: saved.exams || {}
         };
       }
@@ -110,6 +123,20 @@
     return years?.length ? years[years.length - 1] : "Unknown year";
   }
 
+  function questionTestSeries(question) {
+    return question.testSeries || "Untitled Series";
+  }
+
+  function isCustomMode() {
+    return state.mode === "custom";
+  }
+
+  function visibleQuestionBank() {
+    if (!isCustomMode()) return questionBank;
+    const deleted = new Set(state.deletedCustomIds || []);
+    return customQuestionBank.filter((question) => !deleted.has(question.id));
+  }
+
   function questionId(question, index) {
     return question.id || `q-${index + 1}`;
   }
@@ -120,23 +147,28 @@
       question.question,
       (question.options || []).join("~"),
       question.answer,
+      questionTestSeries(question),
       questionYear(question)
     ].join("::");
   }
 
   function selectionKey() {
-    return `${state.subject}::${state.topic}::${state.year}`;
+    const thirdValue = isCustomMode() ? state.testSeries : state.year;
+    return `${state.mode}::${state.subject}::${state.topic}::${thirdValue}`;
   }
 
   function bankForSubjectTopic() {
-    return questionBank
+    return visibleQuestionBank()
       .filter((question) => state.subject === "All subjects" || questionSubject(question) === state.subject)
       .filter((question) => state.topic === "All topics" || questionTopic(question) === state.topic);
   }
 
   function filteredBank() {
-    return bankForSubjectTopic()
-      .filter((question) => state.year === "All years" || questionYear(question) === state.year);
+    if (isCustomMode()) {
+      if (state.testSeries === noSeriesLabel || state.testSeries === "All series") return [];
+      return bankForSubjectTopic().filter((question) => questionTestSeries(question) === state.testSeries);
+    }
+    return bankForSubjectTopic().filter((question) => state.year === "All years" || questionYear(question) === state.year);
   }
 
   function normalizeAnswer(answer) {
@@ -152,6 +184,7 @@
       subject: questionSubject(question),
       topic: questionTopic(question),
       year: questionYear(question),
+      testSeries: questionTestSeries(question),
       text: question.question,
       options: question.options || [],
       correctAnswer: normalizeAnswer(question.answer),
@@ -215,14 +248,17 @@
   }
 
   function populateSubjects() {
-    const subjects = ["All subjects", ...Array.from(new Set(questionBank.map(questionSubject))).sort()];
+    const subjects = ["All subjects", ...Array.from(new Set([
+      ...questionBank.map(questionSubject),
+      ...customQuestionBank.map(questionSubject)
+    ])).sort()];
     replaceOptions(els.subjectSelect, subjects, state.subject);
     if (!subjects.includes(state.subject)) state.subject = "All subjects";
     els.subjectSelect.value = state.subject;
   }
 
   function populateTopics() {
-    const topics = ["All topics", ...Array.from(new Set(questionBank
+    const topics = ["All topics", ...Array.from(new Set(visibleQuestionBank()
       .filter((question) => state.subject === "All subjects" || questionSubject(question) === state.subject)
       .map(questionTopic))).sort()];
     if (!topics.includes(state.topic)) state.topic = "All topics";
@@ -230,6 +266,17 @@
   }
 
   function populateYears() {
+    if (els.thirdFilterLabel) {
+      els.thirdFilterLabel.textContent = isCustomMode() ? "Test Series" : "Year";
+    }
+    els.yearSelect.setAttribute("aria-label", isCustomMode() ? "Test Series" : "Year");
+    if (isCustomMode()) {
+      const series = Array.from(new Set(bankForSubjectTopic().map(questionTestSeries))).sort();
+      const values = series.length ? series : [noSeriesLabel];
+      if (!values.includes(state.testSeries)) state.testSeries = values[0];
+      replaceOptions(els.yearSelect, values, state.testSeries);
+      return;
+    }
     const years = ["All years", ...Array.from(new Set(bankForSubjectTopic().map(questionYear))).sort((a, b) => {
       if (a === "Unknown year") return 1;
       if (b === "Unknown year") return -1;
@@ -316,16 +363,27 @@
     const hasQuestions = questions.length > 0;
     els.questionCard.hidden = !hasQuestions;
     els.emptyState.hidden = hasQuestions;
-    [els.previousBtn, els.saveNextBtn, els.clearBtn, els.saveMarkBtn, els.markNextBtn].forEach((button) => {
+    if (els.emptyState) {
+      const message = isCustomMode()
+        ? "Choose a subject with an available test series."
+        : "Choose a different subject, topic, or year.";
+      const paragraph = els.emptyState.querySelector("p");
+      if (paragraph) paragraph.textContent = message;
+    }
+    [els.previousBtn, els.saveNextBtn, els.clearBtn, els.deleteQuestionBtn, els.saveMarkBtn, els.markNextBtn].forEach((button) => {
       if (button) button.disabled = !hasQuestions;
     });
+    if (els.deleteQuestionBtn) els.deleteQuestionBtn.hidden = true;
     if (!hasQuestions) return;
 
     const question = currentQuestion();
     const visibleAnswer = state.draftAnswer !== null ? state.draftAnswer : question.selectedAnswer;
     els.questionTitle.textContent = `Question ${question.sourceIndex + 1}`;
-    els.questionMeta.textContent = `${question.subject} / ${question.topic} / ${question.year}`;
+    els.questionMeta.textContent = isCustomMode()
+      ? `${question.subject} / ${question.topic} / ${question.testSeries}`
+      : `${question.subject} / ${question.topic} / ${question.year}`;
     els.questionText.textContent = question.text;
+    if (els.deleteQuestionBtn) els.deleteQuestionBtn.hidden = !isCustomMode();
     els.optionsList.innerHTML = "";
     els.answerPanel.hidden = true;
     els.answerPanel.removeAttribute("data-result");
@@ -383,6 +441,8 @@
   }
 
   function render() {
+    if (els.modeToggle) els.modeToggle.textContent = isCustomMode() ? "Custom Mode" : "PYQ Mode";
+    document.body.classList.toggle("custom-mode", isCustomMode());
     populateTopics();
     populateYears();
     renderQuestion();
@@ -455,6 +515,21 @@
     openQuestion(state.currentIndex + 1);
   }
 
+  function deleteCurrentQuestion() {
+    if (!isCustomMode()) return;
+    const question = currentQuestion();
+    if (!question) return;
+    if (!confirm("Delete this custom question permanently from this browser?")) return;
+    if (!state.deletedCustomIds.includes(question.questionId)) {
+      state.deletedCustomIds.push(question.questionId);
+    }
+    state.reviewMode = false;
+    state.reviewIds = [];
+    state.draftAnswer = null;
+    saveState();
+    openQuestion(Math.min(state.currentIndex, Math.max(0, allQuestions().length - 1)));
+  }
+
   function showResult() {
     const questions = currentQuestions();
     const attemptedQuestions = questions.filter((q) => q.selectedAnswer !== null);
@@ -496,8 +571,11 @@
       subject: importedState.subject || "All subjects",
       topic: importedState.topic || "All topics",
       year: importedState.year || "All years",
+      testSeries: importedState.testSeries || "All series",
+      mode: importedState.mode === "custom" ? "custom" : "pyq",
       reviewMode: Boolean(importedState.reviewMode),
       reviewIds: Array.isArray(importedState.reviewIds) ? importedState.reviewIds : [],
+      deletedCustomIds: Array.isArray(importedState.deletedCustomIds) ? importedState.deletedCustomIds : [],
       currentIndex: Number.isFinite(importedState.currentIndex) ? importedState.currentIndex : 0,
       exams: importedState.exams || {}
     };
@@ -551,6 +629,21 @@
     localStorage.setItem(themeKey, theme);
   }
 
+  function switchMode() {
+    state.mode = isCustomMode() ? "pyq" : "custom";
+    state.topic = "All topics";
+    state.year = "All years";
+    state.testSeries = "All series";
+    state.reviewMode = false;
+    state.reviewIds = [];
+    state.currentIndex = 0;
+    state.draftAnswer = null;
+    populateSubjects();
+    populateTopics();
+    populateYears();
+    openQuestion(0);
+  }
+
   function bindFilterPillOpeners() {
     document.querySelectorAll(".filter-row label").forEach((label) => {
       const select = label.querySelector("select");
@@ -569,6 +662,7 @@
     state.subject = els.subjectSelect.value;
     state.topic = "All topics";
     state.year = "All years";
+    state.testSeries = "All series";
     state.reviewMode = false;
     state.reviewIds = [];
     state.currentIndex = 0;
@@ -581,6 +675,7 @@
   els.topicSelect.addEventListener("change", () => {
     state.topic = els.topicSelect.value;
     state.year = "All years";
+    state.testSeries = "All series";
     state.reviewMode = false;
     state.reviewIds = [];
     state.currentIndex = 0;
@@ -590,7 +685,11 @@
   });
 
   els.yearSelect.addEventListener("change", () => {
-    state.year = els.yearSelect.value;
+    if (isCustomMode()) {
+      state.testSeries = els.yearSelect.value;
+    } else {
+      state.year = els.yearSelect.value;
+    }
     state.reviewMode = false;
     state.reviewIds = [];
     state.currentIndex = 0;
@@ -606,10 +705,12 @@
     const nextTheme = document.body.classList.contains("theme-light") ? "dark" : "light";
     applyTheme(nextTheme);
   });
+  if (els.modeToggle) els.modeToggle.addEventListener("click", switchMode);
 
   els.previousBtn.addEventListener("click", previousQuestion);
   els.saveNextBtn.addEventListener("click", saveAndNext);
   els.clearBtn.addEventListener("click", clearAnswer);
+  if (els.deleteQuestionBtn) els.deleteQuestionBtn.addEventListener("click", deleteCurrentQuestion);
   els.saveMarkBtn.addEventListener("click", skipAndNext);
   els.markNextBtn.addEventListener("click", skipAndNext);
   els.uploadProgress.addEventListener("click", () => els.uploadProgressFile.click());
