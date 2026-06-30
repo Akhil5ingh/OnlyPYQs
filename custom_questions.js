@@ -32,22 +32,6 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "explanation": "Number of neutrons = Mass number - Atomic number = 35 - 17 = 18.\nNCERT Scope: Class 11 Chemistry Part 1, Structure of Atom"
   },
   {
-    "id": "custom-chemistry-test-1-3",
-    "subject": "Chemistry",
-    "topic": "Atomic Structure",
-    "testSeries": "Test 1",
-    "question": "Which pair represents isotones?",
-    "options": [
-      "6C14 and 7N14",
-      "6C14 and 8O16",
-      "17Cl35 and 17Cl37",
-      "18Ar40 and 20Ca40",
-      "None of the above/More than one of the above"
-    ],
-    "answer": "B",
-    "explanation": "Isotones have the same number of neutrons. 6C14 has 8 neutrons and 8O16 also has 8 neutrons.\nNCERT Scope: Class 11 Chemistry Part 1, Structure of Atom"
-  },
-  {
     "id": "custom-chemistry-test-1-4",
     "subject": "Chemistry",
     "topic": "Atomic Structure",
@@ -96,38 +80,6 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "explanation": "Maximum number of electrons in a shell = 2n2. For M shell, n = 3. Therefore, maximum electrons = 18.\nNCERT Scope: Class 11 Chemistry Part 1, Structure of Atom"
   },
   {
-    "id": "custom-chemistry-test-1-7",
-    "subject": "Chemistry",
-    "topic": "Atomic Structure",
-    "testSeries": "Test 1",
-    "question": "The maximum number of electrons present in a d-subshell is",
-    "options": [
-      "2",
-      "6",
-      "10",
-      "14",
-      "None of the above/More than one of the above"
-    ],
-    "answer": "C",
-    "explanation": "A d-subshell has five orbitals, and each orbital can accommodate two electrons. Therefore, maximum electrons = 10.\nNCERT Scope: Class 11 Chemistry Part 1, Structure of Atom"
-  },
-  {
-    "id": "custom-chemistry-test-1-8",
-    "subject": "Chemistry",
-    "topic": "Atomic Structure",
-    "testSeries": "Test 1",
-    "question": "Which of the following sets of quantum numbers is not possible?",
-    "options": [
-      "n = 3, l = 2, m = -1",
-      "n = 2, l = 1, m = 0",
-      "n = 2, l = 2, m = 0",
-      "n = 4, l = 0, m = 0",
-      "None of the above/More than one of the above"
-    ],
-    "answer": "C",
-    "explanation": "For a given n, l can have values from 0 to n-1. For n = 2, l can only be 0 or 1. Hence l = 2 is not possible.\nNCERT Scope: Class 11 Chemistry Part 1, Structure of Atom"
-  },
-  {
     "id": "custom-chemistry-test-1-9",
     "subject": "Chemistry",
     "topic": "Atomic Structure",
@@ -158,22 +110,6 @@ window.BPSC_CUSTOM_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "Isobars have the same mass number but different atomic numbers. 18Ar40 and 20Ca40 both have mass number 40.\nNCERT Scope: Class 11 Chemistry Part 1, Structure of Atom"
-  },
-  {
-    "id": "custom-chemistry-test-1-11",
-    "subject": "Chemistry",
-    "topic": "Atomic Structure",
-    "testSeries": "Test 1",
-    "question": "The de Broglie wavelength of a moving particle is inversely proportional to",
-    "options": [
-      "its charge",
-      "its momentum",
-      "its volume",
-      "its temperature",
-      "None of the above/More than one of the above"
-    ],
-    "answer": "B",
-    "explanation": "According to de Broglie relation, lambda = h/p. Hence wavelength is inversely proportional to momentum.\nNCERT Scope: Class 11 Chemistry Part 1, Structure of Atom"
   },
   {
     "id": "custom-chemistry-test-1-12",
@@ -288,22 +224,6 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "explanation": "Fluorine is the most electronegative element.\nNCERT Scope: Class 11 Chemistry Part 1, Classification of Elements and Periodicity"
   },
   {
-    "id": "custom-chemistry-test-1-19",
-    "subject": "Chemistry",
-    "topic": "Some Basic Concepts And Periodicity",
-    "testSeries": "Test 1",
-    "question": "First ionisation enthalpy generally decreases down a group because",
-    "options": [
-      "atomic size decreases",
-      "nuclear charge becomes zero",
-      "outer electron becomes farther from nucleus",
-      "electrons enter the nucleus",
-      "None of the above/More than one of the above"
-    ],
-    "answer": "C",
-    "explanation": "Down a group, atomic size and shielding increase. The outer electron is held less strongly, so ionisation enthalpy decreases.\nNCERT Scope: Class 11 Chemistry Part 1, Classification of Elements and Periodicity"
-  },
-  {
     "id": "custom-chemistry-test-1-20",
     "subject": "Chemistry",
     "topic": "Some Basic Concepts And Periodicity",
@@ -336,22 +256,6 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "explanation": "Molarity depends on volume of solution, and volume changes with temperature.\nNCERT Scope: Class 12 Chemistry Part 1, Solutions"
   },
   {
-    "id": "custom-chemistry-test-1-22",
-    "subject": "Chemistry",
-    "topic": "States Of Matter, Solutions And Surface Chemistry",
-    "testSeries": "Test 1",
-    "question": "Which concentration unit is independent of temperature?",
-    "options": [
-      "Molarity",
-      "Normality",
-      "Molality",
-      "Volume percentage only",
-      "None of the above/More than one of the above"
-    ],
-    "answer": "C",
-    "explanation": "Molality is moles of solute per kilogram of solvent, so it depends on mass and not on volume.\nNCERT Scope: Class 12 Chemistry Part 1, Solutions"
-  },
-  {
     "id": "custom-chemistry-test-1-23",
     "subject": "Chemistry",
     "topic": "States Of Matter, Solutions And Surface Chemistry",
@@ -366,22 +270,6 @@ window.BPSC_CUSTOM_QUESTIONS = [
     ],
     "answer": "C",
     "explanation": "An ideal solution obeys Raoult's law over the entire range of concentration.\nNCERT Scope: Class 12 Chemistry Part 1, Solutions"
-  },
-  {
-    "id": "custom-chemistry-test-1-24",
-    "subject": "Chemistry",
-    "topic": "States Of Matter, Solutions And Surface Chemistry",
-    "testSeries": "Test 1",
-    "question": "In a solution showing positive deviation from Raoult's law, the observed vapour pressure is",
-    "options": [
-      "lower than expected",
-      "higher than expected",
-      "always zero",
-      "independent of temperature",
-      "None of the above/More than one of the above"
-    ],
-    "answer": "B",
-    "explanation": "Positive deviation occurs when A-B interactions are weaker than A-A and B-B interactions, so vapour pressure is higher than expected.\nNCERT Scope: Class 12 Chemistry Part 1, Solutions"
   },
   {
     "id": "custom-chemistry-test-1-25",
@@ -446,38 +334,6 @@ window.BPSC_CUSTOM_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Emulsifying agents stabilise emulsions by preventing dispersed droplets from joining together.\nNCERT Scope: Class 12 Chemistry Part 1, Surface Chemistry"
-  },
-  {
-    "id": "custom-chemistry-test-1-29",
-    "subject": "Chemistry",
-    "topic": "States Of Matter, Solutions And Surface Chemistry",
-    "testSeries": "Test 1",
-    "question": "Lyophobic colloids are readily coagulated by adding",
-    "options": [
-      "a small amount of electrolyte",
-      "distilled water only",
-      "sugar solution only",
-      "benzene only",
-      "None of the above/More than one of the above"
-    ],
-    "answer": "A",
-    "explanation": "Lyophobic sols are unstable and can be coagulated by adding electrolytes.\nNCERT Scope: Class 12 Chemistry Part 1, Surface Chemistry"
-  },
-  {
-    "id": "custom-chemistry-test-1-30",
-    "subject": "Chemistry",
-    "topic": "States Of Matter, Solutions And Surface Chemistry",
-    "testSeries": "Test 1",
-    "question": "For protective colloids, a smaller gold number indicates",
-    "options": [
-      "lower protective power",
-      "higher protective power",
-      "no protective action",
-      "absence of colloidal nature",
-      "None of the above/More than one of the above"
-    ],
-    "answer": "B",
-    "explanation": "Gold number is inversely related to protective power. Smaller gold number means better protective action.\nNCERT Scope: Class 12 Chemistry Part 1, Surface Chemistry"
   },
   {
     "id": "custom-chemistry-test-1-31",
@@ -752,38 +608,6 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "explanation": "A common dry cell uses a moist paste containing ammonium chloride and zinc chloride.\nNCERT Scope: Class 12 Chemistry Part 1, Electrochemistry"
   },
   {
-    "id": "custom-chemistry-test-1-48",
-    "subject": "Chemistry",
-    "topic": "Electrochemistry",
-    "testSeries": "Test 1",
-    "question": "On dilution of an electrolyte solution, its molar conductivity generally",
-    "options": [
-      "decreases",
-      "increases",
-      "becomes zero immediately",
-      "does not change in any case",
-      "None of the above/More than one of the above"
-    ],
-    "answer": "B",
-    "explanation": "On dilution, molar conductivity generally increases because interionic interactions decrease and mobility of ions increases.\nNCERT Scope: Class 12 Chemistry Part 1, Electrochemistry"
-  },
-  {
-    "id": "custom-chemistry-test-1-49",
-    "subject": "Chemistry",
-    "topic": "Electrochemistry",
-    "testSeries": "Test 1",
-    "question": "The Nernst equation is used to relate electrode potential with",
-    "options": [
-      "colour of metal",
-      "concentration of ionic species",
-      "shape of electrode only",
-      "atomic mass only",
-      "None of the above/More than one of the above"
-    ],
-    "answer": "B",
-    "explanation": "Nernst equation gives relation between electrode potential and concentration/activity of ionic species.\nNCERT Scope: Class 12 Chemistry Part 1, Electrochemistry"
-  },
-  {
     "id": "custom-chemistry-test-1-50",
     "subject": "Chemistry",
     "topic": "Inorganic Chemistry And Metallurgy",
@@ -1008,22 +832,6 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "explanation": "Zone refining is used for producing ultra-pure substances such as germanium and silicon.\nNCERT Scope: Class 12 Chemistry Part 1, General Principles and Processes of Isolation of Elements"
   },
   {
-    "id": "custom-chemistry-test-1-64",
-    "subject": "Chemistry",
-    "topic": "Inorganic Chemistry And Metallurgy",
-    "testSeries": "Test 1",
-    "question": "In the electrolytic reduction of alumina, cryolite is added mainly to",
-    "options": [
-      "increase the melting point of alumina",
-      "decrease melting point and increase conductivity",
-      "convert aluminium into iron",
-      "remove oxygen from air",
-      "None of the above/More than one of the above"
-    ],
-    "answer": "B",
-    "explanation": "Cryolite lowers the melting point of alumina and increases electrical conductivity of the mixture.\nNCERT Scope: Class 12 Chemistry Part 1, General Principles and Processes of Isolation of Elements"
-  },
-  {
     "id": "custom-chemistry-test-1-65",
     "subject": "Chemistry",
     "topic": "Inorganic Chemistry And Metallurgy",
@@ -1152,22 +960,6 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "explanation": "Hydrogen has one valence electron and can lose it to form H+, resembling alkali metals in this respect.\nNCERT Scope: Class 11 Chemistry Part 2, Hydrogen"
   },
   {
-    "id": "custom-chemistry-test-1-73",
-    "subject": "Chemistry",
-    "topic": "Hydrogen, Acids And Bases",
-    "testSeries": "Test 1",
-    "question": "The pH of 10-3 M HCl solution is approximately",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "7",
-      "None of the above/More than one of the above"
-    ],
-    "answer": "C",
-    "explanation": "HCl is a strong acid. For 10-3 M HCl, pH = -log(10-3) = 3.\nNCERT Scope: Class 11 Chemistry Part 1, Equilibrium"
-  },
-  {
     "id": "custom-chemistry-test-1-74",
     "subject": "Chemistry",
     "topic": "Hydrogen, Acids And Bases",
@@ -1248,38 +1040,6 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "explanation": "A nucleophile is an electron-rich species and donates an electron pair.\nNCERT Scope: Class 11 Chemistry Part 2, Organic Chemistry - Basic Principles and Techniques"
   },
   {
-    "id": "custom-chemistry-test-1-79",
-    "subject": "Chemistry",
-    "topic": "Organic Chemistry",
-    "testSeries": "Test 1",
-    "question": "The inductive effect in an organic molecule generally",
-    "options": [
-      "increases with distance",
-      "decreases with distance",
-      "is independent of distance",
-      "occurs only in ionic compounds",
-      "None of the above/More than one of the above"
-    ],
-    "answer": "B",
-    "explanation": "Inductive effect is transmitted through sigma bonds and decreases rapidly with distance.\nNCERT Scope: Class 11 Chemistry Part 2, Organic Chemistry - Basic Principles and Techniques"
-  },
-  {
-    "id": "custom-chemistry-test-1-80",
-    "subject": "Chemistry",
-    "topic": "Organic Chemistry",
-    "testSeries": "Test 1",
-    "question": "According to Markovnikov's rule, during addition of HX to an unsymmetrical alkene, hydrogen goes to the carbon atom which already has",
-    "options": [
-      "more hydrogen atoms",
-      "no hydrogen atoms",
-      "more halogen atoms",
-      "lower number of hydrogen atoms",
-      "None of the above/More than one of the above"
-    ],
-    "answer": "A",
-    "explanation": "According to Markovnikov's rule, hydrogen attaches to the carbon atom already having more hydrogen atoms.\nNCERT Scope: Class 11 Chemistry Part 2, Hydrocarbons"
-  },
-  {
     "id": "custom-chemistry-test-1-81",
     "subject": "Chemistry",
     "topic": "Organic Chemistry",
@@ -1310,22 +1070,6 @@ window.BPSC_CUSTOM_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Ethanol is a primary alcohol and is oxidised to ethanoic acid under strong oxidising conditions.\nNCERT Scope: Class 12 Chemistry Part 2, Alcohols, Phenols and Ethers"
-  },
-  {
-    "id": "custom-chemistry-test-1-83",
-    "subject": "Chemistry",
-    "topic": "Organic Chemistry",
-    "testSeries": "Test 1",
-    "question": "Lucas test gives immediate turbidity with",
-    "options": [
-      "primary alcohol",
-      "secondary alcohol",
-      "tertiary alcohol",
-      "phenol only",
-      "None of the above/More than one of the above"
-    ],
-    "answer": "C",
-    "explanation": "Tertiary alcohols react fastest with Lucas reagent and give immediate turbidity.\nNCERT Scope: Class 12 Chemistry Part 2, Alcohols, Phenols and Ethers"
   },
   {
     "id": "custom-chemistry-test-1-84",
@@ -1392,22 +1136,6 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "explanation": "Carboxylic acids react with sodium bicarbonate to release carbon dioxide gas.\nNCERT Scope: Class 12 Chemistry Part 2, Aldehydes, Ketones and Carboxylic Acids"
   },
   {
-    "id": "custom-chemistry-test-1-88",
-    "subject": "Chemistry",
-    "topic": "Organic Chemistry",
-    "testSeries": "Test 1",
-    "question": "Aniline is less basic than ethylamine because the lone pair on nitrogen in aniline is",
-    "options": [
-      "delocalised into the benzene ring",
-      "absent",
-      "present inside nucleus",
-      "converted into proton",
-      "None of the above/More than one of the above"
-    ],
-    "answer": "A",
-    "explanation": "In aniline, the lone pair on nitrogen is involved in resonance with benzene ring and is less available for protonation.\nNCERT Scope: Class 12 Chemistry Part 2, Amines"
-  },
-  {
     "id": "custom-chemistry-test-1-89",
     "subject": "Chemistry",
     "topic": "Organic Chemistry",
@@ -1422,22 +1150,6 @@ window.BPSC_CUSTOM_QUESTIONS = [
     ],
     "answer": "A",
     "explanation": "Aromatic diazonium salts are important intermediates in preparation of azo dyes.\nNCERT Scope: Class 12 Chemistry Part 2, Amines"
-  },
-  {
-    "id": "custom-chemistry-test-1-90",
-    "subject": "Chemistry",
-    "topic": "Biomolecules, Polymers And Chemistry In Everyday Life",
-    "testSeries": "Test 1",
-    "question": "The linkage joining two monosaccharide units in a disaccharide is called",
-    "options": [
-      "peptide linkage",
-      "glycosidic linkage",
-      "phosphodiester linkage only",
-      "amide linkage only",
-      "None of the above/More than one of the above"
-    ],
-    "answer": "B",
-    "explanation": "Monosaccharide units are joined by glycosidic linkage in disaccharides and polysaccharides.\nNCERT Scope: Class 12 Chemistry Part 2, Biomolecules"
   },
   {
     "id": "custom-chemistry-test-1-91",
@@ -1603,7 +1315,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-1",
     "subject": "Chemistry",
     "topic": "Atomic Structure",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "The energy of an electron in the nth orbit of hydrogen atom is proportional to",
     "options": [
       "n2",
@@ -1616,26 +1328,10 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "explanation": "According to Bohr's model, the energy of an electron in the nth orbit of hydrogen atom varies as -1/n2. As n increases, the energy becomes less negative.\nNCERT Scope: Class 11 Chemistry Part 1, Structure of Atom"
   },
   {
-    "id": "custom-chemistry-test-2-2",
-    "subject": "Chemistry",
-    "topic": "Atomic Structure",
-    "testSeries": "Test 2",
-    "question": "The azimuthal quantum number for a p-subshell is",
-    "options": [
-      "0",
-      "1",
-      "2",
-      "3",
-      "None of the above/More than one of the above"
-    ],
-    "answer": "B",
-    "explanation": "For subshells, s, p, d and f correspond to l = 0, 1, 2 and 3 respectively. Hence for a p-subshell, l = 1.\nNCERT Scope: Class 11 Chemistry Part 1, Structure of Atom"
-  },
-  {
     "id": "custom-chemistry-test-2-3",
     "subject": "Chemistry",
     "topic": "Atomic Structure",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "The total number of orbitals present in the third shell is",
     "options": [
       "3",
@@ -1651,7 +1347,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-4",
     "subject": "Chemistry",
     "topic": "Some Basic Concepts and Periodicity",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "The modern periodic law is based on",
     "options": [
       "atomic mass",
@@ -1667,7 +1363,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-5",
     "subject": "Chemistry",
     "topic": "Some Basic Concepts and Periodicity",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "Among lithium, beryllium and boron, the element having the smallest atomic radius is",
     "options": [
       "Lithium",
@@ -1683,7 +1379,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-6",
     "subject": "Chemistry",
     "topic": "Some Basic Concepts and Periodicity",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "The number of moles present in 22 g of carbon dioxide is",
     "options": [
       "0.25 mole",
@@ -1699,7 +1395,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-7",
     "subject": "Chemistry",
     "topic": "States of Matter and Solutions",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "The elevation in boiling point of a solution is a colligative property because it depends mainly on",
     "options": [
       "colour of solute particles",
@@ -1715,7 +1411,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-8",
     "subject": "Chemistry",
     "topic": "States of Matter and Solutions",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "According to Henry's law, at constant temperature, the solubility of a gas in a liquid is directly proportional to",
     "options": [
       "pressure of the gas over the solution",
@@ -1731,7 +1427,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-9",
     "subject": "Chemistry",
     "topic": "States of Matter and Solutions",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "The freezing point of water decreases when common salt is added because",
     "options": [
       "salt reacts with ice to form hydrogen",
@@ -1747,7 +1443,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-10",
     "subject": "Chemistry",
     "topic": "Surface Chemistry and Colloids",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "Milk is best described as an emulsion in which",
     "options": [
       "gas is dispersed in liquid",
@@ -1763,7 +1459,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-11",
     "subject": "Chemistry",
     "topic": "Surface Chemistry and Colloids",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "Tyndall effect is not observed in a true solution because",
     "options": [
       "solute particles are too small to scatter light effectively",
@@ -1779,7 +1475,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-12",
     "subject": "Chemistry",
     "topic": "Surface Chemistry and Colloids",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "The process of converting a freshly prepared precipitate into colloidal sol by adding a suitable electrolyte is called",
     "options": [
       "dialysis",
@@ -1795,7 +1491,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-13",
     "subject": "Chemistry",
     "topic": "Electrochemistry and Redox",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "The charge carried by one mole of electrons is approximately",
     "options": [
       "96500 C",
@@ -1811,7 +1507,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-14",
     "subject": "Chemistry",
     "topic": "Electrochemistry and Redox",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "In a lead storage battery during discharge, the active materials on both electrodes are converted mainly into",
     "options": [
       "lead sulphate",
@@ -1827,7 +1523,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-15",
     "subject": "Chemistry",
     "topic": "Electrochemistry and Redox",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "The oxidation number of sulphur in H2SO4 is",
     "options": [
       "+2",
@@ -1843,7 +1539,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-16",
     "subject": "Chemistry",
     "topic": "Inorganic Chemistry: Hydrogen, S-block and P-block",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "The chemical formula of bleaching powder is generally represented as",
     "options": [
       "CaOCl2",
@@ -1859,7 +1555,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-17",
     "subject": "Chemistry",
     "topic": "Inorganic Chemistry: Hydrogen, S-block and P-block",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "On heating sodium hydrogen carbonate strongly, the main solid product formed is",
     "options": [
       "sodium carbonate",
@@ -1875,7 +1571,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-18",
     "subject": "Chemistry",
     "topic": "Inorganic Chemistry: Hydrogen, S-block and P-block",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "The mixture of carbon monoxide and hydrogen is commonly known as",
     "options": [
       "producer gas",
@@ -1891,7 +1587,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-19",
     "subject": "Chemistry",
     "topic": "Metals, Minerals, Ores and Alloys",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "Hematite, an important ore of iron, has the formula",
     "options": [
       "Fe2O3",
@@ -1907,7 +1603,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-20",
     "subject": "Chemistry",
     "topic": "Metals, Minerals, Ores and Alloys",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "A substance added during smelting to combine with gangue and form slag is called",
     "options": [
       "flux",
@@ -1923,7 +1619,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-21",
     "subject": "Chemistry",
     "topic": "Metals, Minerals, Ores and Alloys",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "Bronze is mainly an alloy of",
     "options": [
       "copper and tin",
@@ -1939,7 +1635,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-22",
     "subject": "Chemistry",
     "topic": "Organic Chemistry",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "Lucas reagent is a mixture of concentrated hydrochloric acid and",
     "options": [
       "anhydrous zinc chloride",
@@ -1955,7 +1651,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-23",
     "subject": "Chemistry",
     "topic": "Organic Chemistry",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "Aldol condensation is shown by aldehydes and ketones having at least one",
     "options": [
       "alpha-hydrogen",
@@ -1971,7 +1667,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-24",
     "subject": "Chemistry",
     "topic": "Organic Chemistry",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "Carbylamine reaction is given by",
     "options": [
       "primary amines",
@@ -1987,7 +1683,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-25",
     "subject": "Chemistry",
     "topic": "Biomolecules",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "Denaturation of proteins usually affects",
     "options": [
       "primary structure only",
@@ -2003,7 +1699,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-26",
     "subject": "Chemistry",
     "topic": "Biomolecules",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "Deficiency of vitamin C generally causes",
     "options": [
       "scurvy",
@@ -2019,7 +1715,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-27",
     "subject": "Chemistry",
     "topic": "Biomolecules",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "The nitrogenous base present in RNA but not in DNA is",
     "options": [
       "thymine",
@@ -2035,7 +1731,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-28",
     "subject": "Chemistry",
     "topic": "Polymers and Chemistry in Everyday Life",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "Bakelite is formed by the condensation polymerisation of phenol with",
     "options": [
       "formaldehyde",
@@ -2051,7 +1747,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-29",
     "subject": "Chemistry",
     "topic": "Polymers and Chemistry in Everyday Life",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "Terylene, also known as Dacron, is prepared from ethylene glycol and",
     "options": [
       "terephthalic acid",
@@ -2064,26 +1760,10 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "explanation": "Terylene or Dacron is a polyester prepared from ethylene glycol and terephthalic acid.\nNCERT Scope: Class 12 Chemistry Part 2, Polymers"
   },
   {
-    "id": "custom-chemistry-test-2-30",
-    "subject": "Chemistry",
-    "topic": "Polymers and Chemistry in Everyday Life",
-    "testSeries": "Test 2",
-    "question": "Cationic detergents generally contain a positively charged group such as",
-    "options": [
-      "quaternary ammonium group",
-      "carboxylate group only",
-      "sulphate group only",
-      "nitrate ion only",
-      "None of the above/More than one of the above"
-    ],
-    "answer": "A",
-    "explanation": "Cationic detergents contain positively charged groups, commonly quaternary ammonium salts.\nNCERT Scope: Class 12 Chemistry Part 2, Chemistry in Everyday Life"
-  },
-  {
     "id": "custom-chemistry-test-2-31",
     "subject": "Chemistry",
     "topic": "Fuels and Applied Chemistry",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "In the octane number scale, n-heptane is assigned the value",
     "options": [
       "0",
@@ -2099,7 +1779,7 @@ window.BPSC_CUSTOM_QUESTIONS = [
     "id": "custom-chemistry-test-2-32",
     "subject": "Chemistry",
     "topic": "Fuels and Applied Chemistry",
-    "testSeries": "Test 2",
+    "testSeries": "Test 1",
     "question": "A fuel having a higher octane number generally has",
     "options": [
       "greater knocking tendency",
