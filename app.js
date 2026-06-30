@@ -157,13 +157,44 @@
     return `${state.mode}::${state.subject}::${state.topic}::${thirdValue}`;
   }
 
-  function modePrefix(mode = state.mode) {
-    return `${mode}::`;
+  function selectionKeyFromState(selectionState) {
+    const mode = selectionState.mode === "custom" ? "custom" : "pyq";
+    const thirdValue = mode === "custom" ? selectionState.testSeries : selectionState.year;
+    return `${mode}::${selectionState.subject}::${selectionState.topic}::${thirdValue}`;
   }
 
-  function examsForMode(exams, mode = state.mode) {
-    return Object.fromEntries(Object.entries(exams || {})
-      .filter(([key]) => key.startsWith(modePrefix(mode))));
+  function examForSelection(exams, key = selectionKey()) {
+    return exams?.[key] ? { [key]: exams[key] } : {};
+  }
+
+  function customQuestionMatchesSelection(question, selectionState) {
+    if (questionSubject(question) !== selectionState.subject && selectionState.subject !== "All subjects") return false;
+    if (questionTopic(question) !== selectionState.topic && selectionState.topic !== "All topics") return false;
+    return questionTestSeries(question) === selectionState.testSeries;
+  }
+
+  function deletedIdsForSelection(selectionState = state) {
+    if (selectionState.mode !== "custom") return [];
+    const deleted = new Set(selectionState.deletedCustomIds || []);
+    return customQuestionBank
+      .filter((question) => deleted.has(question.id))
+      .filter((question) => customQuestionMatchesSelection(question, selectionState))
+      .map((question) => question.id);
+  }
+
+  function withoutSelectionDeletedIds(selectionState = state) {
+    if (selectionState.mode !== "custom") return state.deletedCustomIds || [];
+    const selectionIds = new Set(customQuestionBank
+      .filter((question) => customQuestionMatchesSelection(question, selectionState))
+      .map((question) => question.id));
+    return (state.deletedCustomIds || []).filter((id) => !selectionIds.has(id));
+  }
+
+  function filePart(value) {
+    return String(value || "all")
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-|-$/g, "") || "all";
   }
 
   function bankForSubjectTopic() {
@@ -557,7 +588,8 @@
 
   function downloadProgress() {
     const mode = state.mode;
-    const modeState = {
+    const key = selectionKey();
+    const selectedState = {
       ...defaultState(),
       subject: state.subject,
       topic: state.topic,
@@ -568,19 +600,21 @@
       draftAnswer: null,
       reviewMode: state.reviewMode,
       reviewIds: state.reviewMode ? state.reviewIds : [],
-      deletedCustomIds: mode === "custom" ? state.deletedCustomIds : [],
-      exams: examsForMode(state.exams, mode)
+      deletedCustomIds: mode === "custom" ? deletedIdsForSelection(state) : [],
+      exams: examForSelection(state.exams, key)
     };
+    const thirdValue = mode === "custom" ? state.testSeries : state.year;
     const blob = new Blob([JSON.stringify({
       app: "Only PYQs BPSC Science Practice",
-      scope: "mode",
+      scope: "selection",
       mode,
+      selectionKey: key,
       exportedAt: new Date().toISOString(),
-      state: modeState
+      state: selectedState
     }, null, 2)], { type: "application/json" });
     const link = document.createElement("a");
     link.href = URL.createObjectURL(blob);
-    link.download = `only-pyqs-bpsc-${mode}-progress.json`;
+    link.download = `only-pyqs-bpsc-${filePart(mode)}-${filePart(state.subject)}-${filePart(state.topic)}-${filePart(thirdValue)}-progress.json`;
     link.click();
     URL.revokeObjectURL(link.href);
   }
@@ -603,21 +637,26 @@
       reviewIds: Array.isArray(importedState.reviewIds) ? importedState.reviewIds : [],
       deletedCustomIds: Array.isArray(importedState.deletedCustomIds) ? importedState.deletedCustomIds : [],
       currentIndex: Number.isFinite(importedState.currentIndex) ? importedState.currentIndex : 0,
-      exams: examsForMode(importedState.exams || {}, importedState.mode === "custom" ? "custom" : "pyq")
+      exams: importedState.exams || {}
     };
   }
 
   function applyImportedProgress(imported) {
     const importedState = normalizeImportedState(imported);
     const importedMode = importedState.mode;
+    const importedKey = imported.selectionKey || selectionKeyFromState(importedState);
+    const currentKey = selectionKey();
     if (importedMode !== state.mode) {
       throw new Error(`This is ${importedMode === "custom" ? "Custom" : "PYQ"} Mode progress. Switch to ${importedMode === "custom" ? "Custom" : "PYQ"} Mode before uploading it.`);
     }
+    if (importedKey !== currentKey) {
+      const thirdLabel = importedMode === "custom" ? "test series" : "year";
+      const thirdValue = importedMode === "custom" ? importedState.testSeries : importedState.year;
+      throw new Error(`This progress file is for ${importedState.subject} / ${importedState.topic} / ${thirdValue}. Select that ${thirdLabel} before uploading it.`);
+    }
 
-    Object.keys(state.exams || {}).forEach((key) => {
-      if (key.startsWith(modePrefix(importedMode))) delete state.exams[key];
-    });
-    Object.assign(state.exams, importedState.exams);
+    delete state.exams[currentKey];
+    Object.assign(state.exams, examForSelection(importedState.exams, importedKey));
 
     state.subject = importedState.subject;
     state.topic = importedState.topic;
@@ -628,7 +667,10 @@
     state.reviewMode = importedState.reviewMode;
     state.reviewIds = importedState.reviewIds;
     if (importedMode === "custom") {
-      state.deletedCustomIds = importedState.deletedCustomIds;
+      state.deletedCustomIds = [
+        ...withoutSelectionDeletedIds(importedState),
+        ...deletedIdsForSelection(importedState)
+      ];
     }
     populateSubjects();
     populateTopics();

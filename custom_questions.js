@@ -1598,5 +1598,517 @@ window.BPSC_CUSTOM_QUESTIONS = [
     ],
     "answer": "B",
     "explanation": "Synthetic detergents do not form insoluble scum with calcium and magnesium ions, so they can work in hard water.\nNCERT Scope: Class 12 Chemistry Part 2, Chemistry in Everyday Life"
+  },
+  {
+    "id": "custom-chemistry-test-2-1",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "testSeries": "Test 2",
+    "question": "The energy of an electron in the nth orbit of hydrogen atom is proportional to",
+    "options": [
+      "n2",
+      "1/n",
+      "-1/n2",
+      "-n2",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "C",
+    "explanation": "According to Bohr's model, the energy of an electron in the nth orbit of hydrogen atom varies as -1/n2. As n increases, the energy becomes less negative.\nNCERT Scope: Class 11 Chemistry Part 1, Structure of Atom"
+  },
+  {
+    "id": "custom-chemistry-test-2-2",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "testSeries": "Test 2",
+    "question": "The azimuthal quantum number for a p-subshell is",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "B",
+    "explanation": "For subshells, s, p, d and f correspond to l = 0, 1, 2 and 3 respectively. Hence for a p-subshell, l = 1.\nNCERT Scope: Class 11 Chemistry Part 1, Structure of Atom"
+  },
+  {
+    "id": "custom-chemistry-test-2-3",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "testSeries": "Test 2",
+    "question": "The total number of orbitals present in the third shell is",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "18",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "C",
+    "explanation": "Total number of orbitals in a shell is n2. For the third shell, n = 3, so total orbitals = 9.\nNCERT Scope: Class 11 Chemistry Part 1, Structure of Atom"
+  },
+  {
+    "id": "custom-chemistry-test-2-4",
+    "subject": "Chemistry",
+    "topic": "Some Basic Concepts and Periodicity",
+    "testSeries": "Test 2",
+    "question": "The modern periodic law is based on",
+    "options": [
+      "atomic mass",
+      "atomic number",
+      "number of neutrons only",
+      "density of elements",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "B",
+    "explanation": "Modern periodic law states that the properties of elements are periodic functions of their atomic numbers.\nNCERT Scope: Class 11 Chemistry Part 1, Classification of Elements and Periodicity"
+  },
+  {
+    "id": "custom-chemistry-test-2-5",
+    "subject": "Chemistry",
+    "topic": "Some Basic Concepts and Periodicity",
+    "testSeries": "Test 2",
+    "question": "Among lithium, beryllium and boron, the element having the smallest atomic radius is",
+    "options": [
+      "Lithium",
+      "Beryllium",
+      "Boron",
+      "All have equal radius",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "C",
+    "explanation": "Across a period from left to right, atomic radius generally decreases due to increasing effective nuclear charge. Hence among Li, Be and B, boron has the smallest atomic radius.\nNCERT Scope: Class 11 Chemistry Part 1, Classification of Elements and Periodicity"
+  },
+  {
+    "id": "custom-chemistry-test-2-6",
+    "subject": "Chemistry",
+    "topic": "Some Basic Concepts and Periodicity",
+    "testSeries": "Test 2",
+    "question": "The number of moles present in 22 g of carbon dioxide is",
+    "options": [
+      "0.25 mole",
+      "0.5 mole",
+      "1 mole",
+      "2 moles",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "B",
+    "explanation": "Molar mass of CO2 = 44 g mol-1. Number of moles = given mass/molar mass = 22/44 = 0.5 mole.\nNCERT Scope: Class 11 Chemistry Part 1, Some Basic Concepts of Chemistry"
+  },
+  {
+    "id": "custom-chemistry-test-2-7",
+    "subject": "Chemistry",
+    "topic": "States of Matter and Solutions",
+    "testSeries": "Test 2",
+    "question": "The elevation in boiling point of a solution is a colligative property because it depends mainly on",
+    "options": [
+      "colour of solute particles",
+      "number of solute particles",
+      "shape of container",
+      "smell of solvent",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "B",
+    "explanation": "Colligative properties depend on the number of solute particles present in solution and not on their chemical nature.\nNCERT Scope: Class 12 Chemistry Part 1, Solutions"
+  },
+  {
+    "id": "custom-chemistry-test-2-8",
+    "subject": "Chemistry",
+    "topic": "States of Matter and Solutions",
+    "testSeries": "Test 2",
+    "question": "According to Henry's law, at constant temperature, the solubility of a gas in a liquid is directly proportional to",
+    "options": [
+      "pressure of the gas over the solution",
+      "volume of the vessel only",
+      "colour of the gas",
+      "mass of the solvent only",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "A",
+    "explanation": "Henry's law states that the solubility of a gas in a liquid is proportional to the partial pressure of that gas above the solution.\nNCERT Scope: Class 12 Chemistry Part 1, Solutions"
+  },
+  {
+    "id": "custom-chemistry-test-2-9",
+    "subject": "Chemistry",
+    "topic": "States of Matter and Solutions",
+    "testSeries": "Test 2",
+    "question": "The freezing point of water decreases when common salt is added because",
+    "options": [
+      "salt reacts with ice to form hydrogen",
+      "salt solution has lower vapour pressure than pure water",
+      "salt changes water into a metal",
+      "salt removes oxygen from water",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "B",
+    "explanation": "Addition of a non-volatile solute lowers the vapour pressure of the solvent, leading to depression in freezing point.\nNCERT Scope: Class 12 Chemistry Part 1, Solutions"
+  },
+  {
+    "id": "custom-chemistry-test-2-10",
+    "subject": "Chemistry",
+    "topic": "Surface Chemistry and Colloids",
+    "testSeries": "Test 2",
+    "question": "Milk is best described as an emulsion in which",
+    "options": [
+      "gas is dispersed in liquid",
+      "liquid fat is dispersed in water",
+      "solid is dispersed in solid",
+      "gas is dispersed in solid",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "B",
+    "explanation": "Milk is an oil-in-water type emulsion in which liquid fat droplets are dispersed in water.\nNCERT Scope: Class 12 Chemistry Part 1, Surface Chemistry"
+  },
+  {
+    "id": "custom-chemistry-test-2-11",
+    "subject": "Chemistry",
+    "topic": "Surface Chemistry and Colloids",
+    "testSeries": "Test 2",
+    "question": "Tyndall effect is not observed in a true solution because",
+    "options": [
+      "solute particles are too small to scatter light effectively",
+      "true solution contains only solid particles",
+      "true solution is always black",
+      "true solution contains no solvent",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "A",
+    "explanation": "Particles of a true solution are too small to scatter visible light, so the path of light is not visible.\nNCERT Scope: Class 12 Chemistry Part 1, Surface Chemistry"
+  },
+  {
+    "id": "custom-chemistry-test-2-12",
+    "subject": "Chemistry",
+    "topic": "Surface Chemistry and Colloids",
+    "testSeries": "Test 2",
+    "question": "The process of converting a freshly prepared precipitate into colloidal sol by adding a suitable electrolyte is called",
+    "options": [
+      "dialysis",
+      "peptization",
+      "coagulation",
+      "filtration",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "B",
+    "explanation": "Peptization is the process of converting a precipitate into colloidal sol by adding a suitable electrolyte.\nNCERT Scope: Class 12 Chemistry Part 1, Surface Chemistry"
+  },
+  {
+    "id": "custom-chemistry-test-2-13",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry and Redox",
+    "testSeries": "Test 2",
+    "question": "The charge carried by one mole of electrons is approximately",
+    "options": [
+      "96500 C",
+      "6.022 x 1023 C",
+      "1.602 x 10-19 C",
+      "9.11 x 10-31 C",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "A",
+    "explanation": "One Faraday is the charge carried by one mole of electrons and is approximately 96500 coulombs.\nNCERT Scope: Class 12 Chemistry Part 1, Electrochemistry"
+  },
+  {
+    "id": "custom-chemistry-test-2-14",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry and Redox",
+    "testSeries": "Test 2",
+    "question": "In a lead storage battery during discharge, the active materials on both electrodes are converted mainly into",
+    "options": [
+      "lead sulphate",
+      "lead nitrate",
+      "lead chloride",
+      "lead carbonate",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "A",
+    "explanation": "During discharge of a lead storage battery, both lead and lead dioxide are converted into lead sulphate.\nNCERT Scope: Class 12 Chemistry Part 1, Electrochemistry"
+  },
+  {
+    "id": "custom-chemistry-test-2-15",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry and Redox",
+    "testSeries": "Test 2",
+    "question": "The oxidation number of sulphur in H2SO4 is",
+    "options": [
+      "+2",
+      "+4",
+      "+6",
+      "-2",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "C",
+    "explanation": "Let oxidation number of sulphur be x. In H2SO4: 2(+1) + x + 4(-2) = 0. Hence x = +6.\nNCERT Scope: Class 11 Chemistry Part 2, Redox Reactions"
+  },
+  {
+    "id": "custom-chemistry-test-2-16",
+    "subject": "Chemistry",
+    "topic": "Inorganic Chemistry: Hydrogen, S-block and P-block",
+    "testSeries": "Test 2",
+    "question": "The chemical formula of bleaching powder is generally represented as",
+    "options": [
+      "CaOCl2",
+      "CaCO3",
+      "CaSO4.2H2O",
+      "NaHCO3",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "A",
+    "explanation": "Bleaching powder is commonly represented by the formula CaOCl2.\nNCERT Scope: Class 11 Chemistry Part 2, p-Block Elements / common inorganic compounds"
+  },
+  {
+    "id": "custom-chemistry-test-2-17",
+    "subject": "Chemistry",
+    "topic": "Inorganic Chemistry: Hydrogen, S-block and P-block",
+    "testSeries": "Test 2",
+    "question": "On heating sodium hydrogen carbonate strongly, the main solid product formed is",
+    "options": [
+      "sodium carbonate",
+      "sodium chloride",
+      "sodium sulphate",
+      "sodium hydroxide only",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "A",
+    "explanation": "Sodium hydrogen carbonate decomposes on heating to give sodium carbonate, carbon dioxide and water.\nNCERT Scope: Class 11 Chemistry Part 2, s-Block Elements"
+  },
+  {
+    "id": "custom-chemistry-test-2-18",
+    "subject": "Chemistry",
+    "topic": "Inorganic Chemistry: Hydrogen, S-block and P-block",
+    "testSeries": "Test 2",
+    "question": "The mixture of carbon monoxide and hydrogen is commonly known as",
+    "options": [
+      "producer gas",
+      "water gas",
+      "laughing gas",
+      "noble gas",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "B",
+    "explanation": "Water gas is a mixture of carbon monoxide and hydrogen.\nNCERT Scope: Class 11 Chemistry Part 2, Hydrogen"
+  },
+  {
+    "id": "custom-chemistry-test-2-19",
+    "subject": "Chemistry",
+    "topic": "Metals, Minerals, Ores and Alloys",
+    "testSeries": "Test 2",
+    "question": "Hematite, an important ore of iron, has the formula",
+    "options": [
+      "Fe2O3",
+      "FeCO3",
+      "FeS2",
+      "Fe3O4 only",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "A",
+    "explanation": "Hematite is ferric oxide, Fe2O3, and is an important ore of iron.\nNCERT Scope: Class 12 Chemistry Part 1, General Principles and Processes of Isolation of Elements"
+  },
+  {
+    "id": "custom-chemistry-test-2-20",
+    "subject": "Chemistry",
+    "topic": "Metals, Minerals, Ores and Alloys",
+    "testSeries": "Test 2",
+    "question": "A substance added during smelting to combine with gangue and form slag is called",
+    "options": [
+      "flux",
+      "catalyst promoter",
+      "electrolyte",
+      "inhibitor",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "A",
+    "explanation": "Flux combines with gangue to form fusible slag, which can be removed easily during metallurgy.\nNCERT Scope: Class 12 Chemistry Part 1, General Principles and Processes of Isolation of Elements"
+  },
+  {
+    "id": "custom-chemistry-test-2-21",
+    "subject": "Chemistry",
+    "topic": "Metals, Minerals, Ores and Alloys",
+    "testSeries": "Test 2",
+    "question": "Bronze is mainly an alloy of",
+    "options": [
+      "copper and tin",
+      "copper and zinc",
+      "iron and chromium",
+      "mercury and silver only",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "A",
+    "explanation": "Bronze is an alloy mainly of copper and tin.\nNCERT Scope: Class 12 Chemistry Part 1, General metallurgy/alloy-related chemistry"
+  },
+  {
+    "id": "custom-chemistry-test-2-22",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "testSeries": "Test 2",
+    "question": "Lucas reagent is a mixture of concentrated hydrochloric acid and",
+    "options": [
+      "anhydrous zinc chloride",
+      "sodium chloride",
+      "potassium permanganate",
+      "ammoniacal silver nitrate",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "A",
+    "explanation": "Lucas reagent consists of concentrated HCl and anhydrous ZnCl2. It is used to distinguish primary, secondary and tertiary alcohols.\nNCERT Scope: Class 12 Chemistry Part 2, Alcohols, Phenols and Ethers"
+  },
+  {
+    "id": "custom-chemistry-test-2-23",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "testSeries": "Test 2",
+    "question": "Aldol condensation is shown by aldehydes and ketones having at least one",
+    "options": [
+      "alpha-hydrogen",
+      "halogen atom only",
+      "nitro group only",
+      "noble gas atom",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "A",
+    "explanation": "Aldehydes and ketones having alpha-hydrogen undergo aldol condensation.\nNCERT Scope: Class 12 Chemistry Part 2, Aldehydes, Ketones and Carboxylic Acids"
+  },
+  {
+    "id": "custom-chemistry-test-2-24",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "testSeries": "Test 2",
+    "question": "Carbylamine reaction is given by",
+    "options": [
+      "primary amines",
+      "secondary amines only",
+      "tertiary amines only",
+      "carboxylic acids only",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "A",
+    "explanation": "Primary amines, both aliphatic and aromatic, give carbylamine reaction with chloroform and alcoholic KOH.\nNCERT Scope: Class 12 Chemistry Part 2, Amines"
+  },
+  {
+    "id": "custom-chemistry-test-2-25",
+    "subject": "Chemistry",
+    "topic": "Biomolecules",
+    "testSeries": "Test 2",
+    "question": "Denaturation of proteins usually affects",
+    "options": [
+      "primary structure only",
+      "secondary and tertiary structures",
+      "atomic number of nitrogen",
+      "number of protons in carbon",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "B",
+    "explanation": "Denaturation disturbs secondary and tertiary structures of proteins, while the primary structure generally remains intact.\nNCERT Scope: Class 12 Chemistry Part 2, Biomolecules"
+  },
+  {
+    "id": "custom-chemistry-test-2-26",
+    "subject": "Chemistry",
+    "topic": "Biomolecules",
+    "testSeries": "Test 2",
+    "question": "Deficiency of vitamin C generally causes",
+    "options": [
+      "scurvy",
+      "rickets",
+      "beriberi",
+      "night blindness",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "A",
+    "explanation": "Vitamin C deficiency causes scurvy.\nNCERT Scope: Class 12 Chemistry Part 2, Biomolecules"
+  },
+  {
+    "id": "custom-chemistry-test-2-27",
+    "subject": "Chemistry",
+    "topic": "Biomolecules",
+    "testSeries": "Test 2",
+    "question": "The nitrogenous base present in RNA but not in DNA is",
+    "options": [
+      "thymine",
+      "uracil",
+      "adenine",
+      "cytosine",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "B",
+    "explanation": "RNA contains uracil, whereas DNA contains thymine in place of uracil.\nNCERT Scope: Class 12 Chemistry Part 2, Biomolecules"
+  },
+  {
+    "id": "custom-chemistry-test-2-28",
+    "subject": "Chemistry",
+    "topic": "Polymers and Chemistry in Everyday Life",
+    "testSeries": "Test 2",
+    "question": "Bakelite is formed by the condensation polymerisation of phenol with",
+    "options": [
+      "formaldehyde",
+      "styrene",
+      "vinyl chloride",
+      "tetrafluoroethene",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "A",
+    "explanation": "Bakelite is a phenol-formaldehyde resin formed by condensation polymerisation.\nNCERT Scope: Class 12 Chemistry Part 2, Polymers"
+  },
+  {
+    "id": "custom-chemistry-test-2-29",
+    "subject": "Chemistry",
+    "topic": "Polymers and Chemistry in Everyday Life",
+    "testSeries": "Test 2",
+    "question": "Terylene, also known as Dacron, is prepared from ethylene glycol and",
+    "options": [
+      "terephthalic acid",
+      "adipic acid",
+      "caprolactam",
+      "melamine",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "A",
+    "explanation": "Terylene or Dacron is a polyester prepared from ethylene glycol and terephthalic acid.\nNCERT Scope: Class 12 Chemistry Part 2, Polymers"
+  },
+  {
+    "id": "custom-chemistry-test-2-30",
+    "subject": "Chemistry",
+    "topic": "Polymers and Chemistry in Everyday Life",
+    "testSeries": "Test 2",
+    "question": "Cationic detergents generally contain a positively charged group such as",
+    "options": [
+      "quaternary ammonium group",
+      "carboxylate group only",
+      "sulphate group only",
+      "nitrate ion only",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "A",
+    "explanation": "Cationic detergents contain positively charged groups, commonly quaternary ammonium salts.\nNCERT Scope: Class 12 Chemistry Part 2, Chemistry in Everyday Life"
+  },
+  {
+    "id": "custom-chemistry-test-2-31",
+    "subject": "Chemistry",
+    "topic": "Fuels and Applied Chemistry",
+    "testSeries": "Test 2",
+    "question": "In the octane number scale, n-heptane is assigned the value",
+    "options": [
+      "0",
+      "50",
+      "75",
+      "100",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "A",
+    "explanation": "In the octane number scale, n-heptane is assigned zero because of its poor anti-knocking quality, while iso-octane is assigned 100.\nNCERT Scope: Related to hydrocarbon fuel chemistry; inspired by BPSC applied chemistry PYQ theme"
+  },
+  {
+    "id": "custom-chemistry-test-2-32",
+    "subject": "Chemistry",
+    "topic": "Fuels and Applied Chemistry",
+    "testSeries": "Test 2",
+    "question": "A fuel having a higher octane number generally has",
+    "options": [
+      "greater knocking tendency",
+      "better anti-knocking quality",
+      "lower carbon content always",
+      "no relation with engine performance",
+      "None of the above/More than one of the above"
+    ],
+    "answer": "B",
+    "explanation": "Higher octane number indicates better resistance to knocking in petrol engines.\nNCERT Scope: Related to hydrocarbon fuel chemistry; inspired by BPSC applied chemistry PYQ theme"
   }
 ];
