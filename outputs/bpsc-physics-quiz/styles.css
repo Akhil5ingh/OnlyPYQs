@@ -192,12 +192,16 @@ body.theme-light .brand-wordmark {
 
 .exam-strip {
   display: grid;
-  grid-template-columns: auto minmax(420px, 1fr) 1px auto;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  grid-template-areas:
+    "title spacer actions"
+    "divider divider divider"
+    "filters filters filters";
   align-items: center;
-  column-gap: 32px;
+  column-gap: 28px;
   row-gap: 18px;
   margin-top: 10px;
-  padding: 22px 20px;
+  padding: 22px 24px 28px;
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background:
@@ -207,6 +211,7 @@ body.theme-light .brand-wordmark {
 }
 
 .exam-title-block {
+  grid-area: title;
   display: flex;
   align-items: center;
   gap: 16px;
@@ -244,9 +249,10 @@ body.theme-light .brand-wordmark {
 }
 
 .filter-row {
+  grid-area: filters;
   display: grid;
-  grid-template-columns: repeat(3, minmax(170px, 1fr));
-  gap: 18px;
+  grid-template-columns: repeat(4, minmax(170px, 1fr));
+  gap: 18px 22px;
 }
 
 .filter-row-container {
@@ -517,6 +523,74 @@ body.theme-light .brand-wordmark {
   background: rgba(59, 130, 246, 0.72);
 }
 
+body.theme-light .dropdown-trigger {
+  border-color: rgba(148, 163, 184, 0.38);
+  background: rgba(255, 255, 255, 0.78);
+  color: #111827;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.78),
+    0 12px 30px rgba(15, 23, 42, 0.1);
+}
+
+body.theme-light .dropdown-trigger:hover,
+body.theme-light .dropdown-trigger:focus-visible,
+body.theme-light .custom-dropdown.is-open .dropdown-trigger {
+  border-color: rgba(59, 130, 246, 0.6);
+  background: rgba(248, 251, 255, 0.94);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.88),
+    0 18px 42px rgba(15, 23, 42, 0.14),
+    0 0 0 3px rgba(59, 130, 246, 0.12);
+}
+
+body.theme-light .dropdown-menu,
+body.theme-light .dropdown-submenu {
+  border-color: rgba(148, 163, 184, 0.32);
+  background: rgba(255, 255, 255, 0.96);
+  box-shadow: 0 24px 60px rgba(15, 23, 42, 0.16), 0 0 0 1px rgba(59, 130, 246, 0.08);
+}
+
+body.theme-light .dropdown-search-wrapper {
+  border-bottom-color: rgba(148, 163, 184, 0.22);
+}
+
+body.theme-light .dropdown-search {
+  border-color: rgba(148, 163, 184, 0.34);
+  background: rgba(248, 251, 255, 0.92);
+  color: #111827;
+}
+
+body.theme-light .dropdown-search::placeholder {
+  color: #718096;
+}
+
+body.theme-light .dropdown-item {
+  color: #263244;
+}
+
+body.theme-light .dropdown-item:hover,
+body.theme-light .dropdown-item.is-submenu-open,
+body.theme-light .dropdown-item.is-active {
+  background: rgba(59, 130, 246, 0.12);
+  color: #0f172a;
+}
+
+body.theme-light .arrow-icon,
+body.theme-light .chevron-icon {
+  color: #64748b;
+}
+
+body.theme-light .dropdown-options::-webkit-scrollbar-thumb,
+body.theme-light .dropdown-menu.scrollable-menu .dropdown-options::-webkit-scrollbar-thumb {
+  border-color: rgba(255, 255, 255, 0.96);
+  background: rgba(100, 116, 139, 0.34);
+}
+
+body.theme-light .dropdown-options::-webkit-scrollbar-thumb:hover,
+body.theme-light .dropdown-menu.scrollable-menu .dropdown-options::-webkit-scrollbar-thumb:hover {
+  background: rgba(59, 130, 246, 0.62);
+}
+
 select {
   min-height: 20px;
   width: 100%;
@@ -540,8 +614,10 @@ body.theme-light select option {
 }
 
 .strip-divider {
+  grid-area: divider;
   width: 1px;
-  min-height: 58px;
+  width: 100%;
+  min-height: 1px;
   background: var(--line);
 }
 
@@ -587,6 +663,7 @@ body.theme-light select option {
 }
 
 .progress-file-actions {
+  grid-area: actions;
   display: flex;
   align-items: center;
   justify-content: flex-end;
@@ -1326,6 +1403,11 @@ body.theme-light select option {
 @media (max-width: 1024px) {
   .exam-strip {
     grid-template-columns: 1fr;
+    grid-template-areas:
+      "title"
+      "actions"
+      "divider"
+      "filters";
     align-items: stretch;
     row-gap: 20px;
     padding: 20px;
@@ -1336,7 +1418,7 @@ body.theme-light select option {
   }
 
   .filter-row {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 14px;
     min-width: 0;
   }
@@ -1346,7 +1428,7 @@ body.theme-light select option {
   }
 
   .strip-divider {
-    display: none;
+    display: block;
   }
 
   .progress-file-actions {

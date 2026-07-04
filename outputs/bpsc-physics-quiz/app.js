@@ -11,8 +11,28 @@
     : [];
   const letters = ["A", "B", "C", "D", "E"];
   const noSeriesLabel = "No test series";
+  const allExamsLabel = "All exams";
+  const examFilterOptions = [
+    allExamsLabel,
+    "B.P.S.C. Pre / Re-Exam",
+    "B.P.S.C. CDPO Preliminary Exam",
+    "B.P.S.C. BAO Exam",
+    "B.P.S.C. TRE-3 Exam",
+    "B.P.S.C. School Teacher Exam",
+    "B.P.S.C. School Teacher/Headmaster Exam",
+    "B.P.S.C. Teacher Exam"
+  ];
   const subjectMenuBlueprint = [
     { type: "option", label: "All subjects", value: "All subjects" },
+    {
+      type: "group",
+      label: "General Science",
+      children: [
+        { label: "Physics", value: "Physics" },
+        { label: "Chemistry", value: "Chemistry" },
+        { label: "Biology", value: "Biology" }
+      ]
+    },
     {
       type: "group",
       label: "Bihar State",
@@ -44,6 +64,7 @@
   }));
 
   const els = {
+    examSelect: document.getElementById("examSelect"),
     subjectSelect: document.getElementById("subjectSelect"),
     topicSelect: document.getElementById("topicSelect"),
     yearSelect: document.getElementById("yearSelect"),
@@ -97,6 +118,7 @@
     return {
       subject: "All subjects",
       topic: "All topics",
+      exam: allExamsLabel,
       year: "All years",
       testSeries: "All series",
       mode: "pyq",
@@ -117,6 +139,7 @@
           ...defaultState(),
           ...saved,
           draftAnswer: null,
+          exam: saved.exam || allExamsLabel,
           year: saved.year || "All years",
           testSeries: saved.testSeries || "All series",
           mode: saved.mode === "custom" ? "custom" : "pyq",
@@ -154,6 +177,43 @@
     return years?.length ? years[years.length - 1] : "Unknown year";
   }
 
+  function questionExams(question) {
+    if (examFilterOptions.includes(question.exam)) return [question.exam];
+    if (Array.isArray(question.exams)) {
+      return question.exams.filter((exam) => examFilterOptions.includes(exam));
+    }
+
+    const sourceText = [
+      question.exam || "",
+      question.source || "",
+      question.explanation || ""
+    ].join(" ");
+    const compact = sourceText.toUpperCase().replace(/[^A-Z0-9]+/g, "");
+    const exams = [];
+    const addExam = (exam) => {
+      if (!exams.includes(exam)) exams.push(exam);
+    };
+
+    if (compact.includes("CDPO")) addExam("B.P.S.C. CDPO Preliminary Exam");
+    if (compact.includes("BAO")) addExam("B.P.S.C. BAO Exam");
+    if (compact.includes("TRE3")) addExam("B.P.S.C. TRE-3 Exam");
+    if (compact.includes("SCHOOLTEACHERHEADMASTER") || compact.includes("HEADMASTER")) {
+      addExam("B.P.S.C. School Teacher/Headmaster Exam");
+    }
+    if (compact.includes("SCHOOLTEACHER") && !compact.includes("HEADMASTER")) {
+      addExam("B.P.S.C. School Teacher Exam");
+    }
+    if (compact.includes("TEACHER") && !compact.includes("SCHOOLTEACHER") && !compact.includes("HEADMASTER")) {
+      addExam("B.P.S.C. Teacher Exam");
+    }
+
+    const hasGeneralBpscPre = /\d+(?:st|nd|rd|th)?(?:\s*to\s*\d+(?:st|nd|rd|th)?)?\s*b\.?\s*p\.?\s*s\.?\s*c\.?.{0,60}(?:pre|re\s*-?\s*exam)/i.test(sourceText)
+      || /\bb\.?\s*p\.?\s*s\.?\s*c\.?\s*(?:re\s*-?\s*exam|pre\s*-\s*\d{4})/i.test(sourceText);
+    if (hasGeneralBpscPre) addExam("B.P.S.C. Pre / Re-Exam");
+
+    return exams;
+  }
+
   function questionTestSeries(question) {
     return question.testSeries || "Untitled Series";
   }
@@ -185,13 +245,20 @@
 
   function selectionKey() {
     const thirdValue = isCustomMode() ? state.testSeries : state.year;
-    return `${state.mode}::${state.subject}::${state.topic}::${thirdValue}`;
+    return `${state.mode}::${state.exam}::${state.subject}::${state.topic}::${thirdValue}`;
+  }
+
+  function legacySelectionKey(selectionState = state) {
+    const mode = selectionState.mode === "custom" ? "custom" : "pyq";
+    const thirdValue = mode === "custom" ? selectionState.testSeries : selectionState.year;
+    return `${mode}::${selectionState.subject}::${selectionState.topic}::${thirdValue}`;
   }
 
   function selectionKeyFromState(selectionState) {
     const mode = selectionState.mode === "custom" ? "custom" : "pyq";
     const thirdValue = mode === "custom" ? selectionState.testSeries : selectionState.year;
-    return `${mode}::${selectionState.subject}::${selectionState.topic}::${thirdValue}`;
+    const exam = selectionState.exam || allExamsLabel;
+    return `${mode}::${exam}::${selectionState.subject}::${selectionState.topic}::${thirdValue}`;
   }
 
   function examForSelection(exams, key = selectionKey()) {
@@ -230,6 +297,7 @@
 
   function bankForSubjectTopic() {
     return visibleQuestionBank()
+      .filter((question) => state.exam === allExamsLabel || questionExams(question).includes(state.exam))
       .filter((question) => state.subject === "All subjects" || questionSubject(question) === state.subject)
       .filter((question) => state.topic === "All topics" || questionTopic(question) === state.topic);
   }
@@ -254,6 +322,7 @@
       sourceIndex: index,
       subject: questionSubject(question),
       topic: questionTopic(question),
+      exam: questionExams(question).join(", ") || "Exam not tagged",
       year: questionYear(question),
       testSeries: questionTestSeries(question),
       text: question.question || question.prompt || "",
@@ -267,6 +336,10 @@
 
   function currentExam() {
     const key = selectionKey();
+    const oldKey = legacySelectionKey();
+    if (!state.exams[key] && state.exam === allExamsLabel && state.exams[oldKey]) {
+      state.exams[key] = state.exams[oldKey];
+    }
     const bank = filteredBank();
     const signature = bank.map(questionSignature).join("|");
     if (!state.exams[key] || state.exams[key].signature !== signature) {
@@ -331,6 +404,11 @@
     renderCustomDropdown("subject");
   }
 
+  function populateExams() {
+    if (!examFilterOptions.includes(state.exam)) state.exam = allExamsLabel;
+    replaceOptions(els.examSelect, examFilterOptions, state.exam);
+  }
+
   function populateTopics() {
     const topics = ["All topics", ...Array.from(new Set(visibleQuestionBank()
       .filter((question) => state.subject === "All subjects" || questionSubject(question) === state.subject)
@@ -369,7 +447,7 @@
       select.append(option);
     });
     select.value = selectedValue;
-    renderCustomDropdown(select.id === "topicSelect" ? "topic" : select.id === "yearSelect" ? "year" : "subject");
+    renderCustomDropdown(select.id === "examSelect" ? "exam" : select.id === "topicSelect" ? "topic" : select.id === "yearSelect" ? "year" : "subject");
   }
 
   function dropdownForType(type) {
@@ -377,6 +455,7 @@
   }
 
   function selectForType(type) {
+    if (type === "exam") return els.examSelect;
     if (type === "subject") return els.subjectSelect;
     if (type === "topic") return els.topicSelect;
     return els.yearSelect;
@@ -388,6 +467,7 @@
   }
 
   function selectedValueForType(type) {
+    if (type === "exam") return state.exam;
     if (type === "subject") return state.subject;
     if (type === "topic") return state.topic;
     return isCustomMode() ? state.testSeries : state.year;
@@ -684,7 +764,7 @@
     if (els.emptyState) {
       const message = isCustomMode()
         ? "Choose a subject with an available test series."
-        : "Choose a different subject, topic, or year.";
+        : "Choose a different exam, subject, topic, or year.";
       const paragraph = els.emptyState.querySelector("p");
       if (paragraph) paragraph.textContent = message;
     }
@@ -698,8 +778,8 @@
     const visibleAnswer = state.draftAnswer !== null ? state.draftAnswer : question.selectedAnswer;
     els.questionTitle.textContent = `Question ${question.sourceIndex + 1}`;
     els.questionMeta.textContent = isCustomMode()
-      ? `${question.subject} / ${question.topic} / ${question.testSeries}`
-      : `${question.subject} / ${question.topic} / ${question.year}`;
+      ? `${question.exam} / ${question.subject} / ${question.topic} / ${question.testSeries}`
+      : `${question.exam} / ${question.subject} / ${question.topic} / ${question.year}`;
     els.questionText.textContent = question.text;
     if (els.deleteQuestionBtn) els.deleteQuestionBtn.hidden = !isCustomMode();
     els.optionsList.innerHTML = "";
@@ -761,6 +841,7 @@
   function render() {
     if (els.modeToggle) els.modeToggle.textContent = isCustomMode() ? "Custom Mode" : "PYQ Mode";
     document.body.classList.toggle("custom-mode", isCustomMode());
+    populateExams();
     populateTopics();
     populateYears();
     renderQuestion();
@@ -869,6 +950,7 @@
     const key = selectionKey();
     const selectedState = {
       ...defaultState(),
+      exam: state.exam,
       subject: state.subject,
       topic: state.topic,
       year: state.year,
@@ -892,7 +974,7 @@
     }, null, 2)], { type: "application/json" });
     const link = document.createElement("a");
     link.href = URL.createObjectURL(blob);
-    link.download = `only-pyqs-bpsc-${filePart(mode)}-${filePart(state.subject)}-${filePart(state.topic)}-${filePart(thirdValue)}-progress.json`;
+    link.download = `only-pyqs-bpsc-${filePart(mode)}-${filePart(state.exam)}-${filePart(state.subject)}-${filePart(state.topic)}-${filePart(thirdValue)}-progress.json`;
     link.click();
     URL.revokeObjectURL(link.href);
   }
@@ -906,6 +988,7 @@
       ...defaultState(),
       ...importedState,
       draftAnswer: null,
+      exam: importedState.exam || allExamsLabel,
       subject: importedState.subject || "All subjects",
       topic: importedState.topic || "All topics",
       year: importedState.year || "All years",
@@ -924,18 +1007,24 @@
     const importedMode = importedState.mode;
     const importedKey = imported.selectionKey || selectionKeyFromState(importedState);
     const currentKey = selectionKey();
+    const importedLegacyKey = legacySelectionKey(importedState);
+    const currentLegacyKey = legacySelectionKey(state);
     if (importedMode !== state.mode) {
       throw new Error(`This is ${importedMode === "custom" ? "Custom" : "PYQ"} Mode progress. Switch to ${importedMode === "custom" ? "Custom" : "PYQ"} Mode before uploading it.`);
     }
-    if (importedKey !== currentKey) {
+    if (importedKey !== currentKey && !(importedKey === currentLegacyKey && state.exam === allExamsLabel) && !(importedLegacyKey === currentLegacyKey && importedState.exam === allExamsLabel && state.exam === allExamsLabel)) {
       const thirdLabel = importedMode === "custom" ? "test series" : "year";
       const thirdValue = importedMode === "custom" ? importedState.testSeries : importedState.year;
-      throw new Error(`This progress file is for ${importedState.subject} / ${importedState.topic} / ${thirdValue}. Select that ${thirdLabel} before uploading it.`);
+      throw new Error(`This progress file is for ${importedState.exam || allExamsLabel} / ${importedState.subject} / ${importedState.topic} / ${thirdValue}. Select that exam and ${thirdLabel} before uploading it.`);
     }
 
     delete state.exams[currentKey];
     Object.assign(state.exams, examForSelection(importedState.exams, importedKey));
+    if (!state.exams[currentKey] && importedState.exams?.[importedLegacyKey]) {
+      state.exams[currentKey] = importedState.exams[importedLegacyKey];
+    }
 
+    state.exam = importedState.exam;
     state.subject = importedState.subject;
     state.topic = importedState.topic;
     state.year = importedState.year;
@@ -950,6 +1039,7 @@
         ...deletedIdsForSelection(importedState)
       ];
     }
+    populateExams();
     populateSubjects();
     populateTopics();
     populateYears();
@@ -996,6 +1086,7 @@
 
   function switchMode() {
     state.mode = isCustomMode() ? "pyq" : "custom";
+    state.exam = allExamsLabel;
     state.topic = "All topics";
     state.year = "All years";
     state.testSeries = "All series";
@@ -1004,6 +1095,7 @@
     state.currentIndex = 0;
     state.draftAnswer = null;
     populateSubjects();
+    populateExams();
     populateTopics();
     populateYears();
     openQuestion(0);
@@ -1038,6 +1130,18 @@
     renderCustomDropdown("subject");
   }
 
+  function handleExamFilterChange(value) {
+    state.exam = value;
+    state.reviewMode = false;
+    state.reviewIds = [];
+    state.currentIndex = 0;
+    state.draftAnswer = null;
+    populateTopics();
+    populateYears();
+    openQuestion(0);
+    renderCustomDropdown("exam");
+  }
+
   function handleTopicFilterChange(value) {
     state.topic = value;
     state.year = "All years";
@@ -1066,9 +1170,11 @@
   }
 
   window.handleSubjectFilterChange = handleSubjectFilterChange;
+  window.handleExamFilterChange = handleExamFilterChange;
   window.handleTopicFilterChange = handleTopicFilterChange;
   window.handleYearFilterChange = handleYearFilterChange;
 
+  els.examSelect.addEventListener("change", () => handleExamFilterChange(els.examSelect.value));
   els.subjectSelect.addEventListener("change", () => handleSubjectFilterChange(els.subjectSelect.value));
   els.topicSelect.addEventListener("change", () => handleTopicFilterChange(els.topicSelect.value));
   els.yearSelect.addEventListener("change", () => handleYearFilterChange(els.yearSelect.value));
@@ -1100,6 +1206,7 @@
   applyTheme(localStorage.getItem(themeKey) || "dark");
   setupCustomDropdowns();
   bindFilterPillOpeners();
+  populateExams();
   populateSubjects();
   populateTopics();
   populateYears();
