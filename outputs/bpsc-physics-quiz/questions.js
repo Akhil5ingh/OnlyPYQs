@@ -129,7 +129,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Tesla"
     ],
     "answer": "D",
-    "explanation": "The SI unit used for measuring the magnetic field is tesla, denoted by 'T'. Magnetic force is produced due to the interaction of magnetic fields, whereas the magnetic field shows the distribution of magnetic influence around a magnetic body. --- PAGE 2 --- [70th B.P.S.C Re-Exam (Pre) 2024]",
+    "explanation": "The SI unit used for measuring the magnetic field is tesla, denoted by 'T'. Magnetic force is produced due to the interaction of magnetic fields, whereas the magnetic field shows the distribution of magnetic influence around a magnetic body. --- PAGE 2 --- [70th B.P.S.C. Re-Exam (Pre) 2024]",
     "subject": "Physics"
   },
   {
@@ -905,7 +905,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "It gets light from Sun"
     ],
     "answer": "B",
-    "explanation": "The Moon's escape velocity is low, so the RMS speed of gas molecules becomes equal to or greater than it, causing them to escape into space. Hence, an atmosphere like Earth's is not found on the Moon. [70th B.P.S.C Re-Exam 2024]",
+    "explanation": "The Moon's escape velocity is low, so the RMS speed of gas molecules becomes equal to or greater than it, causing them to escape into space. Hence, an atmosphere like Earth's is not found on the Moon. [70th B.P.S.C. Re-Exam 2024]",
     "subject": "Physics"
   },
   {
@@ -1567,7 +1567,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "C",
-    "explanation": "To obtain an ideal liquid (ideal solution) by mixing liquids A and B, the enthalpy of mixing must be zero. --- [70th B.P.S.C Re-Exam (Pre) 2024]"
+    "explanation": "To obtain an ideal liquid (ideal solution) by mixing liquids A and B, the enthalpy of mixing must be zero. --- [70th B.P.S.C. Re-Exam (Pre) 2024]"
   },
   {
     "id": "chemistry-physical-and-chemical-change-solution-10",
@@ -2411,7 +2411,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Cubic Zirconia"
     ],
     "answer": "C",
-    "explanation": "Graphite is used in the production of engineered diamonds. --- [70th B.P.S.C Re-Exam 2024]"
+    "explanation": "Graphite is used in the production of engineered diamonds. --- [70th B.P.S.C. Re-Exam 2024]"
   },
   {
     "id": "chemistry-metals-minerals-ores-properties-uses-22",
@@ -2700,7 +2700,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Iron and Nickel"
     ],
     "answer": "C",
-    "explanation": "Brass is an alloy made of copper (Cu) and zinc (Zn). --- [47th B.P.S.C. (Pre) 2005 / B.P.S.C. CDPO (Pre)-2018 / 67th B.P.S.C Re-Exam (Pre) 2022]"
+    "explanation": "Brass is an alloy made of copper (Cu) and zinc (Zn). --- [47th B.P.S.C. (Pre) 2005 / B.P.S.C. CDPO (Pre)-2018 / 67th B.P.S.C. Re-Exam (Pre) 2022]"
   },
   {
     "id": "chemistry-alloys-3",
@@ -2872,7 +2872,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/ More than one of the above"
     ],
     "answer": "C",
-    "explanation": "To convert vegetable oil into vanaspati ghee, nickel (Ni) is used as a catalyst. --- [70th B.P.S.C Re-Exam 2024]"
+    "explanation": "To convert vegetable oil into vanaspati ghee, nickel (Ni) is used as a catalyst. --- [70th B.P.S.C. Re-Exam 2024]"
   },
   {
     "id": "chemistry-non-metals-carbon-and-its-various-forms-9",
@@ -3219,7 +3219,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "C",
-    "explanation": "Kevlar fibre is used for the construction of lightweight bulletproof helmets and jackets. --- [70th B.P.S.C Re-Exam 2024]"
+    "explanation": "Kevlar fibre is used for the construction of lightweight bulletproof helmets and jackets. --- [70th B.P.S.C. Re-Exam 2024]"
   },
   {
     "id": "chemistry-acid-base-and-salt-8",
@@ -3656,7 +3656,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of these"
     ],
     "answer": "D",
-    "explanation": "See the explanation of the above question. ### Explosive Substance --- [70th B.P.S.C Re-Exam 2024]"
+    "explanation": "See the explanation of the above question. ### Explosive Substance --- [70th B.P.S.C. Re-Exam 2024]"
   },
   {
     "id": "chemistry-explosive-substance-1",
@@ -6015,7 +6015,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "D",
-    "explanation": "A person's blood group is determined on the basis of genes inherited from the parents. --- [70th B.P.S.C Re-Exam (Pre) 2024]"
+    "explanation": "A person's blood group is determined on the basis of genes inherited from the parents. --- [70th B.P.S.C. Re-Exam (Pre) 2024]"
   },
   {
     "id": "biology-circulatory-system-12",
@@ -8523,7 +8523,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "1854"
     ],
     "answer": "C",
-    "explanation": "See the explanation of the above question.\nSource: 70th B.P.S.C Re-Exam 2024"
+    "explanation": "See the explanation of the above question.\nSource: 70th B.P.S.C. Re-Exam 2024"
   },
   {
     "id": "custom-history-bihar-024",
@@ -8653,7 +8653,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "C",
-    "explanation": "See the explanation of the above question.\nSource: 70th B.P.S.C Re-Exam 2024"
+    "explanation": "See the explanation of the above question.\nSource: 70th B.P.S.C. Re-Exam 2024"
   },
   {
     "id": "custom-history-bihar-033",
@@ -9235,7 +9235,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "C",
-    "explanation": "After being released from jail in 1922, Chittaranjan Das was declared the elected President of the Congress conference at Gaya. After the end of the Non-Cooperation Movement, Deshbandhu, through the council-entry programme (that is, non-cooperation from within the councils), tried to give a new direction to Indian politics. However, leaders like C. Rajagopalachari, Sardar Vallabhbhai Patel, Dr. Rajendra Prasad, S. Srinivasa Iyengar, etc., opposed the policy of entering the councils. In this session, a resolution not to enter the councils was passed; as a result, Chittaranjan Das resigned. After this, he founded the Swaraj Party from within the Congress.\nSource: 70th B.P.S.C Re-Exam (Pre) 2024"
+    "explanation": "After being released from jail in 1922, Chittaranjan Das was declared the elected President of the Congress conference at Gaya. After the end of the Non-Cooperation Movement, Deshbandhu, through the council-entry programme (that is, non-cooperation from within the councils), tried to give a new direction to Indian politics. However, leaders like C. Rajagopalachari, Sardar Vallabhbhai Patel, Dr. Rajendra Prasad, S. Srinivasa Iyengar, etc., opposed the policy of entering the councils. In this session, a resolution not to enter the councils was passed; as a result, Chittaranjan Das resigned. After this, he founded the Swaraj Party from within the Congress.\nSource: 70th B.P.S.C. Re-Exam (Pre) 2024"
   },
   {
     "id": "custom-history-bihar-073",
@@ -9365,7 +9365,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "D",
-    "explanation": "See the explanation of the above question.\nSource: 70th B.P.S.C Re-Exam (Pre) 2024"
+    "explanation": "See the explanation of the above question.\nSource: 70th B.P.S.C. Re-Exam (Pre) 2024"
   },
   {
     "id": "custom-history-bihar-082",
@@ -10790,7 +10790,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "C",
-    "explanation": "Under the Government of India Act, 1935, the Bihar Legislative Council had 29 members. Under this, the members were elected indirectly, and some were also nominated. By order of the Governor, Rai Bahadur Satish Chandra Sinha became its Chairman. Later, Rajiv Ranjan Sinha (Rajiv Ranjan Prasad) was elected as Chairman.\nSource: B.P.S.C. TRE-3 July, 2024 70th B.P.S.C Re-Exam 2024"
+    "explanation": "Under the Government of India Act, 1935, the Bihar Legislative Council had 29 members. Under this, the members were elected indirectly, and some were also nominated. By order of the Governor, Rai Bahadur Satish Chandra Sinha became its Chairman. Later, Rajiv Ranjan Sinha (Rajiv Ranjan Prasad) was elected as Chairman.\nSource: B.P.S.C. TRE-3 July, 2024 70th B.P.S.C. Re-Exam 2024"
   },
   {
     "id": "bpsc-political-bihar-005",
@@ -10804,7 +10804,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "More than one of the above"
     ],
     "answer": "C",
-    "explanation": "On the basis of the provisions of the Government of India Act, 1935, Bihar and Odisha were separated and made two provinces, and provincial autonomy was introduced. Under the provisions of this Act, bicameral legislatures were established in six provinces (Madras, Bombay, Bengal, United Provinces, Bihar and Assam). Accordingly, Bihar's unicameral legislature was converted into a bicameral legislature-the Bihar Legislative Assembly and the Bihar Legislative Council. Under this arrangement, the then existing Provincial Legislative Council was renamed as the Bihar Legislative Assembly, and the Bihar Legislative Council was constituted as the upper house.\nSource: 70th B.P.S.C Re-Exam 2024"
+    "explanation": "On the basis of the provisions of the Government of India Act, 1935, Bihar and Odisha were separated and made two provinces, and provincial autonomy was introduced. Under the provisions of this Act, bicameral legislatures were established in six provinces (Madras, Bombay, Bengal, United Provinces, Bihar and Assam). Accordingly, Bihar's unicameral legislature was converted into a bicameral legislature-the Bihar Legislative Assembly and the Bihar Legislative Council. Under this arrangement, the then existing Provincial Legislative Council was renamed as the Bihar Legislative Assembly, and the Bihar Legislative Council was constituted as the upper house.\nSource: 70th B.P.S.C. Re-Exam 2024"
   },
   {
     "id": "bpsc-political-bihar-006",
@@ -11472,7 +11472,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Agriculture Sector"
     ],
     "answer": "A",
-    "explanation": "At the time of the question, option (a) was the correct answer. According to the Bihar Economic Survey 2024-25, in the year 2023-24 (Quick), at constant prices (2011-12), the contribution of the tertiary sector (service sector) to Bihar's GSVA was 58.6 percent.\nSource: 70th B.P.S.C Re-Exam 2024"
+    "explanation": "At the time of the question, option (a) was the correct answer. According to the Bihar Economic Survey 2024-25, in the year 2023-24 (Quick), at constant prices (2011-12), the contribution of the tertiary sector (service sector) to Bihar's GSVA was 58.6 percent.\nSource: 70th B.P.S.C. Re-Exam 2024"
   },
   {
     "id": "bpsc-bihar-economics-economy-009",
@@ -12269,7 +12269,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Deleted question/No correct answer in final key"
     ],
     "answer": "E",
-    "explanation": "According to the data for the years 2022-23 and 2023-24, Bihar produced 41.39 percent and 23.51 percent respectively of India's total litchi production. During the same years, Bihar's share in mango production was 7.55 percent and 7.06 percent, and in pineapple production 18.73 percent and 6.68 percent respectively. Therefore, Bihar does not produce 71 percent of any of the given fruits. In its final answer key, the Bihar Public Service Commission treated option (c) as the correct answer, which is incorrect.\nSource: 70th B.P.S.C Re-Exam 2024"
+    "explanation": "According to the data for the years 2022-23 and 2023-24, Bihar produced 41.39 percent and 23.51 percent respectively of India's total litchi production. During the same years, Bihar's share in mango production was 7.55 percent and 7.06 percent, and in pineapple production 18.73 percent and 6.68 percent respectively. Therefore, Bihar does not produce 71 percent of any of the given fruits. In its final answer key, the Bihar Public Service Commission treated option (c) as the correct answer, which is incorrect.\nSource: 70th B.P.S.C. Re-Exam 2024"
   },
   {
     "id": "bpsc-bihar-economics-agriculture-005",
@@ -12283,7 +12283,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Chhapara"
     ],
     "answer": "C",
-    "explanation": "According to the Bihar Economic Survey 2023-24, in the year 2022-23 the highest litchi production in Bihar was recorded in Muzaffarpur (147.95 thousand tonnes). Litchi production in Siwan was 8.70 thousand tonnes. Sonpur and Chhapra are not districts of Bihar; Chhapra is the headquarters of Saran district. According to the Bihar Economic Survey 2024-25, in the year 2023-24 also the highest litchi production was recorded in Muzaffarpur (101.52 thousand tonnes)\nSource: 70th B.P.S.C Re-Exam 2024"
+    "explanation": "According to the Bihar Economic Survey 2023-24, in the year 2022-23 the highest litchi production in Bihar was recorded in Muzaffarpur (147.95 thousand tonnes). Litchi production in Siwan was 8.70 thousand tonnes. Sonpur and Chhapra are not districts of Bihar; Chhapra is the headquarters of Saran district. According to the Bihar Economic Survey 2024-25, in the year 2023-24 also the highest litchi production was recorded in Muzaffarpur (101.52 thousand tonnes)\nSource: 70th B.P.S.C. Re-Exam 2024"
   },
   {
     "id": "bpsc-bihar-economics-agriculture-006",
@@ -12355,7 +12355,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Saran"
     ],
     "answer": "A",
-    "explanation": "According to the Bihar Economic Survey 2023-24, among the given options, in the year 2022-23 maize production was highest in Muzaffarpur (156.36 thousand tonnes), followed by East Champaran (135.39 thousand tonnes), Siwan (57.37 thousand tonnes), and Saran (78.67 thousand tonnes). However, the highest maize production overall was recorded in Araria (987.26 thousand tonnes). According to the Bihar Economic Survey 2024-25, in the year 2023-24 the highest maize production was recorded in Purnia (1144.9 thousand tonnes), followed by Araria (829.8 thousand tonnes) and Katihar (622.8 thousand tonnes).\nSource: 70th B.P.S.C Re-Exam 2024"
+    "explanation": "According to the Bihar Economic Survey 2023-24, among the given options, in the year 2022-23 maize production was highest in Muzaffarpur (156.36 thousand tonnes), followed by East Champaran (135.39 thousand tonnes), Siwan (57.37 thousand tonnes), and Saran (78.67 thousand tonnes). However, the highest maize production overall was recorded in Araria (987.26 thousand tonnes). According to the Bihar Economic Survey 2024-25, in the year 2023-24 the highest maize production was recorded in Purnia (1144.9 thousand tonnes), followed by Araria (829.8 thousand tonnes) and Katihar (622.8 thousand tonnes).\nSource: 70th B.P.S.C. Re-Exam 2024"
   },
   {
     "id": "bpsc-bihar-economics-agriculture-011",
@@ -12369,7 +12369,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Patna"
     ],
     "answer": "C",
-    "explanation": "According to the Bihar Economic Survey, 2023-24, in the year 2022-23 the highest production of wheat was in Rohtas district (675.88 thousand tonnes). Wheat production in Jehanabad was 69.02 thousand tonnes, in Bhojpur 356.24 thousand tonnes, and in Patna 245.63 thousand tonnes. According to the Bihar Economic Survey, 2024-25, in the year 2023-24 the highest wheat production was in Rohtas district (716.2 thousand tonnes). Thereafter, Muzaffarpur (400.1 thousand tonnes) and Bhojpur (386.8 thousand tonnes).\nSource: 70th B.P.S.C Re-Exam 2024"
+    "explanation": "According to the Bihar Economic Survey, 2023-24, in the year 2022-23 the highest production of wheat was in Rohtas district (675.88 thousand tonnes). Wheat production in Jehanabad was 69.02 thousand tonnes, in Bhojpur 356.24 thousand tonnes, and in Patna 245.63 thousand tonnes. According to the Bihar Economic Survey, 2024-25, in the year 2023-24 the highest wheat production was in Rohtas district (716.2 thousand tonnes). Thereafter, Muzaffarpur (400.1 thousand tonnes) and Bhojpur (386.8 thousand tonnes).\nSource: 70th B.P.S.C. Re-Exam 2024"
   },
   {
     "id": "bpsc-bihar-economics-agriculture-012",
@@ -12443,7 +12443,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Madhubani"
     ],
     "answer": "D",
-    "explanation": "Among the given options, Madhubani district has the highest production of makhana in Bihar. Darbhanga, Purnia, Saharsa, Katihar, Supaul, Madhepura, Araria, and Kishanganj are other major makhana-producing districts.\nSource: 70th B.P.S.C Re-Exam 2024"
+    "explanation": "Among the given options, Madhubani district has the highest production of makhana in Bihar. Darbhanga, Purnia, Saharsa, Katihar, Supaul, Madhepura, Araria, and Kishanganj are other major makhana-producing districts.\nSource: 70th B.P.S.C. Re-Exam 2024"
   },
   {
     "id": "bpsc-bihar-economics-agriculture-017",
@@ -13731,7 +13731,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "topic": "Population and Urbanisation",
     "question": "Consider the following statements: (1) The proportion of the young population (0-19 years) in Bihar is projected to decline significantly by 2041. (2) Bihar's demographic dividend is expected to peak around 2041. (3) The elderly population (60 + years) in Bihar is ex pected to rise more sharply than in India.\n\nSelect the correct answer using the codes given below:",
     "options": [
-      "l and 2 are correct",
+      "land 2 are correct",
       "1and 3 are correct",
       "2and 3 are correct",
       "More than one of the above"
@@ -17530,7 +17530,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Ancient History",
     "section": "Ancient History of India",
     "topic": "Sixth century B.C.E. - Political condition, Greek Invasion",
-    "question": "By whom was the first r epublic of the world was established in Vaishali –",
+    "question": "By whom was the first republic of the world was established in Vaishali –",
     "options": [
       "Maurya",
       "Nanda",
@@ -17787,7 +17787,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Ancient History",
     "section": "Ancient History of India",
     "topic": "Sixth century B.C.E. - Political condition, Greek Invasion",
-    "question": "Who r ecognized Sandrokottos as Chandragupta Maurya",
+    "question": "Who recognized Sandrokottos as Chandragupta Maurya",
     "options": [
       "William Jones",
       "V. Smith",
@@ -17832,7 +17832,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Chandragupta Maurya"
     ],
     "answer": "D",
-    "explanation": "The Maurya dynasty was founded by Chandragupta Maurya. Its period was 321–184 BCE. After this, the Kushana dynasty, the Gupta dynasty, and the Vardhana dynasty ruled ancient India.\nSource: 70th B.P.S.C Re-Exam (Pre) 2024",
+    "explanation": "The Maurya dynasty was founded by Chandragupta Maurya. Its period was 321–184 BCE. After this, the Kushana dynasty, the Gupta dynasty, and the Vardhana dynasty ruled ancient India.\nSource: 70th B.P.S.C. Re-Exam (Pre) 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 17,
     "sourcePdfPage": 17,
@@ -18033,7 +18033,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "E",
-    "explanation": "Ashoka’s Dhamma (Dharma) was a moral code. Through his second and seventh pillar edicts, Ashoka conveys the message—“Apasinave bahukayane daya dane, sache sochaye madave sadhave cha.” That is, do less wrongdoing, do welfare, show compassion and charity, speak the truth, live with purity, maintain gentleness in nature, and uphold goodness. Thus, the basic message of Ashoka’s Dhamma includes peace and non- violence, respect for elders, and religious tolerance. Therefore, the correct answer is option (e).\nSource: 63rd B.P.S.C (Pre.) 2017",
+    "explanation": "Ashoka’s Dhamma (Dharma) was a moral code. Through his second and seventh pillar edicts, Ashoka conveys the message—“Apasinave bahukayane daya dane, sache sochaye madave sadhave cha.” That is, do less wrongdoing, do welfare, show compassion and charity, speak the truth, live with purity, maintain gentleness in nature, and uphold goodness. Thus, the basic message of Ashoka’s Dhamma includes peace and non-violence, respect for elders, and religious tolerance. Therefore, the correct answer is option (e).\nSource: 63rd B.P.S.C (Pre.) 2017",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 19,
     "sourcePdfPage": 19,
@@ -18244,7 +18244,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Ancient History",
     "section": "Ancient History of India",
     "topic": "Maurya Empire",
-    "question": "The m ost famous centre of learning during the Mauryan period was:",
+    "question": "The Most famous centre of learning during the Mauryan period was:",
     "options": [
       "Vaishali",
       "Nalanda",
@@ -18710,7 +18710,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above / More than one of the above"
     ],
     "answer": "B",
-    "explanation": "The author of the famous Allahabad Prashasti was Harishena. On the Ashokan pillar at Allahabad (present- day Prayagraj), Harishena presented a eulogistic account of Samudragupta, which is called the ‘Prayag Prashasti’. In the same Prashasti, Harishena described himself as Sandhivigrahika, Kumaramatya and Dandanayaka. This implies that in the Gupta period, a person could be appointed to more than one post.\nSource: B.P.S.C. (CDPO) (Pre) 2022",
+    "explanation": "The author of the famous Allahabad Prashasti was Harishena. On the Ashokan pillar at Allahabad (present-day Prayagraj), Harishena presented a eulogistic account of Samudragupta, which is called the ‘Prayag Prashasti’. In the same Prashasti, Harishena described himself as Sandhivigrahika, Kumaramatya and Dandanayaka. This implies that in the Gupta period, a person could be appointed to more than one post.\nSource: B.P.S.C. (CDPO) (Pre) 2022",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 25,
     "sourcePdfPage": 25,
@@ -18794,7 +18794,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Ancient History",
     "section": "Ancient History of India",
     "topic": "Gupta and Post-Gupta Period",
-    "question": "Which Chinese traveller visited India during Harsha- vardhana’s rule",
+    "question": "Which Chinese traveller visited India during Harshavardhana’s rule",
     "options": [
       "Fa-Hien",
       "Hiuen-Tsang",
@@ -18838,7 +18838,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Kanchi"
     ],
     "answer": "B",
-    "explanation": "The Chinese traveller Hiuen Tsang came to India during the time of Harshavardhana (606–647 CE). According to him, Mathura was famous for cotton textiles at that time, whereas Varanasi was famous for silk textiles. He also states that the main reason for the prosperity of Thaneshwar was trade. Bana described the city of Thaneshwar as a “land of wish- fulfilment” for guests and a “red land” for merchants. Most of its inhabitants were traders who dealt in various goods. Ujjayini and Kannauj were also very prosperous economically during this period.\nSource: 41st B.P.S.C. (Pre) 1996",
+    "explanation": "The Chinese traveller Hiuen Tsang came to India during the time of Harshavardhana (606–647 CE). According to him, Mathura was famous for cotton textiles at that time, whereas Varanasi was famous for silk textiles. He also states that the main reason for the prosperity of Thaneshwar was trade. Bana described the city of Thaneshwar as a “land of wish-fulfilment” for guests and a “red land” for merchants. Most of its inhabitants were traders who dealt in various goods. Ujjayini and Kannauj were also very prosperous economically during this period.\nSource: 41st B.P.S.C. (Pre) 1996",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 26,
     "sourcePdfPage": 26,
@@ -19191,7 +19191,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "A",
-    "explanation": "The most notable feature of Chola rule is seen in the functioning of autonomous village institutions. In fact, during this period, villages were complete units of local self- government, and village administration was carried out by the villagers themselves.\nSource: 63rd B.P.S.C (Pre.) 2017",
+    "explanation": "The most notable feature of Chola rule is seen in the functioning of autonomous village institutions. In fact, during this period, villages were complete units of local self-government, and village administration was carried out by the villagers themselves.\nSource: 63rd B.P.S.C (Pre.) 2017",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 29,
     "sourcePdfPage": 29,
@@ -19201,7 +19201,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Ancient History",
     "section": "Ancient History of India",
     "topic": "South India (Chola, Chalukya, Pallava and Sangam Period)",
-    "question": "Which medieval Indian empir e was famous for elaborate local self-government",
+    "question": "Which medieval Indian empire was famous for elaborate local self-government",
     "options": [
       "Chalukya",
       "Chola",
@@ -19776,7 +19776,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of them"
     ],
     "answer": "B",
-    "explanation": "Nitisara, composed by Kamandaka, is an important collection of 1,192 verses (shlokas). It is arranged into 34 sections (prakaranas) and 20 chapters or cantos (sargas). It includes the traditional branches of learning: the state, its constituents and protection, the Mandala theory of inter- state relations, various kinds of policies, war and peace, diplomacy and wisdom, military organization, and the faults that should be avoided. The appendix lists, for comparison, the contents of Kautilya’s Arthashastra and Kamandaka’s Nitisara.\nSource: 69th B.P.S.C. (Pre) 2023",
+    "explanation": "Nitisara, composed by Kamandaka, is an important collection of 1,192 verses (shlokas). It is arranged into 34 sections (prakaranas) and 20 chapters or cantos (sargas). It includes the traditional branches of learning: the state, its constituents and protection, the Mandala theory of inter-state relations, various kinds of policies, war and peace, diplomacy and wisdom, military organization, and the faults that should be avoided. The appendix lists, for comparison, the contents of Kautilya’s Arthashastra and Kamandaka’s Nitisara.\nSource: 69th B.P.S.C. (Pre) 2023",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 33,
     "sourcePdfPage": 33,
@@ -20109,7 +20109,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Iltutmish"
     ],
     "answer": "C",
-    "explanation": "See the explanation of the above question.\nSource: 70th B.P.S.C Re-Exam 2024",
+    "explanation": "See the explanation of the above question.\nSource: 70th B.P.S.C. Re-Exam 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 36,
     "sourcePdfPage": 36,
@@ -20302,7 +20302,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Medieval History",
     "section": "Medieval History of India",
     "topic": "Khalji Dynasty, Tughluq Dynasty, Lodi Dynasty, Vijaynagara Empire",
-    "question": "During the r egime of which Sultan was the Khalisa land developed on a large scale",
+    "question": "During the regime of which Sultan was the Khalisa land developed on a large scale",
     "options": [
       "Ghiyasuddin Balban",
       "Alauddin Khilji",
@@ -20567,7 +20567,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Sikandar Lodi"
     ],
     "answer": "D",
-    "explanation": "In 1504 AD, Sikandar Lodi founded a new city named Agra on the banks of the Yamuna River with the objective of keeping the rulers of Rajasthan under control, and he made it his capital. He made efforts to promote agriculture and trade. A standard measure called “Gaz-e-Sikandari” was introduced during his time. He arranged free food for the poor. During his reign, a list of capable persons was prepared and presented before him every six months. He was educated and scholarly. On his orders, an Ayurvedic text was translated into Persian and was named “Farhang-e-Sikandari.” During his period, an excellent treatise on vocal music, “Lazzat-e- Sikandarshahi,” was composed. Sikandar Lodi was very fond of listening to the shehnai. He wrote poems under the pen- name “Gulrukhi.” Vijayanagara Empire\nSource: 44th B.P.S.C. (Pre) 2000",
+    "explanation": "In 1504 AD, Sikandar Lodi founded a new city named Agra on the banks of the Yamuna River with the objective of keeping the rulers of Rajasthan under control, and he made it his capital. He made efforts to promote agriculture and trade. A standard measure called “Gaz-e-Sikandari” was introduced during his time. He arranged free food for the poor. During his reign, a list of capable persons was prepared and presented before him every six months. He was educated and scholarly. On his orders, an Ayurvedic text was translated into Persian and was named “Farhang-e-Sikandari.” During his period, an excellent treatise on vocal music, “Lazzat-e- Sikandarshahi,” was composed. Sikandar Lodi was very fond of listening to the shehnai. He wrote poems under the pen-name “Gulrukhi.” Vijayanagara Empire\nSource: 44th B.P.S.C. (Pre) 2000",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 40,
     "sourcePdfPage": 40,
@@ -20844,7 +20844,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/ More than one of the above"
     ],
     "answer": "A",
-    "explanation": "The construction of the Qutub Minar was started by Qutb- ud-din Aibak, and it was completed during the reign of Sultan Iltutmish. It was named ‘Qutub Minar’ after the famous Sufi saint Khwaja Qutb-ud-din Bakhtiyar Kaki. It is a circular, five-storeyed structure. During the reign of Firoz Shah Tughlaq, the fourth storey suffered considerable damage; therefore, Firoz not only reconstructed the fourth storey but also got the fifth storey built. Thus, instead of four storeys, the Qutub Minar came to have five storeys, which still exist today. Sultan Ulugh Khan and Razia Sultan had no contribution to the construction of the Qutub Minar.\nSource: 67th B.P.S.C. (Pre) 2022",
+    "explanation": "The construction of the Qutub Minar was started by Qutb-ud-din Aibak, and it was completed during the reign of Sultan Iltutmish. It was named ‘Qutub Minar’ after the famous Sufi saint Khwaja Qutb-ud-din Bakhtiyar Kaki. It is a circular, five-storeyed structure. During the reign of Firoz Shah Tughlaq, the fourth storey suffered considerable damage; therefore, Firoz not only reconstructed the fourth storey but also got the fifth storey built. Thus, instead of four storeys, the Qutub Minar came to have five storeys, which still exist today. Sultan Ulugh Khan and Razia Sultan had no contribution to the construction of the Qutub Minar.\nSource: 67th B.P.S.C. (Pre) 2022",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 42,
     "sourcePdfPage": 42,
@@ -20972,7 +20972,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Isami"
     ],
     "answer": "A",
-    "explanation": "‘Tarikh-i-Firoz Shahi’ is the title of two separate Persian works written by Shams-e-Siraj Afif and Ziauddin Barani, which have the same title. In the given options, option (a) is the correct answer.\nSource: 70th B.P.S.C Re-Exam 2024",
+    "explanation": "‘Tarikh-i-Firoz Shahi’ is the title of two separate Persian works written by Shams-e-Siraj Afif and Ziauddin Barani, which have the same title. In the given options, option (a) is the correct answer.\nSource: 70th B.P.S.C. Re-Exam 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 43,
     "sourcePdfPage": 43,
@@ -21065,7 +21065,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Kubrawiya"
     ],
     "answer": "B",
-    "explanation": "The Firdousia (Firdausi) silsila was established in Bihar. The most prominent Sufi of this silsila in India was Shaikh Sharfuddin Yahya Maneri. Shaikh Maneri was the leading propagator of this silsila in Bihar.\nSource: 70th B.P.S.C Re-Exam (Pre) 2024",
+    "explanation": "The Firdousia (Firdausi) silsila was established in Bihar. The most prominent Sufi of this silsila in India was Shaikh Sharfuddin Yahya Maneri. Shaikh Maneri was the leading propagator of this silsila in Bihar.\nSource: 70th B.P.S.C. Re-Exam (Pre) 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 44,
     "sourcePdfPage": 44,
@@ -21432,7 +21432,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Shah Jahan"
     ],
     "answer": "C",
-    "explanation": "The tomb of Itimad-ud-Daulah was built by Nur Jahan between 1622-28 A.D., after the death of her father. It is a highly ornate building situated on the bank of the Yamuna River in Agra. This quadrangular tomb is the first Mughal- period tomb in which marble was used on a large scale, and for decoration, the pietra dura technique was used—probably for the first time in Islamic buildings.\nSource: 48th to 52nd B.P.S.C. (Pre) 2008",
+    "explanation": "The tomb of Itimad-ud-Daulah was built by Nur Jahan between 1622-28 A.D., after the death of her father. It is a highly ornate building situated on the bank of the Yamuna River in Agra. This quadrangular tomb is the first Mughal-period tomb in which marble was used on a large scale, and for decoration, the pietra dura technique was used—probably for the first time in Islamic buildings.\nSource: 48th to 52nd B.P.S.C. (Pre) 2008",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 48,
     "sourcePdfPage": 48,
@@ -21444,7 +21444,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "topic": "Mughal Dynasty: Babur, Humayun and Sher Shah, Akbar, Jahangir, Shah Jahan, Aurangzeb",
     "question": "Pachchikari/Parchinkari (Pietra dura) is related to which of the following",
     "options": [
-      "Decorating the walls with floral designs made of semi- precious stones",
+      "Decorating the walls with floral designs made of semi-precious stones",
       "Building sloping walls in Minarets",
       "Use of arches in construction",
       "Use of marble in buildings",
@@ -21523,7 +21523,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Jizya"
     ],
     "answer": "B",
-    "explanation": "Aurangzeb was, above all, a zealous Sunni Muslim. His religious policy was not influenced by any idea of worldly gain. Having obtained the throne as a supporter of Sunni orthodoxy against the liberal Dara, he tried to enforce the law of the Quran strictly. According to this law, every devout Muslim should “strive in the path of Allah,” or in other words, should continue jihad against non-Muslim countries (Dar- ul-Harb) until they are transformed into the domain of Islam (Dar-ul-Islam).\nSource: 43rd B.P.S.C. (Pre) 1999",
+    "explanation": "Aurangzeb was, above all, a zealous Sunni Muslim. His religious policy was not influenced by any idea of worldly gain. Having obtained the throne as a supporter of Sunni orthodoxy against the liberal Dara, he tried to enforce the law of the Quran strictly. According to this law, every devout Muslim should “strive in the path of Allah,” or in other words, should continue jihad against non-Muslim countries (Dar-ul-Harb) until they are transformed into the domain of Islam (Dar-ul-Islam).\nSource: 43rd B.P.S.C. (Pre) 1999",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 48,
     "sourcePdfPage": 48,
@@ -21670,7 +21670,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "B",
-    "explanation": "Humayun had a painting workshop (Nigar-khana / Tasvir- khana) set up, which was connected to his library. Akbar established painting studios—at Agra from 1558 to 1572 AD, at Fatehpur Sikri from 1572 to 1585 AD, at Lahore from 1585 to 1601 Ad, and again at Agra from 1603 to 1605 AD. Notably, the Bihar Public Service Commission considered option (b) as the answer to this question in its official answer sheet.\nSource: 66th B.P.S.C. (Pre) 2020",
+    "explanation": "Humayun had a painting workshop (Nigar-khana / Tasvir-khana) set up, which was connected to his library. Akbar established painting studios—at Agra from 1558 to 1572 AD, at Fatehpur Sikri from 1572 to 1585 AD, at Lahore from 1585 to 1601 Ad, and again at Agra from 1603 to 1605 AD. Notably, the Bihar Public Service Commission considered option (b) as the answer to this question in its official answer sheet.\nSource: 66th B.P.S.C. (Pre) 2020",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 50,
     "sourcePdfPage": 50,
@@ -21781,7 +21781,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Jahangir"
     ],
     "answer": "C",
-    "explanation": "Babur’s daughter Gulbadan Begum composed Humayun- nama, which is in the Persian language. Emperor Akbar ordered that anyone who remembered anything about the reigns of Babur and Humayun should write it down and present it to him, so that material could be collected for the composition of Akbarnama. Therefore, many people began writing history, and Gulbadan’s Humayun-nama was also written according to this order.\nSource: 42nd B.P.S.C. (Pre) 1997-98",
+    "explanation": "Babur’s daughter Gulbadan Begum composed Humayun-nama, which is in the Persian language. Emperor Akbar ordered that anyone who remembered anything about the reigns of Babur and Humayun should write it down and present it to him, so that material could be collected for the composition of Akbarnama. Therefore, many people began writing history, and Gulbadan’s Humayun-nama was also written according to this order.\nSource: 42nd B.P.S.C. (Pre) 1997-98",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 51,
     "sourcePdfPage": 51,
@@ -22458,7 +22458,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/ More than one of the above"
     ],
     "answer": "C",
-    "explanation": "The Punjab Land Alienation Act was passed in 1900, which largely restricted the transfer of cultivators’ land to non- cultivators.\nSource: 63rd B.P.S.C. (Pre.) 2017",
+    "explanation": "The Punjab Land Alienation Act was passed in 1900, which largely restricted the transfer of cultivators’ land to non-cultivators.\nSource: 63rd B.P.S.C. (Pre.) 2017",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 58,
     "sourcePdfPage": 58,
@@ -23049,7 +23049,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "B",
-    "explanation": "See the explanation of the above question.\nSource: 70th B.P.S.C Re-Exam (Pre) 2024",
+    "explanation": "See the explanation of the above question.\nSource: 70th B.P.S.C. Re-Exam (Pre) 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 63,
     "sourcePdfPage": 63,
@@ -23125,7 +23125,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "C",
-    "explanation": "In 1822, Holt Mackenzie prepared a new method of land- revenue administration, the Mahalwari system, in the Bengal Presidency of the North Western Province (most of this area lies in present-day Uttar Pradesh). In this system, nearly 30% of British India’s land area was included, along with the Central Provinces and Punjab. The Mahalwari system contained elements of both the Zamindari and Ryotwari systems. In the asked question, the word “Bengal” has been used, which is incorrect; instead, the term “Bengal Presidency” is more appropriate. Therefore, option (c) is correct. The Bihar Public Service Commission also considered option (c) as correct in both its original and revised answer keys.\nSource: 68th B.P.S.C. (Pre) 2023",
+    "explanation": "In 1822, Holt Mackenzie prepared a new method of land-revenue administration, the Mahalwari system, in the Bengal Presidency of the North Western Province (most of this area lies in present-day Uttar Pradesh). In this system, nearly 30% of British India’s land area was included, along with the Central Provinces and Punjab. The Mahalwari system contained elements of both the Zamindari and Ryotwari systems. In the asked question, the word “Bengal” has been used, which is incorrect; instead, the term “Bengal Presidency” is more appropriate. Therefore, option (c) is correct. The Bihar Public Service Commission also considered option (c) as correct in both its original and revised answer keys.\nSource: 68th B.P.S.C. (Pre) 2023",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 63,
     "sourcePdfPage": 63,
@@ -24437,7 +24437,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Lord Minto"
     ],
     "answer": "A",
-    "explanation": "Lord Ripon repealed the Vernacular Press Act in 1882 and gave Indian-language newspapers the same freedom as English-language newspapers. It is noteworthy that the Vernacular Press Act was passed in 1878 during Lord Lytton’s tenure (1876–1880). This Act was called the “Gagging Act.” Its most objectionable feature was that it discriminated between newspapers in Indian languages and those in English, and it did not give the offender the right to appeal. Under this Act, a district magistrate, or the Police Commissioner of a presidency town—within whose local jurisdiction a newspaper was printed and published—had the power to make any Indian-language newspaper sign a bond (Bond) stating that it would not publish any anti- government material. The security deposit of printing presses that opposed the law could be cancelled. Under this Act, cases were registered against Som Prakash, Bharat Mihir, Dhaka Prakash, Sahchar, and many other newspapers.\nSource: 39th B.P.S.C. (Pre) 1994",
+    "explanation": "Lord Ripon repealed the Vernacular Press Act in 1882 and gave Indian-language newspapers the same freedom as English-language newspapers. It is noteworthy that the Vernacular Press Act was passed in 1878 during Lord Lytton’s tenure (1876–1880). This Act was called the “Gagging Act.” Its most objectionable feature was that it discriminated between newspapers in Indian languages and those in English, and it did not give the offender the right to appeal. Under this Act, a district magistrate, or the Police Commissioner of a presidency town—within whose local jurisdiction a newspaper was printed and published—had the power to make any Indian-language newspaper sign a bond (Bond) stating that it would not publish any anti-government material. The security deposit of printing presses that opposed the law could be cancelled. Under this Act, cases were registered against Som Prakash, Bharat Mihir, Dhaka Prakash, Sahchar, and many other newspapers.\nSource: 39th B.P.S.C. (Pre) 1994",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 75,
     "sourcePdfPage": 75,
@@ -25026,7 +25026,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "B",
-    "explanation": "In 1873, the Satyashodhak Samaj was founded by Jyotiba Phule. He led a powerful non-Brahmin movement. Through his book ‘Gulamgiri’ (1873) and his organisation ‘Satyashodhak Samaj’, he stressed the need to protect the lower castes from hypocritical Brahmins and their self- serving religious texts.\nSource: 40th B.P.S.C. (Pre) 1995",
+    "explanation": "In 1873, the Satyashodhak Samaj was founded by Jyotiba Phule. He led a powerful non-Brahmin movement. Through his book ‘Gulamgiri’ (1873) and his organisation ‘Satyashodhak Samaj’, he stressed the need to protect the lower castes from hypocritical Brahmins and their self-serving religious texts.\nSource: 40th B.P.S.C. (Pre) 1995",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 80,
     "sourcePdfPage": 80,
@@ -25839,7 +25839,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "A",
-    "explanation": "In August 1917, the Secretary of State for India, Edwin Montagu, made a historic statement in the British Parliament, known as the Montagu Declaration (August Declaration). In this declaration, it was proposed to increase the participation of Indians in administration and in the development of self- governing institutions in India. To work out these reforms, Montagu, along with the then Viceroy Lord Chelmsford, brought out a detailed report titled “Constitutional Reforms in India”, which is called the Montford Report or the Montagu–Chelmsford Report. This report was published in 1918. Regarding this report, differences between the liberal and extremist groups within the Congress became clearly visible. As a result, the liberals who supported the Montford Report separated from the Congress in 1918 and, under the leadership of Surendranath Banerjee, founded a new party in 1919 named the “Indian National Liberal Federation”.\nSource: 68th B.P.S.C. (Pre) 2022",
+    "explanation": "In August 1917, the Secretary of State for India, Edwin Montagu, made a historic statement in the British Parliament, known as the Montagu Declaration (August Declaration). In this declaration, it was proposed to increase the participation of Indians in administration and in the development of self-governing institutions in India. To work out these reforms, Montagu, along with the then Viceroy Lord Chelmsford, brought out a detailed report titled “Constitutional Reforms in India”, which is called the Montford Report or the Montagu–Chelmsford Report. This report was published in 1918. Regarding this report, differences between the liberal and extremist groups within the Congress became clearly visible. As a result, the liberals who supported the Montford Report separated from the Congress in 1918 and, under the leadership of Surendranath Banerjee, founded a new party in 1919 named the “Indian National Liberal Federation”.\nSource: 68th B.P.S.C. (Pre) 2022",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 87,
     "sourcePdfPage": 87,
@@ -27315,7 +27315,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Nawab Salimullah Khan"
     ],
     "answer": "D",
-    "explanation": "In October 1906, under the leadership of Aga Khan, the Simla Deputation of Muslims proposed the idea of forming a central Muslim organization to protect Muslim interests. In line with this idea, during the All India Mohammedan Educational Conference held at Dhaka in December 1906, Nawab Salimullah Khan of Dhaka the President of the reception committee of the conference and the convenor of political meetings got a resolution passed for the formation of the All India Muslim League. A 60-member provisional committee was selected, and Mohsin-ul-Mulk and Waqar- ul-Mulk were appointed jointly as Secretaries of the organization. The headquarters of the Muslim League was set up at Lucknow, and Aga Khan was made its first President. In the options, if these three names are present (or if any two of them are present), then the order of preference for selecting the “founder” will be as follows— 1.Salimullah Khan 2. Aga Khan 3. Mohsin-ul-Mulk. Since the first two names are given in the present question, Salimullah Khan will be selected as the founder by giving him first preference.\nSource: 41st B.P.S.C. (Pre) 1996",
+    "explanation": "In October 1906, under the leadership of Aga Khan, the Simla Deputation of Muslims proposed the idea of forming a central Muslim organization to protect Muslim interests. In line with this idea, during the All India Mohammedan Educational Conference held at Dhaka in December 1906, Nawab Salimullah Khan of Dhaka the President of the reception committee of the conference and the convenor of political meetings got a resolution passed for the formation of the All India Muslim League. A 60-member provisional committee was selected, and Mohsin-ul-Mulk and Waqar-ul-Mulk were appointed jointly as Secretaries of the organization. The headquarters of the Muslim League was set up at Lucknow, and Aga Khan was made its first President. In the options, if these three names are present (or if any two of them are present), then the order of preference for selecting the “founder” will be as follows— 1.Salimullah Khan 2. Aga Khan 3. Mohsin-ul-Mulk. Since the first two names are given in the present question, Salimullah Khan will be selected as the founder by giving him first preference.\nSource: 41st B.P.S.C. (Pre) 1996",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 98,
     "sourcePdfPage": 98,
@@ -27925,7 +27925,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Mahatma Gandhi"
     ],
     "answer": "D",
-    "explanation": "See the explanation of the above question.\nSource: 70th B.P.S.C Re-Exam 2024",
+    "explanation": "See the explanation of the above question.\nSource: 70th B.P.S.C. Re-Exam 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 102,
     "sourcePdfPage": 102,
@@ -28443,7 +28443,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "More than one of the above"
     ],
     "answer": "A",
-    "explanation": "See the explanation of the above question.\nSource: 70th B.P.S.C Re-Exam 2024",
+    "explanation": "See the explanation of the above question.\nSource: 70th B.P.S.C. Re-Exam 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 106,
     "sourcePdfPage": 106,
@@ -28588,7 +28588,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "C",
-    "explanation": "The Rowlatt Act was passed in March, 1919, but its seeds were sown in 1915, when, during the First World War, the repressive Defence of India Act was enforced to curb anti- colonial activities. Hence, option (c) is correct.\nSource: B.P.S.C. TRE-3 July, 2024",
+    "explanation": "The Rowlatt Act was passed in March, 1919, but its seeds were sown in 1915, when, during the First World War, the repressive Defence of India Act was enforced to curb anti-colonial activities. Hence, option (c) is correct.\nSource: B.P.S.C. TRE-3 July, 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 107,
     "sourcePdfPage": 107,
@@ -28781,7 +28781,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Modern History",
     "section": "Modern History of India",
     "topic": "Non-Cooperation Movement, Formation of Swaraj Party (1923)",
-    "question": "Where did the first instance of organized non- cooperation occur in the history of Indian farmers",
+    "question": "Where did the first instance of organized non-cooperation occur in the history of Indian farmers",
     "options": [
       "Bihar and Bengal",
       "Madras Presidency",
@@ -28937,7 +28937,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "A",
-    "explanation": "The Non-Cooperation Movement was formally launched on 1 August 1920. In it, thousands of students left government- controlled schools, headmasters and teachers submitted resignation letters, and lawyers gave up their legal practice. It is noteworthy that people from both urban and rural areas participated in this movement, and it was the largest mass movement of the freedom struggle up to that time. In the council elections held then, the Justice Party of Madras participated and won 63 seats.\nSource: 68th B.P.S.C. (Pre) 2023",
+    "explanation": "The Non-Cooperation Movement was formally launched on 1 August 1920. In it, thousands of students left government-controlled schools, headmasters and teachers submitted resignation letters, and lawyers gave up their legal practice. It is noteworthy that people from both urban and rural areas participated in this movement, and it was the largest mass movement of the freedom struggle up to that time. In the council elections held then, the Justice Party of Madras participated and won 63 seats.\nSource: 68th B.P.S.C. (Pre) 2023",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 110,
     "sourcePdfPage": 110,
@@ -30081,7 +30081,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Md. Ali Jinnah"
     ],
     "answer": "D",
-    "explanation": "On 22–24 March, 1940, the Muslim League session was held at Lahore. It was presided over by Muhammad Ali Jinnah. In this session, a resolution was passed demanding ‘independent states’ for the Muslims of the north-western and eastern regions; this is known as the ‘Lahore Resolution’. Later, this ‘Lahore Resolution’ came to be known as the ‘Pakistan Resolution’. However, it is noteworthy that this resolution mentioned neither partition nor the word ‘Pakistan’. In the Lahore Resolution, it was stated that separate independent states should be formed by grouping together the Muslim- majority regions of north-western and eastern India—not a single independent nation. Some people at that time interpreted it as a demand for two independent countries (India and Pakistan). However, the Lahore Resolution (Pakistan Resolution) later paved the way for the creation of Pakistan.\nSource: 38th B.P.S.C. (Pre) 1992",
+    "explanation": "On 22–24 March, 1940, the Muslim League session was held at Lahore. It was presided over by Muhammad Ali Jinnah. In this session, a resolution was passed demanding ‘independent states’ for the Muslims of the north-western and eastern regions; this is known as the ‘Lahore Resolution’. Later, this ‘Lahore Resolution’ came to be known as the ‘Pakistan Resolution’. However, it is noteworthy that this resolution mentioned neither partition nor the word ‘Pakistan’. In the Lahore Resolution, it was stated that separate independent states should be formed by grouping together the Muslim-majority regions of north-western and eastern India—not a single independent nation. Some people at that time interpreted it as a demand for two independent countries (India and Pakistan). However, the Lahore Resolution (Pakistan Resolution) later paved the way for the creation of Pakistan.\nSource: 38th B.P.S.C. (Pre) 1992",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 120,
     "sourcePdfPage": 120,
@@ -30591,7 +30591,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "question": "Which of the following statements about Subhas\nChandra Bose are correct\n1. He was elected President of the Indian National\nCongress at Tripuri session of 1938 A.D.\n2. He escaped from home internment in January 1941\nA.D.\n3. On October 21st 1943 A.D. he constituted the\nProvincial Governmert of India in Singapore.",
     "options": [
       "Only 2 and 3",
-      "Only l and 2",
+      "Only land 2",
       "Only 1 and 3",
       "1,2 and 3"
     ],
@@ -32387,7 +32387,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "C",
-    "explanation": "The history of libraries began with the earliest efforts to systematically organize collections of documents. The history of the National Library began with the formation of the Calcutta Public Library on 21 March 1836. It was a non- governmental institution run on a proprietary basis.\nSource: March 1838 March 1837 March 1836 BPSC (TRE-3) July, 2024",
+    "explanation": "The history of libraries began with the earliest efforts to systematically organize collections of documents. The history of the National Library began with the formation of the Calcutta Public Library on 21 March 1836. It was a non-governmental institution run on a proprietary basis.\nSource: March 1838 March 1837 March 1836 BPSC (TRE-3) July, 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 139,
     "sourcePdfPage": 139,
@@ -32424,7 +32424,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "C",
-    "explanation": "Panchsheel, i.e., the five principles of peaceful co-existence, was formally signed on 29 April 1954 to increase trade and cultural contacts and to provide facilities for pilgrimage and travel. However, this agreement failed to resolve boundary- related issues, and India and China fought a war in 1962.\nSource: BPSC (TRE-3) July, 2024",
+    "explanation": "Panchsheel, i.e., the five principles of peaceful co-existence, was formally signed on 29 April 1954 to increase trade and cultural contacts and to provide facilities for pilgrimage and travel. However, this agreement failed to resolve boundary-related issues, and India and China fought a war in 1962.\nSource: BPSC (TRE-3) July, 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 139,
     "sourcePdfPage": 139,
@@ -32443,7 +32443,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "C",
-    "explanation": "The Archaeological Survey of India (ASI) is an Indian government agency responsible for archaeological research and for the conservation and preservation of cultural- historical monuments in the country. Alexander Cunningham played an important role in its establishment, and he became its first Director-General.\nSource: B.P.S.C. TRE-3 July, 2024",
+    "explanation": "The Archaeological Survey of India (ASI) is an Indian government agency responsible for archaeological research and for the conservation and preservation of cultural-historical monuments in the country. Alexander Cunningham played an important role in its establishment, and he became its first Director-General.\nSource: B.P.S.C. TRE-3 July, 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 139,
     "sourcePdfPage": 139,
@@ -33399,7 +33399,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Rabindranath Tagore"
     ],
     "answer": "A",
-    "explanation": "“Bharat Mata” is a painting painted in 1905 by the famous Indian painter Abanindranath Tagore (nephew of Nobel Prize- winning Rabindranath Tagore).\nSource: B.P.S.C. (CDPO) (Pre) 2005",
+    "explanation": "“Bharat Mata” is a painting painted in 1905 by the famous Indian painter Abanindranath Tagore (nephew of Nobel Prize-winning Rabindranath Tagore).\nSource: B.P.S.C. (CDPO) (Pre) 2005",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 147,
     "sourcePdfPage": 147,
@@ -33847,7 +33847,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Important Committee Of Constituent Assembly, Source of Constitution",
-    "question": "Where did the inspiration for ' l iberty, Equality and Fraternity' come from",
+    "question": "Where did the inspiration for ' liberty, Equality and Fraternity' come from",
     "options": [
       "American Revolution",
       "French Revolution",
@@ -33902,7 +33902,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Important Committee Of Constituent Assembly, Source of Constitution",
-    "question": "Part I v of the Indian Constitution describes the Directive Principles of State Policy. This aspect of the Indian Constitution is inspired and influenced by the constitution of which country in the world'",
+    "question": "Part IV of the Indian Constitution describes the Directive Principles of State Policy. This aspect of the Indian Constitution is inspired and influenced by the constitution of which country in the world'",
     "options": [
       "Canada",
       "Australia",
@@ -33920,7 +33920,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Important Committee Of Constituent Assembly, Source of Constitution",
-    "question": "Match l ist I with l ist II and select the answer using\nthe codes given below:\nl ist-I l ist-II\n(Items of the Constitution) (Countries from which\ntaken)\nA. Directive Principles of 1. Australia\nState Policy\nB. Fundamental Rights 2. Canada\nC. Concurrent l ist of 3. Ireland\nrelations between the\nUnion and the States\nD. India is a Union of States 4. United States of\nin which the Center America\nhas more Power\nCode:\nA B C D",
+    "question": "Match List I with List II and select the answer using\nthe codes given below:\nList-I List-II\n(Items of the Constitution) (Countries from which\ntaken)\nA. Directive Principles of 1. Australia\nState Policy\nB. Fundamental Rights 2. Canada\nC. Concurrent List of 3. Ireland\nrelations between the\nUnion and the States\nD. India is a Union of States 4. United States of\nin which the Center America\nhas more Power\nCode:\nA B C D",
     "options": [
       "4 3 1 2",
       "3 4 2 1",
@@ -34028,7 +34028,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Important Committee Of Constituent Assembly, Source of Constitution",
-    "question": "Which Article of the Constitution gives precedence to Constitutional provisions over the laws made by the Union Parliament/State l egislatures",
+    "question": "Which Article of the Constitution gives precedence to Constitutional provisions over the laws made by the Union Parliament/State legislatures",
     "options": [
       "13",
       "32",
@@ -34084,7 +34084,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Parts of Indian Constitution and Articles, Schedules",
-    "question": "Match the following:\nI. Union l ist\nA. 97 entries\nII. State l ist\nB. 47 entries\nIII. Concurrent list\nC. 66 entries\nCode :\nI II III",
+    "question": "Match the following:\nI. Union List\nA. 97 entries\nII. State List\nB. 47 entries\nIII. Concurrent list\nC. 66 entries\nCode :\nI II III",
     "options": [
       "A B C",
       "A C B",
@@ -34121,7 +34121,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Parts of Indian Constitution and Articles, Schedules",
-    "question": "l and Reform comes under the subjects of ______.",
+    "question": "land Reform comes under the subjects of ______.",
     "options": [
       "Union list",
       "Concurrent list",
@@ -34175,7 +34175,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Parts of Indian Constitution and Articles, Schedules",
-    "question": "Which of the following Subject lies in the Concurrent l ist",
+    "question": "Which of the following Subject lies in the Concurrent List",
     "options": [
       "Agriculture",
       "Education",
@@ -34311,7 +34311,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Tenth Schedule"
     ],
     "answer": "D",
-    "explanation": "In the Indian Constitution, by the 52 nd Constitutional Amendment (1985), provisions relating to disqualification on the ground of defection were inserted under the Tenth Schedule. It contains provisions regarding defection by a whole group, split within a group, and voting contrary to the direction of an authorised person of the party. Through this, for the first time in India, political parties were given constitutional recognition.\nSource: 70th B.P.S.C Re-Exam (Pre) 2024",
+    "explanation": "In the Indian Constitution, by the 52 nd Constitutional Amendment (1985), provisions relating to disqualification on the ground of defection were inserted under the Tenth Schedule. It contains provisions regarding defection by a whole group, split within a group, and voting contrary to the direction of an authorised person of the party. Through this, for the first time in India, political parties were given constitutional recognition.\nSource: 70th B.P.S.C. Re-Exam (Pre) 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 156,
     "sourcePdfPage": 156,
@@ -34365,7 +34365,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Sovereign, Socialist, Secular, Democratic, Republic"
     ],
     "answer": "D",
-    "explanation": "The words given in the question are mentioned in the Preamble of the Indian Constitution. They describe the nature of the Indian polity. The words Socialist and Secular (i.e., religion-neutral) were not present in the original Constitution; they were added by the 42 nd Amendment. After being added, the fixed order of these words in the Preamble is—Sovereign, Socialist, Secular (religion- neutral), Democratic, Republic. It is important to remember that the words mentioned in the Constitution are—Sovereign, Socialist, Secular, Democratic Republic.\nSource: 40th B.P.S.C. (Pre) 1995",
+    "explanation": "The words given in the question are mentioned in the Preamble of the Indian Constitution. They describe the nature of the Indian polity. The words Socialist and Secular (i.e., religion-neutral) were not present in the original Constitution; they were added by the 42 nd Amendment. After being added, the fixed order of these words in the Preamble is—Sovereign, Socialist, Secular (religion-neutral), Democratic, Republic. It is important to remember that the words mentioned in the Constitution are—Sovereign, Socialist, Secular, Democratic Republic.\nSource: 40th B.P.S.C. (Pre) 1995",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 157,
     "sourcePdfPage": 157,
@@ -34632,7 +34632,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Preamble, The Governance System, State and Union Territories",
-    "question": "What is meant by 'Rule of l aw' or 'Supermacy of law'",
+    "question": "What is meant by 'Rule of law' or 'Supermacy of law'",
     "options": [
       "One law for all and one judiciary for all",
       "One law for all and one state for all",
@@ -34761,7 +34761,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Preamble, The Governance System, State and Union Territories",
-    "question": "A separate v ananchal State carved out of Bihar can be made possible by –",
+    "question": "A separate Vananchal State carved out of Bihar can be made possible by –",
     "options": [
       "Passing the legislation in State Assembly",
       "Passing the ordinance by the Governor",
@@ -35038,7 +35038,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Citizenship, Fundamental Rights, Directive Principles of State Policy, Fundamental Duties",
-    "question": "Choose the fundamental rights available to Indian Citizen but not to aliens:\nI. Freedom of Speech and Expression\nII. Equality Before the l aw\nIII. Right of Minorities Iv. Protection of l ife and l iberty",
+    "question": "Choose the fundamental rights available to Indian Citizen but not to aliens:\nI. Freedom of Speech and Expression\nII. Equality Before the law\nIII. Right of Minorities Iv. Protection of life and liberty",
     "options": [
       "I and III",
       "I and IV",
@@ -35155,7 +35155,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Right to free and compulsory primary education"
     ],
     "answer": "D",
-    "explanation": "According to Article 21A of the Constitution, the State shall make provision for free and compulsory education for all children of the age group of six to fourteen years, in such manner as the State may determine by law. Therefore, as the nearest answer, option (d) can be selected. n ote– In option (d), in place of “primary education”, only “education” should be used.\nSource: B.P.S.C. (CDPO) (Pre) 2005",
+    "explanation": "According to Article 21A of the Constitution, the State shall make provision for free and compulsory education for all children of the age group of six to fourteen years, in such manner as the State may determine by law. Therefore, as the nearest answer, option (d) can be selected. Note– In option (d), in place of “primary education”, only “education” should be used.\nSource: B.P.S.C. (CDPO) (Pre) 2005",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 164,
     "sourcePdfPage": 164,
@@ -35256,12 +35256,12 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Citizenship, Fundamental Rights, Directive Principles of State Policy, Fundamental Duties",
-    "question": "Which of the following Directive Principles do not\nfollow Gandhian Principles\n1. Organization of v illage Panchayats\n2. Common Civil Code\n3. Promotion of cottage Industry in rural areas\n4. Right to work",
+    "question": "Which of the following Directive Principles do not\nfollow Gandhian Principles\n1. Organization of Village Panchayats\n2. Common Civil Code\n3. Promotion of cottage Industry in rural areas\n4. Right to work",
     "options": [
       "Only 2",
       "1 and 2",
       "2 and 4",
-      "l and 3"
+      "land 3"
     ],
     "answer": "C",
     "explanation": "Statement 1 (Organisation of village panchayats) and 3 (promotion of cottage industries in rural areas) are in accordance with Gandhian principles, whereas statement 2 (Common Civil Code) and 4 (right to work) fall under other categories (liberal–intellectual and socialist) of Directive Principles, not Gandhian. Therefore, the Directive Principles not in accordance with Gandhian principles are 2 and 4.\nSource: 71st B.P.S.C. (Pre) 2025",
@@ -35385,7 +35385,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Citizenship, Fundamental Rights, Directive Principles of State Policy, Fundamental Duties",
-    "question": "Match l ist -I with list-II and select the correct answer\nusing the codes given below the l ists :\nl ist - I l ist - II\nA. Organisation of Village Panchayat 1. Article 44\nB. Uniform Civil Code 2. Article 48\nC. Agriculture and Animal Husbandry 3. Article 50\nD. Separation of Judiciary from 4. Article 51\nExecutive\nE. Promotion of International Peace 5. Article 50\nCodes",
+    "question": "Match List -I with list-II and select the correct answer\nusing the codes given below the lists :\nList - I List - II\nA. Organisation of Village Panchayat 1. Article 44\nB. Uniform Civil Code 2. Article 48\nC. Agriculture and Animal Husbandry 3. Article 50\nD. Separation of Judiciary from 4. Article 51\nExecutive\nE. Promotion of International Peace 5. Article 50\nCodes",
     "options": [
       "A B C D E 3 4 2 1 5",
       "A B C D E 5 3 2 1 4",
@@ -35512,7 +35512,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The President, The Vice-President",
-    "question": "The executiv e power of the central government is vested by the Constitution in-",
+    "question": "The executive power of the central government is vested by the Constitution in-",
     "options": [
       "The Constitution",
       "The President",
@@ -35634,7 +35634,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above / More than one of the above"
     ],
     "answer": "D",
-    "explanation": "Article 54 of the Constitution provides for the members of the President’s Electoral College, which includes the following members— (1) Elected members of both Houses of Parliament (2) Elected members of the Legislative Assemblies of the States (3) Elected members of the Legislative Assembliesof Delhi and Puducherry (inserted by the Constitution (Seventieth Amendment) Act, 1992). Members of the State Legislative Councils are not included in this Electoral College. n ote : Elected members of the Legislative Assembly of the Union Territory of Jammu and Kashmir have not yet been included in the President’s Electoral College.\nSource: 66th B.P.S.C. (Pre) (Re- Exam), 2020",
+    "explanation": "Article 54 of the Constitution provides for the members of the President’s Electoral College, which includes the following members— (1) Elected members of both Houses of Parliament (2) Elected members of the Legislative Assemblies of the States (3) Elected members of the Legislative Assembliesof Delhi and Puducherry (inserted by the Constitution (Seventieth Amendment) Act, 1992). Members of the State Legislative Councils are not included in this Electoral College. Note : Elected members of the Legislative Assembly of the Union Territory of Jammu and Kashmir have not yet been included in the President’s Electoral College.\nSource: 66th B.P.S.C. (Pre) (Re- Exam), 2020",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 168,
     "sourcePdfPage": 168,
@@ -35666,8 +35666,8 @@ window.BPSC_QUIZ_QUESTIONS = [
     "question": "In India, the President is elected by:",
     "options": [
       "Direct Election",
-      "Single Transferable V ote System",
-      "Proportional V ote System",
+      "Single Transferable vote System",
+      "Proportional vote System",
       "Open Ballot System"
     ],
     "answer": "",
@@ -35707,7 +35707,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Lok Sabha"
     ],
     "answer": "B",
-    "explanation": "According to Article 61 of the Constitution of India, impeachment of the President is a quasi-judicial process conducted in Parliament. The State Legislative Assemblies do not participate in it, whereas under Article 54(b), the elected members of the State Legislative Assemblies are part of the President’s Electoral College. It should be noted that State Legislative Councils are not part of the President’s Electoral College.\nSource: 70th B.P.S.C Re-Exam 2024",
+    "explanation": "According to Article 61 of the Constitution of India, impeachment of the President is a quasi-judicial process conducted in Parliament. The State Legislative Assemblies do not participate in it, whereas under Article 54(b), the elected members of the State Legislative Assemblies are part of the President’s Electoral College. It should be noted that State Legislative Councils are not part of the President’s Electoral College.\nSource: 70th B.P.S.C. Re-Exam 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 169,
     "sourcePdfPage": 169,
@@ -36152,7 +36152,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The President, The Vice-President",
-    "question": "Which of the following Constitutional Amendment Acts restricted the size of the Council of Ministers to 15 percent of the total members of the l ok Sabha",
+    "question": "Which of the following Constitutional Amendment Acts restricted the size of the Council of Ministers to 15 percent of the total members of the Lok Sabha",
     "options": [
       "95th Constitutional Amendment Act, 2009",
       "93rd Constitutional Amendment Act, 2005",
@@ -36264,7 +36264,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Attorney-General/Advocate General and the C.A.G., Order of Precedence",
-    "question": "As a n on-Member who can participate in the proceedings of either House of Parliament.",
+    "question": "As a non-Member who can participate in the proceedings of either House of Parliament.",
     "options": [
       "Vice-President",
       "Chief Justice",
@@ -36310,7 +36310,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "C",
-    "explanation": "In the Indian political system, as per the constitutional order of precedence, the President holds the highest position. After that, the order is Vice-President, Prime Minister, Speaker (Lok Sabha) and then Members of Parliament. PARl IAMEn T l ok Sabha\nSource: 68th B.P.S.C. (Pre) 2023",
+    "explanation": "In the Indian political system, as per the constitutional order of precedence, the President holds the highest position. After that, the order is Vice-President, Prime Minister, Speaker (Lok Sabha) and then Members of Parliament. PARl IAMEn T Lok Sabha\nSource: 68th B.P.S.C. (Pre) 2023",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 174,
     "sourcePdfPage": 174,
@@ -36320,7 +36320,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Attorney-General/Advocate General and the C.A.G., Order of Precedence",
-    "question": "What is the minimum age laid down for a person to seek election to the l ok Sabha",
+    "question": "What is the minimum age laid down for a person to seek election to the Lok Sabha",
     "options": [
       "18 years",
       "21 years",
@@ -36338,7 +36338,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Attorney-General/Advocate General and the C.A.G., Order of Precedence",
-    "question": "In order to be chosen a member of the l ok Sabha, a person must not be less than the age of",
+    "question": "In order to be chosen a member of the Lok Sabha, a person must not be less than the age of",
     "options": [
       "18 years",
       "21 years",
@@ -36357,7 +36357,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Attorney-General/Advocate General and the C.A.G., Order of Precedence",
-    "question": "Minimum age for l ok Sabha, Rajya Sabha and President is",
+    "question": "Minimum age for Lok Sabha, Rajya Sabha and President is",
     "options": [
       "25, 30 and 35",
       "25, 35 and 45",
@@ -36365,7 +36365,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "25, 35 and 35"
     ],
     "answer": "A",
-    "explanation": "Under Article 58(1)(b), the minimum age for the office of President is 35 years, and under Article 84(b), the minimum ages for membership of the Lok Sabha and the Rajya Sabha are 25 years and 30 years, respectively. Hence, option (a) is correct.\nSource: 70th B.P.S.C Re-Exam (Pre) 2024",
+    "explanation": "Under Article 58(1)(b), the minimum age for the office of President is 35 years, and under Article 84(b), the minimum ages for membership of the Lok Sabha and the Rajya Sabha are 25 years and 30 years, respectively. Hence, option (a) is correct.\nSource: 70th B.P.S.C. Re-Exam (Pre) 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 174,
     "sourcePdfPage": 174,
@@ -36394,7 +36394,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Attorney-General/Advocate General and the C.A.G., Order of Precedence",
-    "question": "The state-wise allocation of seats in l ok Sabha is based on the 1971 Census. Up to which year does this remain intact",
+    "question": "The state-wise allocation of seats in Lok Sabha is based on the 1971 Census. Up to which year does this remain intact",
     "options": [
       "2031",
       "2026",
@@ -36412,7 +36412,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Attorney-General/Advocate General and the C.A.G., Order of Precedence",
-    "question": "The determination of l ok Sabha seats in each state is done by the Delimitation Commission. Until which yearhas this delimitation been put on hold",
+    "question": "The determination of Lok Sabha seats in each state is done by the Delimitation Commission. Until which yearhas this delimitation been put on hold",
     "options": [
       "2024",
       "2025",
@@ -36431,7 +36431,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Attorney-General/Advocate General and the C.A.G., Order of Precedence",
-    "question": "Presently the number of seats of each state in l ok Sabha is allotted on the basis of-",
+    "question": "Presently the number of seats of each state in Lok Sabha is allotted on the basis of-",
     "options": [
       "Census of 1951",
       "Census of 1961",
@@ -36449,7 +36449,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Parliament",
-    "question": "Who holds power to appoint the nominees from Anglo- Indian Community in the l ok Sabha",
+    "question": "Who holds power to appoint the nominees from Anglo- Indian Community in the Lok Sabha",
     "options": [
       "Minorities Commission",
       "President of India",
@@ -36467,7 +36467,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Parliament",
-    "question": "What is the position of representation of Anglo-Indian Community in l ok Sabha",
+    "question": "What is the position of representation of Anglo-Indian Community in Lok Sabha",
     "options": [
       "Nomination of them has been done away with by 104th Constitutional Amendment",
       "Two anglo-Indians are nominated by the President",
@@ -36503,7 +36503,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Parliament",
-    "question": "Prior to the completion of tenure, the l ok Sabha can be dissolved by–",
+    "question": "Prior to the completion of tenure, the Lok Sabha can be dissolved by–",
     "options": [
       "The will of President",
       "Speaker",
@@ -36521,7 +36521,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Parliament",
-    "question": "l ok Sabha can be dissolved before the completion of its term.",
+    "question": "Lok Sabha can be dissolved before the completion of its term.",
     "options": [
       "At the discretion of the President",
       "At the discretion of the Prime Minister",
@@ -36539,7 +36539,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Parliament",
-    "question": "Generally how many sessions are there in the l ok Sabha",
+    "question": "Generally how many sessions are there in the Lok Sabha",
     "options": [
       "3",
       "4",
@@ -36558,7 +36558,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Parliament",
-    "question": "Budget Session (February–May) 2. Monsoon Session (July–August/September) 3. Winter Session (November–December) 14. Session of l ok Sabha is called for at least-",
+    "question": "Budget Session (February–May) 2. Monsoon Session (July–August/September) 3. Winter Session (November–December) 14. Session of Lok Sabha is called for at least-",
     "options": [
       "Once in a year",
       "Two times in a year",
@@ -36594,7 +36594,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Parliament",
-    "question": "Which State sends the largest number of members in l ok Sabha",
+    "question": "Which State sends the largest number of members in Lok Sabha",
     "options": [
       "Bihar",
       "Madhya Pradesh",
@@ -36612,7 +36612,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Parliament",
-    "question": "So long as the representation in l ok Sabha is concerned, which states rank second and third",
+    "question": "So long as the representation in Lok Sabha is concerned, which states rank second and third",
     "options": [
       "Bihar and Maharashtra",
       "Madhya Pradesh and Tamil Nadu",
@@ -36630,7 +36630,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Parliament",
-    "question": "A candidate of l ok Sabha Poll loses his security amount if he/she does not get –",
+    "question": "A candidate of Lok Sabha Poll loses his security amount if he/she does not get –",
     "options": [
       "1/3 of valid votes",
       "1/4 of valid votes",
@@ -36648,7 +36648,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Parliament",
-    "question": "First General Election of l ok Sabha was held in-",
+    "question": "First General Election of Lok Sabha was held in-",
     "options": [
       "1949",
       "1952",
@@ -36666,7 +36666,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Parliament",
-    "question": "9th l ok Sabha was dissolved on –",
+    "question": "9th Lok Sabha was dissolved on –",
     "options": [
       "March,1991",
       "June, 1996",
@@ -36684,7 +36684,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Parliament",
-    "question": "The election for 12th l ok Sabha of India was held in-",
+    "question": "The election for 12th Lok Sabha of India was held in-",
     "options": [
       "April, 1996",
       "June, 1996",
@@ -36702,7 +36702,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Parliament",
-    "question": "Who is the leader of the l ok Sabha",
+    "question": "Who is the leader of the Lok Sabha",
     "options": [
       "President",
       "Prime Minister",
@@ -36720,7 +36720,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Parliament",
-    "question": "Speaker of the l ok Sabha is elected by –",
+    "question": "Speaker of the Lok Sabha is elected by –",
     "options": [
       "All members of parliament",
       "Public directly",
@@ -36756,7 +36756,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Parliament",
-    "question": "Present l ok Sabha Deputy Speaker is -",
+    "question": "Present Lok Sabha Deputy Speaker is -",
     "options": [
       "Mr. P.M. Sayeed",
       "Mrs. Nazma Heptulla",
@@ -36820,7 +36820,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Article 111"
     ],
     "answer": "C",
-    "explanation": "Article 112 of the Indian Constitution relates to the Annual Financial Statement (Budget). Under Article 112(1), the President shall cause to be laid before both Houses of Parliament, in respect of every financial year, a statement of the estimated receipts and expenditure of the Government of India for that year, which is called the “Annual Financial Statement” (Budget).\nSource: 70th B.P.S.C Re-Exam (Pre) 2024",
+    "explanation": "Article 112 of the Indian Constitution relates to the Annual Financial Statement (Budget). Under Article 112(1), the President shall cause to be laid before both Houses of Parliament, in respect of every financial year, a statement of the estimated receipts and expenditure of the Government of India for that year, which is called the “Annual Financial Statement” (Budget).\nSource: 70th B.P.S.C. Re-Exam (Pre) 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 177,
     "sourcePdfPage": 177,
@@ -36905,7 +36905,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Parliament",
-    "question": "The Speaker of the l ok Sabha enjoys",
+    "question": "The Speaker of the Lok Sabha enjoys",
     "options": [
       "The right to vote only in case of a tie",
       "The right to vote like other members of the House",
@@ -36913,7 +36913,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "No right to vote"
     ],
     "answer": "A",
-    "explanation": "Under Article 100(1), the Speaker of the Lok Sabha does not vote in the first instance on any matter; but if the votes are equally divided, the Speaker has and exercises a casting vote. Further, under Article 96(1), when a resolution for the Speaker’s removal is under consideration in the Lok Sabha, the Speaker shall not preside even if present; and under Article 96(2), in that situation, the Speaker shall have the right to vote in the first instance on that resolution, but shall not have the right to exercise a casting vote in case of equality of votes. On this basis, option (c) may also appear correct; however, option (a) is the more precise answer.\nSource: 70th B.P.S.C Re-Exam (Pre) 2024",
+    "explanation": "Under Article 100(1), the Speaker of the Lok Sabha does not vote in the first instance on any matter; but if the votes are equally divided, the Speaker has and exercises a casting vote. Further, under Article 96(1), when a resolution for the Speaker’s removal is under consideration in the Lok Sabha, the Speaker shall not preside even if present; and under Article 96(2), in that situation, the Speaker shall have the right to vote in the first instance on that resolution, but shall not have the right to exercise a casting vote in case of equality of votes. On this basis, option (c) may also appear correct; however, option (a) is the more precise answer.\nSource: 70th B.P.S.C. Re-Exam (Pre) 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 178,
     "sourcePdfPage": 178,
@@ -36987,7 +36987,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "is not subject to dissolution."
     ],
     "answer": "D",
-    "explanation": "The Rajya Sabha is a permanent House. Under Article 83(1), the Rajya Sabha is not subject to dissolution; one- third of its members retire on the expiration of every second year. Thus, the term of a Rajya Sabha member is six years.\nSource: 48th to 52nd B.P.S.C. (Pre) 2008",
+    "explanation": "The Rajya Sabha is a permanent House. Under Article 83(1), the Rajya Sabha is not subject to dissolution; one-third of its members retire on the expiration of every second year. Thus, the term of a Rajya Sabha member is six years.\nSource: 48th to 52nd B.P.S.C. (Pre) 2008",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 179,
     "sourcePdfPage": 179,
@@ -37113,7 +37113,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       ".Only 4"
     ],
     "answer": "D",
-    "explanation": "This question relates to the major procedures of the Indian Parliament/Legislature—Summoning, Adjournment, Prorogation, and Dissolution. Adjournment is done by the Presiding Officer/Speaker/Chairman (or the person acting as such), whereas prorogation is done by the President/Governor. Also, by adjournment, the House is adjourned for a definite or indefinite period; it does not end the session, i.e., it does not amount to prorogation. In fact, prorogation ends a session. n ote: In the statement (4) Prorogation of a session can be effected by the leader of the House alone is incorrect. So answer is option (d).\nSource: 71st B.P.S.C (Pre) 2025",
+    "explanation": "This question relates to the major procedures of the Indian Parliament/Legislature—Summoning, Adjournment, Prorogation, and Dissolution. Adjournment is done by the Presiding Officer/Speaker/Chairman (or the person acting as such), whereas prorogation is done by the President/Governor. Also, by adjournment, the House is adjourned for a definite or indefinite period; it does not end the session, i.e., it does not amount to prorogation. In fact, prorogation ends a session. Note: In the statement (4) Prorogation of a session can be effected by the leader of the House alone is incorrect. So answer is option (d).\nSource: 71st B.P.S.C (Pre) 2025",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 180,
     "sourcePdfPage": 180,
@@ -37141,7 +37141,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Parliament",
-    "question": "How many members can the President nominate to the l ok Sabha and Rajya Sabha respectively",
+    "question": "How many members can the President nominate to the Lok Sabha and Rajya Sabha respectively",
     "options": [
       "12,2",
       "2, 12",
@@ -37200,7 +37200,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "It is different from the No-confidence motion",
       "It is not different from No-confidence motion",
       "It is not mandatory to mention the reasons in this motion",
-      "Permissiõn of the House is not essential to present it"
+      "Permission of the House is not essential to present it"
     ],
     "answer": "A",
     "explanation": "& d) There is a clear difference between a Censure Motion and a No-Confidence Motion in terms of their objective and procedure. In a Censure Motion, stating reasons is mandatory. Also, separate “Leave of the House” is not required for a Censure Motion. Factually, both (a) and (d) are correct. That is why the Bihar Public Service Commission deleted this question from evaluation.\nSource: 71st B.P.S.C. (Pre) 2025",
@@ -37213,16 +37213,16 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Parliament",
-    "question": "v ote on Account is meant for -",
+    "question": "vote on Account is meant for -",
     "options": [
-      "V ote on the report of CAG",
+      "vote on the report of CAG",
       "To meet unforeseen expenditure",
       "Appropriating funds pending passing of budget",
       "For Budget",
       "None of the above/More than one of the above"
     ],
     "answer": "C",
-    "explanation": "Money can be withdrawn from the Consolidated Fund of India only after the Appropriation Bill is passed. However, if there is a change in the government at the end of the financial year and the new government does not immediately introduce the Appropriation Bill, or if for any other reason money is needed even before the Appropriation Bill is passed, then under Article 116(1)(a) the Lok Sabha can pass a V ote on Account and approve an advance amount for the government. Article 116 also provides that if, in emergency circumstances, the government needs a very large amount of money—such as during war—then the Lok Sabha grants a V ote of Credit, and Parliament authorizes the withdrawal by law.\nSource: 60th to 62nd B.P.S.C. (Pre) 2016",
+    "explanation": "Money can be withdrawn from the Consolidated Fund of India only after the Appropriation Bill is passed. However, if there is a change in the government at the end of the financial year and the new government does not immediately introduce the Appropriation Bill, or if for any other reason money is needed even before the Appropriation Bill is passed, then under Article 116(1)(a) the Lok Sabha can pass a vote on Account and approve an advance amount for the government. Article 116 also provides that if, in emergency circumstances, the government needs a very large amount of money—such as during war—then the Lok Sabha grants a vote of Credit, and Parliament authorizes the withdrawal by law.\nSource: 60th to 62nd B.P.S.C. (Pre) 2016",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 181,
     "sourcePdfPage": 181,
@@ -37269,7 +37269,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Parliament",
-    "question": "By passing, 'Triple Talaq l aw' recently, the Parliament of India endorsed which year's ruling of the Supreme Court of India that had made Triple Talaq (Talaq-e- Biddat) as unconstitutional",
+    "question": "By passing, 'Triple Talaq law' recently, the Parliament of India endorsed which year's ruling of the Supreme Court of India that had made Triple Talaq (Talaq-e- Biddat) as unconstitutional",
     "options": [
       "2011",
       "2013",
@@ -37556,7 +37556,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Constitutional jurisdiction"
     ],
     "answer": "B",
-    "explanation": "See the explanation of the above question.\nSource: 70th B.P.S.C Re-Exam (Pre) 2024",
+    "explanation": "See the explanation of the above question.\nSource: 70th B.P.S.C. Re-Exam (Pre) 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 185,
     "sourcePdfPage": 185,
@@ -37696,7 +37696,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Governor, The State Legislature",
-    "question": "By which time Governor has to return an ordinary bill to the concerned State l egislature for reconsideration",
+    "question": "By which time Governor has to return an ordinary bill to the concerned State legislature for reconsideration",
     "options": [
       "Three months",
       "One Month",
@@ -37704,7 +37704,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Two months"
     ],
     "answer": "",
-    "explanation": "Under the first proviso to Article 200 of the Constitution, after a Bill is presented to the Governor for assent, the Governor may, as soon as possible, return an ordinary Bill (except a Money Bill) to the concerned State Legislature for reconsideration. Article 200 does not prescribe any fixed time limit for returning such a Bill. Recently, the Supreme Court, in the Tamil Nadu Government vs. Governor of Tamil Nadu case, clarified that under Article 200, Governors should decide on State Bills in a time-bound manner on the aid and advice of the Council of Ministers, and not by exercising independent discretion. The State l egislature and Council of Ministers\nSource: 70th B.P.S.C. Pre-2024",
+    "explanation": "Under the first proviso to Article 200 of the Constitution, after a Bill is presented to the Governor for assent, the Governor may, as soon as possible, return an ordinary Bill (except a Money Bill) to the concerned State Legislature for reconsideration. Article 200 does not prescribe any fixed time limit for returning such a Bill. Recently, the Supreme Court, in the Tamil Nadu Government vs. Governor of Tamil Nadu case, clarified that under Article 200, Governors should decide on State Bills in a time-bound manner on the aid and advice of the Council of Ministers, and not by exercising independent discretion. The State legislature and Council of Ministers\nSource: 70th B.P.S.C. Pre-2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 186,
     "sourcePdfPage": 186,
@@ -37714,7 +37714,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Governor, The State Legislature",
-    "question": "As per Indian Constitution, l egislature of States\nconsists\n(1) l egislative Council and Governor\n(2) l egislative Assembly and l egislative Council\n(3) l egislative Assembly and Governor\n(4) Governor, l egislative Assembly and l egislative\nCouncil where it exists\nSelect your answer out of the following codes-",
+    "question": "As per Indian Constitution, legislature of States\nconsists\n(1) legislative Council and Governor\n(2) legislative Assembly and legislative Council\n(3) legislative Assembly and Governor\n(4) Governor, legislative Assembly and legislative\nCouncil where it exists\nSelect your answer out of the following codes-",
     "options": [
       "Only 3",
       "2 and 3",
@@ -37732,7 +37732,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Governor, The State Legislature",
-    "question": "Which is the Upper Chamber of State l egislatures in India",
+    "question": "Which is the Upper Chamber of State legislatures in India",
     "options": [
       "Legislative Council",
       "Legislative Assembly",
@@ -37750,7 +37750,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Governor, The State Legislature",
-    "question": "Which one of the following Indian States has the largest number of members in its State l egislature",
+    "question": "Which one of the following Indian States has the largest number of members in its State legislature",
     "options": [
       "Arunachal Pradesh",
       "Himachal Pradesh",
@@ -37769,7 +37769,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Governor, The State Legislature",
-    "question": "The members of a State l egislative Council are not chosen by which of the following categories of persons",
+    "question": "The members of a State legislative Council are not chosen by which of the following categories of persons",
     "options": [
       "Members of the local bodies/panchayats",
       "Teachers",
@@ -37788,7 +37788,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Governor, The State Legislature",
-    "question": "What is the maximum number of members a State l egislative Assembly can have in India",
+    "question": "What is the maximum number of members a State legislative Assembly can have in India",
     "options": [
       "400",
       "450",
@@ -37806,7 +37806,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Governor, The State Legislature",
-    "question": "Which of the following Articles of Indian Constitution consists the provision of the election of l egislative Assemblies of States–",
+    "question": "Which of the following Articles of Indian Constitution consists the provision of the election of legislative Assemblies of States–",
     "options": [
       "Article 170",
       "Article 176",
@@ -37824,7 +37824,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Governor, The State Legislature",
-    "question": "In a State, the l egislative Council can be created or abolished by—",
+    "question": "In a State, the legislative Council can be created or abolished by—",
     "options": [
       "The Legislative Assembly of that State",
       "The Parliament",
@@ -37842,7 +37842,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Governor, The State Legislature",
-    "question": "l egislative Council exists in which of the following\nstates\n(1) Kerala (2) Himachal Pradesh\n(3) Delhi (4) Bihar\nSelect your answer from the following codes–",
+    "question": "legislative Council exists in which of the following\nstates\n(1) Kerala (2) Himachal Pradesh\n(3) Delhi (4) Bihar\nSelect your answer from the following codes–",
     "options": [
       "1 and 2",
       "1 and 3",
@@ -37860,7 +37860,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Governor, The State Legislature",
-    "question": "If the Speaker of l egislative Assembly of a State wants to resign, he will give his resignation to –",
+    "question": "If the Speaker of legislative Assembly of a State wants to resign, he will give his resignation to –",
     "options": [
       "Chief Minister",
       "Governor",
@@ -37916,7 +37916,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Governor, The State Legislature",
-    "question": "What is true about the proceedings of the State l egislature",
+    "question": "What is true about the proceedings of the State legislature",
     "options": [
       "Advocate General has right to vote",
       "Business in the legisiature shall be transacted only in official language of the state or in Hindi or in English.",
@@ -38051,7 +38051,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Without the consent of any State"
     ],
     "answer": "D",
-    "explanation": "Under Article 253 of the Constitution, Parliament has the power to make any law for the whole of India or any part of India for implementing international treaties. Under this power, Parliament can also make a law on subjects in the State List to give effect to international treaties, and in this regard the consent of any State/States is not necessary. Emergency Provision\nSource: 70th B.P.S.C Re-Exam 2024",
+    "explanation": "Under Article 253 of the Constitution, Parliament has the power to make any law for the whole of India or any part of India for implementing international treaties. Under this power, Parliament can also make a law on subjects in the State List to give effect to international treaties, and in this regard the consent of any State/States is not necessary. Emergency Provision\nSource: 70th B.P.S.C. Re-Exam 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 189,
     "sourcePdfPage": 189,
@@ -38105,7 +38105,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Article 352"
     ],
     "answer": "",
-    "explanation": "The Constitution of India provides for three types of emergency—National Emergency (Article 352), President’s Rule in a State in case of failure of the constitutional machinery (Article 356), and Financial Emergency (Article 360). Hence, in the given question, only the word “emergency” has been mentioned, which makes the question defective. The Bihar Public Service Commission, in its answer key, considered option (d) as the correct answer.\nSource: 70th B.P.S.C Re-Exam 2024",
+    "explanation": "The Constitution of India provides for three types of emergency—National Emergency (Article 352), President’s Rule in a State in case of failure of the constitutional machinery (Article 356), and Financial Emergency (Article 360). Hence, in the given question, only the word “emergency” has been mentioned, which makes the question defective. The Bihar Public Service Commission, in its answer key, considered option (d) as the correct answer.\nSource: 70th B.P.S.C. Re-Exam 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 190,
     "sourcePdfPage": 190,
@@ -38133,7 +38133,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Centre-State Relation, Emergency Provisions",
-    "question": "Which of the following is/are the consequence(s) of invoking Article 360, declaration of a financial emergency 1. The President may order the States to reduce the salaries and allowances of all or any class of employees serving in connection with the State affairs. 2. Money Bills or other financial bills passed by the State l egislature are not required to be reserved for the consideration of the President. 3. The President can issue directions for the reduction of salaries and allowances of all or any class of employees serving in connection with the affairs of the Union, including the Judges of the Supreme Court and the High Courts. 4. Money Bills or other financial bills are to be reserved for the consideration of the President after they are passed by the l egislature of the State. Select the correct answer using the codes given below.",
+    "question": "Which of the following is/are the consequence(s) of invoking Article 360, declaration of a financial emergency 1. The President may order the States to reduce the salaries and allowances of all or any class of employees serving in connection with the State affairs. 2. Money Bills or other financial bills passed by the State legislature are not required to be reserved for the consideration of the President. 3. The President can issue directions for the reduction of salaries and allowances of all or any class of employees serving in connection with the affairs of the Union, including the Judges of the Supreme Court and the High Courts. 4. Money Bills or other financial bills are to be reserved for the consideration of the President after they are passed by the legislature of the State. Select the correct answer using the codes given below.",
     "options": [
       "1, 3 and 4 only",
       "Only 2",
@@ -38252,7 +38252,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Prepare the annual budget"
     ],
     "answer": "A",
-    "explanation": "Article 280 of the Constitution provides for the constitution of a Finance Commission by the President every five years or earlier, if necessary. The main function of the Finance Commission is to submit recommendations to the President regarding the distribution of the net proceeds of taxes between the Union and the States, and the allocation of the respective shares among the States.\nSource: tre and the States 70th B.P.S.C Re-Exam 2024",
+    "explanation": "Article 280 of the Constitution provides for the constitution of a Finance Commission by the President every five years or earlier, if necessary. The main function of the Finance Commission is to submit recommendations to the President regarding the distribution of the net proceeds of taxes between the Union and the States, and the allocation of the respective shares among the States.\nSource: tre and the States 70th B.P.S.C. Re-Exam 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 191,
     "sourcePdfPage": 191,
@@ -38299,7 +38299,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Finance Commission, The Planning Commission/NITI AAYOG, Election Commission",
-    "question": "Annie George Mathew (full-time member) 2. Manoj Panda (full-time member) 3. Dr. Soumyakanti Ghosh (member) 4. T. Rabi Sankar (member) Earlier, Dr. Niranjan Rajadhyaksha was appointed as a full- time member, but in April 2024 he was replaced by Manoj Panda. Earlier, Ajay Narayan Jha, appointed as a full- time member, resigned from his post in April 2025 due to personal reasons. Planning Commission/n iti Aayog 1. When was the Planning Commission established",
+    "question": "Annie George Mathew (full-time member) 2. Manoj Panda (full-time member) 3. Dr. Soumyakanti Ghosh (member) 4. T. Rabi Sankar (member) Earlier, Dr. Niranjan Rajadhyaksha was appointed as a full-time member, but in April 2024 he was replaced by Manoj Panda. Earlier, Ajay Narayan Jha, appointed as a full-time member, resigned from his post in April 2025 due to personal reasons. Planning Commission/NITI Aayog 1. When was the Planning Commission established",
     "options": [
       "10th",
       "15th",
@@ -38519,7 +38519,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Finance Commission, The Planning Commission/NITI AAYOG, Election Commission",
-    "question": "The l ower age limit of voters of Union and State l egislature was reduced from 21 years to 18 years by",
+    "question": "The lower age limit of voters of Union and State legislature was reduced from 21 years to 18 years by",
     "options": [
       "57th Amendment, 1987",
       "60th Amendment, 1988",
@@ -38555,7 +38555,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "The Finance Commission, The Planning Commission/NITI AAYOG, Election Commission",
-    "question": "If 'One n ation One Election' is to be realized in India, which Article of the Indian Constitution will require an amendment",
+    "question": "If 'One nation One Election' is to be realized in India, which Article of the Indian Constitution will require an amendment",
     "options": [
       "Article 83",
       "Article 172",
@@ -38649,7 +38649,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Political Parties",
-    "question": "n ame the poli tical party which is not a part of a composite central government, but their member has been elected speaker of the thirteenth l ok Sabha.",
+    "question": "Name the poli tical party which is not a part of a composite central government, but their member has been elected speaker of the thirteenth Lok Sabha.",
     "options": [
       "Telugu Desam party",
       "Samata party",
@@ -38685,7 +38685,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Political Parties",
-    "question": "Match the l ist–I of national Political Parties of India,\nwith l ist–II of the years of their formation and select\nthe correct answer from the code given below the lists :\nl ist–I l ist–II\n(n ames of the (years of their\npolitical parties) formation)\nA. Communist Party of India- 1. 1964\nMarxist (CPI-M)\nB. Communist Party of India 2. 1998\nC. Bahujan Samaj Party 3. 1925\nD. All India Trinamool Congress 4. 1984\nCode :\nA B C D",
+    "question": "Match the List–I of national Political Parties of India,\nwith List–II of the years of their formation and select\nthe correct answer from the code given below the lists :\nList–I List–II\n(names of the (years of their\npolitical parties) formation)\nA. Communist Party of India- 1. 1964\nMarxist (CPI-M)\nB. Communist Party of India 2. 1998\nC. Bahujan Samaj Party 3. 1925\nD. All India Trinamool Congress 4. 1984\nCode :\nA B C D",
     "options": [
       "4 3 2 1",
       "1 3 4 2",
@@ -38694,7 +38694,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "B",
-    "explanation": "The correct matching of the political parties listed and their years of establishment is as follows— Political Party y ear of formation • Communist Party of India — 1964 (Marxist) • Communist Party of India — 1925 • Bahujan Samaj Party — 1984 • All India Trinamool Congress — 1998 (A.I.T.C.) Constitutional Amendments\nSource: 69th B.P.S.C. (Pre) 2023",
+    "explanation": "The correct matching of the political parties listed and their years of establishment is as follows— Political Party year of formation • Communist Party of India — 1964 (Marxist) • Communist Party of India — 1925 • Bahujan Samaj Party — 1984 • All India Trinamool Congress — 1998 (A.I.T.C.) Constitutional Amendments\nSource: 69th B.P.S.C. (Pre) 2023",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 195,
     "sourcePdfPage": 195,
@@ -38814,7 +38814,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Constitutional Amendment, Official Language",
-    "question": "Consider the following statements regarding the 42nd\nAmendment to the Constitution of India:\n1. It added three words to the Preamble—‘Socialist’,\n‘Secular’ and ‘Integrity’.\n2. It added eight Fundamental Duties to the\nConstitution.\n3. It added new Directive Principles, i.e., Article 39A,\nArticle 43A and Article 47.\n4. It granted power to the President, in consultation\nwith the Election Commission, to disqualify\nmembers of the State l egislatures.\nWhich of the above statements are incorrect",
+    "question": "Consider the following statements regarding the 42nd\nAmendment to the Constitution of India:\n1. It added three words to the Preamble—‘Socialist’,\n‘Secular’ and ‘Integrity’.\n2. It added eight Fundamental Duties to the\nConstitution.\n3. It added new Directive Principles, i.e., Article 39A,\nArticle 43A and Article 47.\n4. It granted power to the President, in consultation\nwith the Election Commission, to disqualify\nmembers of the State legislatures.\nWhich of the above statements are incorrect",
     "options": [
       "1 and 2",
       "3 and 4",
@@ -38840,7 +38840,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above Amendment"
     ],
     "answer": "A",
-    "explanation": "Under Clause (1A) added to Article 164 by the Constitution (Ninety-first Amendment) Act, 2003, it is provided that the total number of ministers, including the Chief Minister, in a State’s Council of Ministers shall not exceed fifteen (15) percent of the total strength of the State Legislative Assembly; however, in a State, the number of ministers including the Chief Minister shall not be less than twelve (12).\nSource: 70th B.P.S.C Re-Exam 2024",
+    "explanation": "Under Clause (1A) added to Article 164 by the Constitution (Ninety-first Amendment) Act, 2003, it is provided that the total number of ministers, including the Chief Minister, in a State’s Council of Ministers shall not exceed fifteen (15) percent of the total strength of the State Legislative Assembly; however, in a State, the number of ministers including the Chief Minister shall not be less than twelve (12).\nSource: 70th B.P.S.C. Re-Exam 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 197,
     "sourcePdfPage": 197,
@@ -38850,7 +38850,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Constitutional Amendment, Official Language",
-    "question": "Size of Council of Ministers has been restricted to 15 percent of membership of l ok Sabha by which",
+    "question": "Size of Council of Ministers has been restricted to 15 percent of membership of Lok Sabha by which",
     "options": [
       "92nd Amendment",
       "95th Amendment",
@@ -38858,7 +38858,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "93rd Amendment"
     ],
     "answer": "C",
-    "explanation": "See the explanation of the above question. Official l anguage\nSource: 70th B.P.S.C. Pre-2024",
+    "explanation": "See the explanation of the above question. Official language\nSource: 70th B.P.S.C. Pre-2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 197,
     "sourcePdfPage": 197,
@@ -39005,7 +39005,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Single tier structure of local self government at the village level"
     ],
     "answer": "A",
-    "explanation": "According to Article 243B, local self-government under the Panchayati Raj system is three-tier—village level, intermediate (block) level and district level; however, at the intermediate level, no Panchayat shall be constituted in a State whose population does not exceed 20 lakh.\nSource: 70th B.P.S.C Re-Exam (Pre) 2024",
+    "explanation": "According to Article 243B, local self-government under the Panchayati Raj system is three-tier—village level, intermediate (block) level and district level; however, at the intermediate level, no Panchayat shall be constituted in a State whose population does not exceed 20 lakh.\nSource: 70th B.P.S.C. Re-Exam (Pre) 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 198,
     "sourcePdfPage": 198,
@@ -39015,11 +39015,11 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Panchayati Raj and Community Development",
-    "question": "n ame the Committee which was set up by the n DC in 1957 for the reorganization of CDP and n ES, which suggested a three-tier system of rural local government-",
+    "question": "Name the Committee which was set up by the n DC in 1957 for the reorganization of CDP and n ES, which suggested a three-tier system of rural local government-",
     "options": [
       "Balwant Rai Mehta Committee",
       "Ashok Mehta Committee",
-      "Maharashtra Committee on Democratic Decentrali- sation",
+      "Maharashtra Committee on Democratic Decentralisation",
       "Rural-Urban Relationship Committee"
     ],
     "answer": "A",
@@ -39087,7 +39087,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Panchayati Raj and Community Development",
-    "question": "Which one of the following Committees/Commissions recommended the creation of n yaya Panchayats",
+    "question": "Which one of the following Committees/Commissions recommended the creation of Nyaya Panchayats",
     "options": [
       "Balwant Rai Mehta Committee",
       "Ashok Mehta Committee",
@@ -39511,7 +39511,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Panchayati Raj and Community Development",
-    "question": "50% reservation for women in Panchayati Raj Institutions is legalized in certain States such as:\nI. Bihar\nII. Uttarakhand\nIII. Madhya Pradesh Iv. Himachal Pradesh",
+    "question": "50% reservation for women in Panchayati Raj Institutions is legalized in certain States such as:\nI. Bihar\nII. Uttarakhand\nIII. Madhya Pradesh IV. Himachal Pradesh",
     "options": [
       "Only III",
       "Only II and III",
@@ -39686,7 +39686,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "D",
-    "explanation": "Maintenance of public order is not related to local self- government. Maintenance of public order is a subject of the State Government, whereas management of public health and sanitation, roads and bridges, economic and social development planning, fire services, etc., fall under local self-government. Article 243-G deals with the powers, authority and responsibilities of Panchayats, and Article 243-W deals with the powers, authority and responsibilities of Municipalities, etc.\nSource: 63rd B.P.S.C. (Pre) 2017",
+    "explanation": "Maintenance of public order is not related to local self-government. Maintenance of public order is a subject of the State Government, whereas management of public health and sanitation, roads and bridges, economic and social development planning, fire services, etc., fall under local self-government. Article 243-G deals with the powers, authority and responsibilities of Panchayats, and Article 243-W deals with the powers, authority and responsibilities of Municipalities, etc.\nSource: 63rd B.P.S.C. (Pre) 2017",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 203,
     "sourcePdfPage": 203,
@@ -39715,7 +39715,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Panchayati Raj and Community Development",
-    "question": "Match l ist-I with l ist-II and select the correct answer\nusing the codes given below the l ists :\nl ist - I l ist - II\n(Panchayati Raj Committees) (years)\nA. C.H. Hanumantha Rao 1. 1985\nB. G.V .K. Rao 2. 1986\nC. Ashok Mehta 3. 1984\nD. L.M. Singhvi 4. 1957\nE. Balwant Rai Mehta 5. 1978\nCodes\nA B C D E",
+    "question": "Match List-I with List-II and select the correct answer\nusing the codes given below the lists :\nList - I List - II\n(Panchayati Raj Committees) (years)\nA. C.H. Hanumantha Rao 1. 1985\nB. G.V .K. Rao 2. 1986\nC. Ashok Mehta 3. 1984\nD. L.M. Singhvi 4. 1957\nE. Balwant Rai Mehta 5. 1978\nCodes\nA B C D E",
     "options": [
       "4 5 1 3 2",
       "2 4 1 3 5",
@@ -39826,7 +39826,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Special Provision for Certain Class, Miscellaneous",
-    "question": "The concept of Public Interest l itigation originated in",
+    "question": "The concept of Public Interest litigation originated in",
     "options": [
       "United Kingdom",
       "USSR",
@@ -39845,7 +39845,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Special Provision for Certain Class, Miscellaneous",
-    "question": "In which state was the first “l okayukta” established",
+    "question": "In which state was the first “Lokayukta” established",
     "options": [
       "Odisha",
       "Kerala",
@@ -39873,7 +39873,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "C",
-    "explanation": "In the Indian administrative system, the Split System is related to policy-making and its implementation. In this system, the Secretariat performs planning and policy- making functions, while the implementation of policies is carried out by the concerned Directorate.\nSource: tre/State 67th B.P.S.C. (Pre) 2022",
+    "explanation": "In the Indian administrative system, the Split System is related to policy-making and its implementation. In this system, the Secretariat performs planning and policy-making functions, while the implementation of policies is carried out by the concerned Directorate.\nSource: tre/State 67th B.P.S.C. (Pre) 2022",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 205,
     "sourcePdfPage": 205,
@@ -39901,7 +39901,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Special Provision for Certain Class, Miscellaneous",
-    "question": "Who decides the disqualification of members of State\nl egislative Assembly, for matters other than those in\nthe tenth schedule of the Constitution",
+    "question": "Who decides the disqualification of members of State\nlegislative Assembly, for matters other than those in\nthe tenth schedule of the Constitution",
     "options": [
       "Governor",
       "Speaker Legislative Assembly",
@@ -39955,7 +39955,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Special Provision for Certain Class, Miscellaneous",
-    "question": "Justice J. S. v erma Committee Report, 2013 is related to—",
+    "question": "Justice J. S. Verma Committee Report, 2013 is related to—",
     "options": [
       "Cen",
       "Changes in laws related to crimes against women",
@@ -39991,7 +39991,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Special Provision for Certain Class, Miscellaneous",
-    "question": "With reference to United n ations peacekeeping\noperations, consider the following statements:\n1. United n ations peacekeeping forces can only use\nforce for self-defense.\n2. A peacekeeping operation can only be withdrawn by\na resolution of the United n ations Security Council.\n3. The United States is the largest budget contributor\nto Un peacekeeping operations.\nWhich of the above statements is/are correct",
+    "question": "With reference to United Nations peacekeeping\noperations, consider the following statements:\n1. United Nations peacekeeping forces can only use\nforce for self-defense.\n2. A peacekeeping operation can only be withdrawn by\na resolution of the United Nations Security Council.\n3. The United States is the largest budget contributor\nto Un peacekeeping operations.\nWhich of the above statements is/are correct",
     "options": [
       "1 and 2 only",
       "Only 2 and 3",
@@ -40029,7 +40029,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Special Provision for Certain Class, Miscellaneous",
-    "question": "Who is India’s Permanent Representative to the United n ations",
+    "question": "Who is India’s Permanent Representative to the United Nations",
     "options": [
       "Tarun Bajaj",
       "T. S. Tirumurti",
@@ -40066,7 +40066,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Special Provision for Certain Class, Miscellaneous",
-    "question": "Who is the Secretary-General of the United n ations",
+    "question": "Who is the Secretary-General of the United Nations",
     "options": [
       "Boutros Boutros-Ghali",
       "Kofi Annan",
@@ -40084,7 +40084,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Special Provision for Certain Class, Miscellaneous",
-    "question": "Who is the Secretary-General of the United n ations",
+    "question": "Who is the Secretary-General of the United Nations",
     "options": [
       "Kofi Annan",
       "U Thant",
@@ -40102,7 +40102,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Special Provision for Certain Class, Miscellaneous",
-    "question": "Boutros Boutros-Ghali, the new Secretary-General of the United n ations, belongs to which country",
+    "question": "Boutros Boutros-Ghali, the new Secretary-General of the United Nations, belongs to which country",
     "options": [
       "Cuba",
       "Zimbabwe",
@@ -40120,7 +40120,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Special Provision for Certain Class, Miscellaneous",
-    "question": "Which of the following are matters on which a\nconstitutional amendment is possible only with the\nratification of the legislature of not less than one-half\nof the states\n1. Election of the President.\n2. Representation of States in Parliament.\n3. Any of the lists in the 7th Schedule.\n4. Abolition of the l egislative Council of a State.\nChoose the correct answer.",
+    "question": "Which of the following are matters on which a\nconstitutional amendment is possible only with the\nratification of the legislature of not less than one-half\nof the states\n1. Election of the President.\n2. Representation of States in Parliament.\n3. Any of the lists in the 7th Schedule.\n4. Abolition of the legislative Council of a State.\nChoose the correct answer.",
     "options": [
       "2, 3 and 4",
       "1, 2 and 4",
@@ -40128,7 +40128,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "1, 2 and 3"
     ],
     "answer": "D",
-    "explanation": "The Indian Constitution is flexible and dynamic. As required, it can be amended according to the procedure given in Article 368 of the Constitution. In the Indian Constitution, amendments can be made in three ways—\nSource: 70th B.P.S.C Re-Exam 2024",
+    "explanation": "The Indian Constitution is flexible and dynamic. As required, it can be amended according to the procedure given in Article 368 of the Constitution. In the Indian Constitution, amendments can be made in three ways—\nSource: 70th B.P.S.C. Re-Exam 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 208,
     "sourcePdfPage": 208,
@@ -40156,7 +40156,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Special Provision for Certain Class, Miscellaneous",
-    "question": "The First l aw University in India was established in August 1887 in –",
+    "question": "The First law University in India was established in August 1887 in –",
     "options": [
       "Trivandrum",
       "Ahmedabad",
@@ -40210,7 +40210,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Special Provision for Certain Class, Miscellaneous",
-    "question": "Who was the Chairman of the First l aw Commission in Independent India",
+    "question": "Who was the Chairman of the First law Commission in Independent India",
     "options": [
       "Justice J. L. Kapur",
       "Justice V . K. Sundaram",
@@ -40338,7 +40338,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Special Provision for Certain Class, Miscellaneous",
-    "question": "As a result of which treaty was the l eague of n ations established",
+    "question": "As a result of which treaty was the League of Nations established",
     "options": [
       "Treaty of Brest-Litovsk",
       "Treaty of Trianon",
@@ -40357,7 +40357,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Special Provision for Certain Class, Miscellaneous",
-    "question": "In the United n ations Security Council, which of the following countries is not a permanent member",
+    "question": "In the United Nations Security Council, which of the following countries is not a permanent member",
     "options": [
       "Japan",
       "United States of America",
@@ -40375,7 +40375,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Special Provision for Certain Class, Miscellaneous",
-    "question": "Which of the following countries is not a permanent member of the United n ations Security Council",
+    "question": "Which of the following countries is not a permanent member of the United Nations Security Council",
     "options": [
       "France",
       "Germany",
@@ -40393,7 +40393,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Special Provision for Certain Class, Miscellaneous",
-    "question": "Which of the following is not a permanent member of the United n ations Security Council",
+    "question": "Which of the following is not a permanent member of the United Nations Security Council",
     "options": [
       "Germany",
       "France",
@@ -40411,7 +40411,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Polity and Governance",
     "section": "",
     "topic": "Special Provision for Certain Class, Miscellaneous",
-    "question": "On what date did India begin its two-year term as a non-permanent member of the United n ations Security Council",
+    "question": "On what date did India begin its two-year term as a non-permanent member of the United Nations Security Council",
     "options": [
       "1 October 2020",
       "1 November 2020",
@@ -40420,7 +40420,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "C",
-    "explanation": "In the election held during the 74 th session of the United Nations General Assembly, India was elected for non- permanent membership for the years 2021 and 2022. India’s two-year term began on 1 January 2021. The Security Council has a total of 15 members, of which 5 are permanent and 10 are non-permanent members.\nSource: July 2021 67th B.P.S.C. (Pre) 2022",
+    "explanation": "In the election held during the 74 th session of the United Nations General Assembly, India was elected for non-permanent membership for the years 2021 and 2022. India’s two-year term began on 1 January 2021. The Security Council has a total of 15 members, of which 5 are permanent and 10 are non-permanent members.\nSource: July 2021 67th B.P.S.C. (Pre) 2022",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 210,
     "sourcePdfPage": 210,
@@ -40662,7 +40662,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "E",
-    "explanation": "The Indian states and Union Territories bordering Pakistan are Jammu and Kashmir, Ladakh, Punjab, Rajasthan, and Gujarat. The Indian states bordering Bangladesh are Assam, West Bengal, Mizoram, Meghalaya, and Tripura. Therefore, no Indian state shares a common border with both Pakistan and Bangladesh. PHy SICAL dI v ISIOn n atural Region of India\nSource: B.P.S.C. School Teacher (Class 6-8) 10-12-2023",
+    "explanation": "The Indian states and Union Territories bordering Pakistan are Jammu and Kashmir, Ladakh, Punjab, Rajasthan, and Gujarat. The Indian states bordering Bangladesh are Assam, West Bengal, Mizoram, Meghalaya, and Tripura. Therefore, no Indian state shares a common border with both Pakistan and Bangladesh. PHy SICAL dI v ISIOn natural Region of India\nSource: B.P.S.C. School Teacher (Class 6-8) 10-12-2023",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 212,
     "sourcePdfPage": 212,
@@ -40691,7 +40691,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Physical Divisions",
-    "question": "Consider the following statements regarding the\nformation of landforms in India :\nI. Structurally, the Meghalaya Plateau is an extended\npart of the d eccan Plateau.\nII. The valley of Kashmir was formed in a synclinorium.\nIII. The Gangetic plain was formed in a foredeep.\nIv. The Himalayas originated as a result of triangular\nconvergence of the Indian Plate, the European\nPlate and the Chinese Plate.\nWhich of these statements are correct",
+    "question": "Consider the following statements regarding the\nformation of landforms in India :\nI. Structurally, the Meghalaya Plateau is an extended\npart of the Deccan Plateau.\nII. The valley of Kashmir was formed in a synclinorium.\nIII. The Gangetic plain was formed in a foredeep.\nIv. The Himalayas originated as a result of triangular\nconvergence of the Indian Plate, the European\nPlate and the Chinese Plate.\nWhich of these statements are correct",
     "options": [
       "I, II and III",
       "I, III and IV",
@@ -40709,7 +40709,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Physical Divisions",
-    "question": "As per geographical area, arrange the following physiographic units of India in ascending order 1. Central Highlands 2. Great Plains 3. Coastal Plains 4. n orthern Mountains Select the correct answer using the codes given below.",
+    "question": "As per geographical area, arrange the following physiographic units of India in ascending order 1. Central Highlands 2. Great Plains 3. Coastal Plains 4. Northern Mountains Select the correct answer using the codes given below.",
     "options": [
       "3, 1, 2, 4",
       "1, 2, 3, 4",
@@ -40756,7 +40756,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "A",
-    "explanation": "The Southern Peninsular Highlands are a part of Gondwanaland. It mainly includes parts of Madhya Pradesh, Andhra Pradesh, Telangana, and Maharashtra, etc. n orthern Mountainous Region\nSource: B.P.S.C. Teacher (11th-12th) 26-08-2023",
+    "explanation": "The Southern Peninsular Highlands are a part of Gondwanaland. It mainly includes parts of Madhya Pradesh, Andhra Pradesh, Telangana, and Maharashtra, etc. Northern Mountainous Region\nSource: B.P.S.C. Teacher (11th-12th) 26-08-2023",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 213,
     "sourcePdfPage": 213,
@@ -40784,7 +40784,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Physical Divisions",
-    "question": "Arrange the following ranges from n orth to South in sequence : 1. Ladakh 2. Karakoram 3. Pir Panjal 4. Zanskar Select the correct answer using the codes given below.",
+    "question": "Arrange the following ranges from North to South in sequence : 1. Ladakh 2. Karakoram 3. Pir Panjal 4. Zanskar Select the correct answer using the codes given below.",
     "options": [
       "1, 3, 2, 4",
       "2, 1, 4, 3",
@@ -40933,7 +40933,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Physical Divisions",
-    "question": "Which of the following mountain ranges divides the Ganga Plain and the d eccan Plateau",
+    "question": "Which of the following mountain ranges divides the Ganga Plain and the Deccan Plateau",
     "options": [
       "Vindhyan Range",
       "Himalayan Range",
@@ -41208,7 +41208,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Physical Divisions",
-    "question": "The average height of the snow line in u ttar Pradesh is—",
+    "question": "The average height of the snow line in Uttar Pradesh is—",
     "options": [
       "6500 me",
       "7500 me",
@@ -41216,7 +41216,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "4500 me"
     ],
     "answer": "",
-    "explanation": "The altitude above which snow remains permanently throughout the year at a particular place is called the snow- line altitude. After the separation of Uttarakhand, there is no snow line in Uttar Pradesh. Therefore, none of the options is correct.\nSource: tres tres tres tres 70th B.P.S.C. Re-Exam (Pre) 2024",
+    "explanation": "The altitude above which snow remains permanently throughout the year at a particular place is called the snow-line altitude. After the separation of Uttarakhand, there is no snow line in Uttar Pradesh. Therefore, none of the options is correct.\nSource: tres tres tres tres 70th B.P.S.C. Re-Exam (Pre) 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 216,
     "sourcePdfPage": 216,
@@ -41263,7 +41263,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Physical Divisions",
-    "question": "d andakaranya region lies in the state of:",
+    "question": "Dandakaranya region lies in the state of:",
     "options": [
       "Odisha",
       "Chhattisgarh",
@@ -41420,7 +41420,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "A",
-    "explanation": "Coral reefs are not found in the Gulf of Cambay (Khambhat). States/u nion Territories of India\nSource: 65th B.P.S.C. (Pre) 2019",
+    "explanation": "Coral reefs are not found in the Gulf of Cambay (Khambhat). States/Union Territories of India\nSource: 65th B.P.S.C. (Pre) 2019",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 218,
     "sourcePdfPage": 218,
@@ -41430,7 +41430,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Indian Coastline, Island group of Arabian Sea",
-    "question": "Which district of u ttarakhand is not situated along the Tibet boundary",
+    "question": "Which district of Uttarakhand is not situated along the Tibet boundary",
     "options": [
       "Uttarkashi",
       "Chamoli",
@@ -41456,7 +41456,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Rajasthan"
     ],
     "answer": "C",
-    "explanation": "Madhya Pradesh is bordered by Uttar Pradesh in the northeast, Chhattisgarh in the southeast, Maharashtra in the southwest, Gujarat in the west and Rajasthan in the northwest. Madhya Pradesh has the longest border with Uttar Pradesh.\nSource: 70th B.P.S.C Re-Exam 2024",
+    "explanation": "Madhya Pradesh is bordered by Uttar Pradesh in the northeast, Chhattisgarh in the southeast, Maharashtra in the southwest, Gujarat in the west and Rajasthan in the northwest. Madhya Pradesh has the longest border with Uttar Pradesh.\nSource: 70th B.P.S.C. Re-Exam 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 218,
     "sourcePdfPage": 218,
@@ -41466,7 +41466,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Indian Coastline, Island group of Arabian Sea",
-    "question": "v idarbha is a regional name in India and it is a part of –",
+    "question": "Vidarbha is a regional name in India and it is a part of –",
     "options": [
       "Gujarat",
       "Maharashtra",
@@ -41556,7 +41556,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "States / Union Territories of India",
-    "question": "As per the area, what is the correct descending order\nof the following States\n(1) Andhra Pradesh (2) Bihar\n(3) Madhya Pradesh (4) u ttar Pradesh\nCode :",
+    "question": "As per the area, what is the correct descending order\nof the following States\n(1) Andhra Pradesh (2) Bihar\n(3) Madhya Pradesh (4) Uttar Pradesh\nCode :",
     "options": [
       "3, 2, 4, 1",
       "1, 2, 3, 4",
@@ -41592,7 +41592,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "States / Union Territories of India",
-    "question": "How many States and u nion Territories surround the state of Assam",
+    "question": "How many States and Union Territories surround the state of Assam",
     "options": [
       "6",
       "7",
@@ -41665,7 +41665,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "States / Union Territories of India",
-    "question": "Which is the Scotland of n orth-East India",
+    "question": "Which is the Scotland of North-East India",
     "options": [
       "Arunachal Pradesh",
       "Assam",
@@ -41673,7 +41673,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Meghalaya"
     ],
     "answer": "D",
-    "explanation": "Shillong, located in Meghalaya, is called the Scotland of North-East India. It is a major tourist centre of the region.\nSource: 70th B.P.S.C Re-Exam 2024",
+    "explanation": "Shillong, located in Meghalaya, is called the Scotland of North-East India. It is a major tourist centre of the region.\nSource: 70th B.P.S.C. Re-Exam 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 219,
     "sourcePdfPage": 219,
@@ -41848,7 +41848,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Species / Tribes",
-    "question": "n on-Scheduled people concentrated in the central valley of Manipur are called-",
+    "question": "non-Scheduled people concentrated in the central valley of Manipur are called-",
     "options": [
       "Meitei",
       "Mishmi",
@@ -41857,7 +41857,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "A",
-    "explanation": "The non-scheduled people concentrated in the central valley of Manipur are called Meitei. They are demanding inclusion in the list of Scheduled Tribes of the state. Kuki is an ethnic group that includes many tribes originally living in northeastern states such as Manipur, Mizoram, and Assam. dRAI n AGE Sy STEM Ganga d rainage System\nSource: B.P.S.C. (C.d .P.O.) (Pre) 2018",
+    "explanation": "The non-scheduled people concentrated in the central valley of Manipur are called Meitei. They are demanding inclusion in the list of Scheduled Tribes of the state. Kuki is an ethnic group that includes many tribes originally living in northeastern states such as Manipur, Mizoram, and Assam. dRAI n AGE Sy STEM Ganga drainage System\nSource: B.P.S.C. (C.d .P.O.) (Pre) 2018",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 220,
     "sourcePdfPage": 220,
@@ -41968,7 +41968,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "E",
-    "explanation": "The North Koel River flows in Jharkhand and is a tributary of the Son River, which joins the Ganga near Patna. The South Koel River flows through Jharkhand and Odisha and, after joining the Shankh River near Rourkela, flows as the Brahmani River. The Barakar River is the main tributary of the Damodar River, which ultimately joins the Hooghly in the lower Ganga Basin. The Damodar River Basin is a sub- basin of the Ganga River Basin. Hence, more than one river listed is part of the Ganga River Basin. Brahmaputra d rainage System\nSource: 65th B.P.S.C. (Pre) 2019",
+    "explanation": "The North Koel River flows in Jharkhand and is a tributary of the Son River, which joins the Ganga near Patna. The South Koel River flows through Jharkhand and Odisha and, after joining the Shankh River near Rourkela, flows as the Brahmani River. The Barakar River is the main tributary of the Damodar River, which ultimately joins the Hooghly in the lower Ganga Basin. The Damodar River Basin is a sub-basin of the Ganga River Basin. Hence, more than one river listed is part of the Ganga River Basin. Brahmaputra drainage System\nSource: 65th B.P.S.C. (Pre) 2019",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 221,
     "sourcePdfPage": 221,
@@ -42087,7 +42087,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Drainage System, Cities Located on the Bank of Rivers, Waterfalls and Lakes",
-    "question": "Son, n armada, and Mahanadi originate from –",
+    "question": "Son, Narmada, and Mahanadi originate from –",
     "options": [
       "Palamu Hills",
       "Amarkantak",
@@ -42105,7 +42105,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Drainage System, Cities Located on the Bank of Rivers, Waterfalls and Lakes",
-    "question": "Westward flowing rivers are –\n(i) n armada (ii) Tapti (iii) Rapti\nCode :",
+    "question": "Westward flowing rivers are –\n(i) Narmada (ii) Tapti (iii) Rapti\nCode :",
     "options": [
       "(i) and (ii)",
       "(ii) and (iii)",
@@ -42215,7 +42215,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Drainage System, Cities Located on the Bank of Rivers, Waterfalls and Lakes",
-    "question": "Indravati-Sabari Rivers in d andakaranya are the tributaries of",
+    "question": "Indravati-Sabari Rivers in Dandakaranya are the tributaries of",
     "options": [
       "Mahanadi River",
       "Godavari River",
@@ -42242,7 +42242,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Maikal Range"
     ],
     "answer": "D",
-    "explanation": "Amarkantak peak/hill, which is the source region of the Son River, is located in the Maikal Range. The Narmada River also originates from Amarkantak. The Vindhya Range lies to the north and the Satpura Range to the south. The Narmada flows through a rift valley situated between these two ranges. Other Rivers\nSource: 70th B.P.S.C Re-Exam 2024",
+    "explanation": "Amarkantak peak/hill, which is the source region of the Son River, is located in the Maikal Range. The Narmada River also originates from Amarkantak. The Vindhya Range lies to the north and the Satpura Range to the south. The Narmada flows through a rift valley situated between these two ranges. Other Rivers\nSource: 70th B.P.S.C. Re-Exam 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 223,
     "sourcePdfPage": 223,
@@ -42279,7 +42279,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "A",
-    "explanation": "Most Himalayan rivers are perennial because they receive water from glaciers, while most Peninsular rivers are rainfall- fed. The gradient of Himalayan rivers is steeper. Peninsular rivers do not cause more erosion than Himalayan rivers.\nSource: 67th B.P.S.C. (Pre) 2022",
+    "explanation": "Most Himalayan rivers are perennial because they receive water from glaciers, while most Peninsular rivers are rainfall-fed. The gradient of Himalayan rivers is steeper. Peninsular rivers do not cause more erosion than Himalayan rivers.\nSource: 67th B.P.S.C. (Pre) 2022",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 223,
     "sourcePdfPage": 223,
@@ -42308,7 +42308,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Drainage System, Cities Located on the Bank of Rivers, Waterfalls and Lakes",
-    "question": "Which of the following do the d amodar, Koel, and Subarnarekha rivers originate",
+    "question": "Which of the following do the Damodar, Koel, and Subarnarekha rivers originate",
     "options": [
       "Deccan Plateau",
       "Central Highland",
@@ -42327,7 +42327,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Drainage System, Cities Located on the Bank of Rivers, Waterfalls and Lakes",
-    "question": "River d amodar emerges from –",
+    "question": "River Damodar emerges from –",
     "options": [
       "Tibet",
       "Chotanagpur",
@@ -42389,7 +42389,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "B",
-    "explanation": "The Luni River originates from the Pushkar Valley of Ajmer, located in the Aravalli Mountain Range near Ajmer. It flows in the south-west direction through Rajasthan and Gujarat and finally disappears in the Rann of Kutch. It is an inland- draining (endorheic) river. n ote- As “Naga Hill” is not given in the options, the appropriate answer will be Pushkar Valley. Therefore, option (b) is correct.\nSource: B.P.S.C. (B.A.O) March, 2024",
+    "explanation": "The Luni River originates from the Pushkar Valley of Ajmer, located in the Aravalli Mountain Range near Ajmer. It flows in the south-west direction through Rajasthan and Gujarat and finally disappears in the Rann of Kutch. It is an inland-draining (endorheic) river. Note- As “Naga Hill” is not given in the options, the appropriate answer will be Pushkar Valley. Therefore, option (b) is correct.\nSource: B.P.S.C. (B.A.O) March, 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 224,
     "sourcePdfPage": 224,
@@ -42418,7 +42418,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Drainage System, Cities Located on the Bank of Rivers, Waterfalls and Lakes",
-    "question": "Match List-I with List-II:\nList - I List - II\nA. Char 1. Punjab Plain\nB. Kankar 2. d elta\nC. Kayal 3. Bangar\nd . Mand 4. Coastal Plain",
+    "question": "Match List-I with List-II:\nList - I List - II\nA. Char 1. Punjab Plain\nB. Kankar 2. delta\nC. Kayal 3. Bangar\nd . Mand 4. Coastal Plain",
     "options": [
       "A - (1), B - (4), C - (2), D - (3)",
       "A - (2), B - (3), C - (4), D - (1)",
@@ -42455,7 +42455,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Drainage System, Cities Located on the Bank of Rivers, Waterfalls and Lakes",
-    "question": "Which river forms the border between India and n epal",
+    "question": "Which river forms the border between India and Nepal",
     "options": [
       "Kosi",
       "Kali",
@@ -42474,7 +42474,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Drainage System, Cities Located on the Bank of Rivers, Waterfalls and Lakes",
-    "question": "Amid the distributaries of which river is situated d ivi Island",
+    "question": "Amid the distributaries of which river is situated Divi Island",
     "options": [
       "Mahananda",
       "Vamsadhara",
@@ -42482,7 +42482,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Krishna"
     ],
     "answer": "D",
-    "explanation": "Divi Island (Diviseema Island) is a deltaic region located in the Krishna district of Andhra Pradesh, where the Krishna River flows into the Bay of Bengal. The island lies between the distributaries of the Krishna River. It frequently faces cyclones and other natural disasters, resulting in heavy loss of life and property.\nSource: 70th B.P.S.C Re-Exam 2024",
+    "explanation": "Divi Island (Diviseema Island) is a deltaic region located in the Krishna district of Andhra Pradesh, where the Krishna River flows into the Bay of Bengal. The island lies between the distributaries of the Krishna River. It frequently faces cyclones and other natural disasters, resulting in heavy loss of life and property.\nSource: 70th B.P.S.C. Re-Exam 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 225,
     "sourcePdfPage": 225,
@@ -42609,7 +42609,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Bodh Gaya"
     ],
     "answer": "A",
-    "explanation": "Hundru Waterfall is located near Ranchi on the Subarnarekha River. Its height is 98 meters. n ote- In the given question, the mention of “Asia’s largest waterfall” is erroneous.\nSource: 45th B.P.S.C. (Pre) 2001",
+    "explanation": "Hundru Waterfall is located near Ranchi on the Subarnarekha River. Its height is 98 meters. Note- In the given question, the mention of “Asia’s largest waterfall” is erroneous.\nSource: 45th B.P.S.C. (Pre) 2001",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 226,
     "sourcePdfPage": 226,
@@ -42693,7 +42693,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Climate, Natural Disasters",
-    "question": "d uring the monsoon season in India, most of the cyclones have their origin",
+    "question": "during the monsoon season in India, most of the cyclones have their origin",
     "options": [
       "between 8° N and 13° N latitude",
       "between 10° N and 15° N latitude",
@@ -42786,7 +42786,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Climate, Natural Disasters",
-    "question": "d eclining of monsoon is indicated by:\n(i) Clear sky\n(ii) Pressure condition in the Bay of Bengal\n(iii) Rising temperature on land\nSelect your answer using the following code –",
+    "question": "declining of monsoon is indicated by:\n(i) Clear sky\n(ii) Pressure condition in the Bay of Bengal\n(iii) Rising temperature on land\nSelect your answer using the following code –",
     "options": [
       "Only i",
       "Both i and ii",
@@ -42794,7 +42794,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Both ii and iii"
     ],
     "answer": "C",
-    "explanation": "During October–November, due to the Sun’s apparent southward movement, the monsoon trough or the low- pressure system over the northern plains weakens and gradually high pressure replaces it. In the beginning of November, the low-pressure condition over north-west India shifts to the Bay of Bengal. In early October, monsoon winds withdraw from the northern plains. October–November is a transition period from the hot rainy season to winter. During the monsoon retreat season, the sky becomes clear and temperature starts rising, while nights become cool and pleasant. However, due to sufficient humidity, daytime weather becomes uncomfortable because of humidity-related heat, commonly called the heat of the Kartik month. In the latter half of October, temperature starts falling rapidly; this fall is seen especially in northern India.\nSource: 40th B.P.S.C. (Pre) 1995",
+    "explanation": "During October–November, due to the Sun’s apparent southward movement, the monsoon trough or the low-pressure system over the northern plains weakens and gradually high pressure replaces it. In the beginning of November, the low-pressure condition over north-west India shifts to the Bay of Bengal. In early October, monsoon winds withdraw from the northern plains. October–November is a transition period from the hot rainy season to winter. During the monsoon retreat season, the sky becomes clear and temperature starts rising, while nights become cool and pleasant. However, due to sufficient humidity, daytime weather becomes uncomfortable because of humidity-related heat, commonly called the heat of the Kartik month. In the latter half of October, temperature starts falling rapidly; this fall is seen especially in northern India.\nSource: 40th B.P.S.C. (Pre) 1995",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 227,
     "sourcePdfPage": 227,
@@ -42860,7 +42860,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Climate, Natural Disasters",
-    "question": "The powerful El n iño in India is the cause of -",
+    "question": "The powerful El Niño in India is the cause of -",
     "options": [
       "Normal rainfall",
       "Excessive rainfall",
@@ -42896,7 +42896,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Climate, Natural Disasters",
-    "question": "Which of the following receives heavy rainfall in the month of October and n ovember",
+    "question": "Which of the following receives heavy rainfall in the month of October and November",
     "options": [
       "Hills of Garo, Khasi and Jaintia",
       "Coromandel Coast",
@@ -42971,7 +42971,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Climate, Natural Disasters",
-    "question": "d ryland agriculture in India is practised in areas having annual rainfall less than",
+    "question": "dryland agriculture in India is practised in areas having annual rainfall less than",
     "options": [
       "150 cm",
       "125 cm",
@@ -43017,7 +43017,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Odisha"
     ],
     "answer": "",
-    "explanation": "According to the India Meteorological Department, all the given states receive rainfall in the winter season (January– February); however, Kerala and Tamil Nadu receive comparatively higher rainfall during this period. As per India Rainfall Data—2024, during the year 2024, the highest winter rainfall among the given states was recorded in Kerala (59.6 mm), while Tamil Nadu (52.0 mm) ranked second. n atural d isaster\nSource: 44th B.P.S.C. (Pre) 2000",
+    "explanation": "According to the India Meteorological Department, all the given states receive rainfall in the winter season (January– February); however, Kerala and Tamil Nadu receive comparatively higher rainfall during this period. As per India Rainfall Data—2024, during the year 2024, the highest winter rainfall among the given states was recorded in Kerala (59.6 mm), while Tamil Nadu (52.0 mm) ranked second. natural disaster\nSource: 44th B.P.S.C. (Pre) 2000",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 229,
     "sourcePdfPage": 229,
@@ -43027,7 +43027,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Climate, Natural Disasters",
-    "question": "Match List-I (n atural Hazards) with List-II (Regions)\nand select the correct answer using the codes given\nbelow the lists:\nList-I List-II\n(n atural Hazards) (Regions)\nA. Floods 1. Himalayan foothill\nZone\nB. Earthquakes 2. Jharkhand and\nn orthern Odisha\nC. droughts 3. Plains of u ttar\nPradesh and Bihar\nd . Cyclones 4. Mid-Eastern India.\nCode :\nA B C D",
+    "question": "Match List-I (natural Hazards) with List-II (Regions)\nand select the correct answer using the codes given\nbelow the lists:\nList-I List-II\n(natural Hazards) (Regions)\nA. Floods 1. Himalayan foothill\nZone\nB. Earthquakes 2. Jharkhand and\nNorthern Odisha\nC. droughts 3. Plains of Uttar\nPradesh and Bihar\nd . Cyclones 4. Mid-Eastern India.\nCode :\nA B C D",
     "options": [
       "3 1 2 4",
       "3 1 4 2",
@@ -43147,7 +43147,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above / More than one of the above"
     ],
     "answer": "C",
-    "explanation": "Alluvial soil is formed from the silt deposited by rivers. Alluvial soils are divided into two sub-types— (1) n ew alluvium or Khadar: Khadar is formed in the river’s floodplain area, where a fresh layer of soil gets deposited every year during floods. (2) Old alluvium or Bhangar: This soil is found at some height away from the reach of floods.\nSource: 63rd B.P.S.C. (Pre) 2017",
+    "explanation": "Alluvial soil is formed from the silt deposited by rivers. Alluvial soils are divided into two sub-types— (1) New alluvium or Khadar: Khadar is formed in the river’s floodplain area, where a fresh layer of soil gets deposited every year during floods. (2) Old alluvium or Bhangar: This soil is found at some height away from the reach of floods.\nSource: 63rd B.P.S.C. (Pre) 2017",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 230,
     "sourcePdfPage": 230,
@@ -43349,7 +43349,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Soil is protected from damage"
     ],
     "answer": "D",
-    "explanation": "In a broad sense, soil conservation does not mean only controlling soil erosion, but also maintaining a high level of land fertility. In general, the measures adopted to protect soil from damage and to conserve its fertility and health are known as soil conservation. n atural v egetation\nSource: 39th B.P.S.C. (Pre) 1994",
+    "explanation": "In a broad sense, soil conservation does not mean only controlling soil erosion, but also maintaining a high level of land fertility. In general, the measures adopted to protect soil from damage and to conserve its fertility and health are known as soil conservation. natural vegetation\nSource: 39th B.P.S.C. (Pre) 1994",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 231,
     "sourcePdfPage": 231,
@@ -43413,7 +43413,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Soils, Soil Erosion and Conservation",
-    "question": "What is the evergreen forest area of the Ganges d elta called",
+    "question": "What is the evergreen forest area of the Ganges delta called",
     "options": [
       "Sundargarh",
       "Sundarban",
@@ -43563,7 +43563,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Natural Vegetation",
-    "question": "Choose the forests found in the Western Ghats, n orth- Eastern region hills, and Andaman & n icobar Islands.",
+    "question": "Choose the forests found in the Western Ghats, North- Eastern region hills, and Andaman & Nicobar Islands.",
     "options": [
       "Tropical thorn forest",
       "Tropical deciduous forest",
@@ -43619,7 +43619,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Irrigation and Canals, Multi-Purpose River Valley Projects",
-    "question": "The origin of the Indira Gandhi Canal, which irrigates the Thar d esert, is -",
+    "question": "The origin of the Indira Gandhi Canal, which irrigates the Thar desert, is -",
     "options": [
       "Bhakra Dam",
       "Hathnikund Barrage",
@@ -43666,7 +43666,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "C",
-    "explanation": "In India, the maximum amount of water is used for irrigation purposes. Mu LTI-Pu RPOSE RIv ER vALLEy PROJECTS Bhakra n angal d am\nSource: BPSC (Tre-3) July–2024",
+    "explanation": "In India, the maximum amount of water is used for irrigation purposes. Mu LTI-Pu RPOSE RIv ER vALLEy PROJECTS Bhakra Nangal dam\nSource: BPSC (Tre-3) July–2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 234,
     "sourcePdfPage": 234,
@@ -43676,7 +43676,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Irrigation and Canals, Multi-Purpose River Valley Projects",
-    "question": "Bhakra n angal is a joint project of –",
+    "question": "Bhakra Nangal is a joint project of –",
     "options": [
       "Haryana, Punjab and Rajasthan",
       "Haryana, Punjab and Delhi",
@@ -43694,7 +43694,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Irrigation and Canals, Multi-Purpose River Valley Projects",
-    "question": "On which river is the Bhakra n angal dam built",
+    "question": "On which river is the Bhakra Nangal dam built",
     "options": [
       "Ravi",
       "Indus",
@@ -43702,7 +43702,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Sutlej"
     ],
     "answer": "D",
-    "explanation": "See the explanation of the above question. d am at the River Cauvery\nSource: 45th B.P.S.C. (Pre) 2001",
+    "explanation": "See the explanation of the above question. dam at the River Cauvery\nSource: 45th B.P.S.C. (Pre) 2001",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 234,
     "sourcePdfPage": 234,
@@ -43720,7 +43720,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Shivsamudram"
     ],
     "answer": "D",
-    "explanation": "Hydropower development began in the last decade of the nineteenth century. In 1897, the country’s first hydropower plant was established at Sidrapong in Darjeeling. At Shivsamudram, located on the Kaveri River in Karnataka, a hydropower generation plant was established in 1902. Therefore, among the given options, (d) is the intended answer. n agarjuna Sagar d am\nSource: 43rd B.P.S.C. (Pre) 1999",
+    "explanation": "Hydropower development began in the last decade of the nineteenth century. In 1897, the country’s first hydropower plant was established at Sidrapong in Darjeeling. At Shivsamudram, located on the Kaveri River in Karnataka, a hydropower generation plant was established in 1902. Therefore, among the given options, (d) is the intended answer. Nagarjuna Sagar dam\nSource: 43rd B.P.S.C. (Pre) 1999",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 234,
     "sourcePdfPage": 234,
@@ -43730,7 +43730,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Irrigation and Canals, Multi-Purpose River Valley Projects",
-    "question": "‘n agarjuna Sagar Multipurpose Project’ is on which river",
+    "question": "‘Nagarjuna Sagar Multipurpose Project’ is on which river",
     "options": [
       "Tapti",
       "Kosi",
@@ -43738,7 +43738,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Krishna"
     ],
     "answer": "D",
-    "explanation": "The Nagarjuna Sagar multi-purpose project is a major project. It has been constructed on the Krishna River. At present, this project is spread across the states of Andhra Pradesh and Telangana. Hirakud d am\nSource: 56th to 59th B.P.S.C. (Pre) 2015",
+    "explanation": "The Nagarjuna Sagar multi-purpose project is a major project. It has been constructed on the Krishna River. At present, this project is spread across the states of Andhra Pradesh and Telangana. Hirakud dam\nSource: 56th to 59th B.P.S.C. (Pre) 2015",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 235,
     "sourcePdfPage": 235,
@@ -43748,7 +43748,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Irrigation and Canals, Multi-Purpose River Valley Projects",
-    "question": "On which river is the Hirakud d am constructed",
+    "question": "On which river is the Hirakud dam constructed",
     "options": [
       "Shivnath",
       "Narmada",
@@ -43756,7 +43756,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Son"
     ],
     "answer": "C",
-    "explanation": "Hirakud Dam is a multi-purpose project built on the Mahanadi River in the state of Odisha. It is about 60.96 metres (maximum) high and 4.8 km in length (length of the main dam). The total length of the dam is 25.8 km. Through this project, irrigation is provided to about 155635/159106 hectares of Kharif crops and 108385 hectares of Rabi crops. d amodar v alley Project\nSource: 44th B.P.S.C. (Pre) 2000",
+    "explanation": "Hirakud Dam is a multi-purpose project built on the Mahanadi River in the state of Odisha. It is about 60.96 metres (maximum) high and 4.8 km in length (length of the main dam). The total length of the dam is 25.8 km. Through this project, irrigation is provided to about 155635/159106 hectares of Kharif crops and 108385 hectares of Rabi crops. Damodar Valley Project\nSource: 44th B.P.S.C. (Pre) 2000",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 235,
     "sourcePdfPage": 235,
@@ -43784,7 +43784,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Irrigation and Canals, Multi-Purpose River Valley Projects",
-    "question": "When was the d amodar v alley Corporation established",
+    "question": "When was the Damodar Valley Corporation established",
     "options": [
       "1950",
       "1954",
@@ -43802,7 +43802,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Irrigation and Canals, Multi-Purpose River Valley Projects",
-    "question": "On which river did Prime Minister n arendra Modi recently lay the foundation stone for the Mandal d am project",
+    "question": "On which river did Prime Minister Narendra Modi recently lay the foundation stone for the Mandal dam project",
     "options": [
       "Kosi",
       "Burhi Gandak",
@@ -43859,7 +43859,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Agriculture, Green Revolution",
-    "question": "d ouble cropping in agriculture means raising of",
+    "question": "Double cropping in agriculture means raising of",
     "options": [
       "Two crops at different times",
       "Two crops simultaneously",
@@ -44051,7 +44051,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Uttar Pradesh"
     ],
     "answer": "D",
-    "explanation": "India’s largest wheat-producing state is Uttar Pradesh. In 2024–25, Uttar Pradesh produced 35.65 million tonnes of wheat, which is the highest in India. After Uttar Pradesh, the second and third positions are respectively held by Madhya Pradesh (24.51 million tonnes) and Punjab (17.99 million tonnes). According to the Economic Survey 2025-26 wheat- producing states of India are—Uttar Pradesh, Madhya Pradesh, Punjab.\nSource: 53rd to 55th B.P.S.C. (Pre) 2011",
+    "explanation": "India’s largest wheat-producing state is Uttar Pradesh. In 2024–25, Uttar Pradesh produced 35.65 million tonnes of wheat, which is the highest in India. After Uttar Pradesh, the second and third positions are respectively held by Madhya Pradesh (24.51 million tonnes) and Punjab (17.99 million tonnes). According to the Economic Survey 2025-26 wheat-producing states of India are—Uttar Pradesh, Madhya Pradesh, Punjab.\nSource: 53rd to 55th B.P.S.C. (Pre) 2011",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 237,
     "sourcePdfPage": 237,
@@ -44123,7 +44123,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Wheat"
     ],
     "answer": "B",
-    "explanation": "In India, mainly three major crop seasons are considered- Kharif, Rabi and Zaid. Barley, gram and wheat- all three are Rabi crops. Sugarcane is technically an annual/long- duration cash crop. Compared to Rabi crops (barley, gram, wheat), sugarcane is placed more on the Kharif side because it requires higher temperature and relatively more water, and in the crop-classification of many states it is linked with the Kharif/monsoon-based season.\nSource: 71st B.P.S.C. (Pre) 2025",
+    "explanation": "In India, mainly three major crop seasons are considered- Kharif, Rabi and Zaid. Barley, gram and wheat- all three are Rabi crops. Sugarcane is technically an annual/long-duration cash crop. Compared to Rabi crops (barley, gram, wheat), sugarcane is placed more on the Kharif side because it requires higher temperature and relatively more water, and in the crop-classification of many states it is linked with the Kharif/monsoon-based season.\nSource: 71st B.P.S.C. (Pre) 2025",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 238,
     "sourcePdfPage": 238,
@@ -44160,7 +44160,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above / More than one of the above"
     ],
     "answer": "D",
-    "explanation": "In 2020, and even at present, rice has the largest area among the crops grown in India. In 2024-25, the top three rice- producing states in India were Uttar Pradesh, Telangana and West Bengal. As per 2023 data, at the global level, China ranks second after India in rice production.\nSource: B.P.S.C. Cd PO (Pre) 2022",
+    "explanation": "In 2020, and even at present, rice has the largest area among the crops grown in India. In 2024-25, the top three rice-producing states in India were Uttar Pradesh, Telangana and West Bengal. As per 2023 data, at the global level, China ranks second after India in rice production.\nSource: B.P.S.C. Cd PO (Pre) 2022",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 238,
     "sourcePdfPage": 238,
@@ -44207,7 +44207,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Food Crops, Cash Crops, Plantation Crops, Agriculture: Miscellaneous, Animal Husbandry",
-    "question": "Consider the following states:\n1. Punjab 2. u ttar Pradesh\n3. Andhra Pradesh 4. West Bengal\nChoose the correct ascending order of the above as\nrice-producing states in India.",
+    "question": "Consider the following states:\n1. Punjab 2. Uttar Pradesh\n3. Andhra Pradesh 4. West Bengal\nChoose the correct ascending order of the above as\nrice-producing states in India.",
     "options": [
       "West Bengal, Punjab, Andhra Pradesh, Uttar Pradesh",
       "West Bengal, Uttar Pradesh, Andhra Pradesh, Punjab",
@@ -44436,7 +44436,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Tamil Nadu"
     ],
     "answer": "C",
-    "explanation": "India’s largest natural rubber-producing state is Kerala. On the basis of 2023-24 data, about 71.13 percent of the country’s total rubber production is produced in this state. Ernakulam, Kottayam, Idukki and Pathanamthitta are the major rubber- producing districts of Kerala. According to the FAO, In the year 2024, India ranked sixth in global natural rubber production.\nSource: 43rd B.P.S.C. (Pre) 1999",
+    "explanation": "India’s largest natural rubber-producing state is Kerala. On the basis of 2023-24 data, about 71.13 percent of the country’s total rubber production is produced in this state. Ernakulam, Kottayam, Idukki and Pathanamthitta are the major rubber-producing districts of Kerala. According to the FAO, In the year 2024, India ranked sixth in global natural rubber production.\nSource: 43rd B.P.S.C. (Pre) 1999",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 240,
     "sourcePdfPage": 240,
@@ -44529,7 +44529,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "A",
-    "explanation": "According to 2024-25 data, the top three coarse cereal- producing states in India are Rajasthan, Karnataka and Madhya Pradesh, respectively.\nSource: B.P.S.C. School Teacher 10-12-2023",
+    "explanation": "According to 2024-25 data, the top three coarse cereal-producing states in India are Rajasthan, Karnataka and Madhya Pradesh, respectively.\nSource: B.P.S.C. School Teacher 10-12-2023",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 241,
     "sourcePdfPage": 241,
@@ -44958,7 +44958,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Bihar, West Bengal, Madhya Pradesh"
     ],
     "answer": "",
-    "explanation": "At the time of the question, coal production in undivided Bihar (including Jharkhand) was higher than that in undivided Madhya Pradesh (including Chhattisgarh). Therefore, the intended answer was option (a). According to the Indian Minerals Yearbook, 2022, in 2021–22 (P) the leading coal- producing states (by quantity) in India were as follows—1. Odisha 2. Chhattisgarh 3. Madhya Pradesh.\nSource: 43rd B.P.S.C. (Pre) 1999",
+    "explanation": "At the time of the question, coal production in undivided Bihar (including Jharkhand) was higher than that in undivided Madhya Pradesh (including Chhattisgarh). Therefore, the intended answer was option (a). According to the Indian Minerals Yearbook, 2022, in 2021–22 (P) the leading coal-producing states (by quantity) in India were as follows—1. Odisha 2. Chhattisgarh 3. Madhya Pradesh.\nSource: 43rd B.P.S.C. (Pre) 1999",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 244,
     "sourcePdfPage": 244,
@@ -45086,7 +45086,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "All the above"
     ],
     "answer": "D",
-    "explanation": "The states having the largest total coal reserves (as on 1 April 2022) are: Odisha – 88,105 million tonnes Jharkhand – 86,660 million tonnes Chhattisgarh – 74,192 million tonnes Therefore, option (d) is the correct answer. Petroleum and n atural Gas\nSource: 70th B.P.S.C. Pre-2024",
+    "explanation": "The states having the largest total coal reserves (as on 1 April 2022) are: Odisha – 88,105 million tonnes Jharkhand – 86,660 million tonnes Chhattisgarh – 74,192 million tonnes Therefore, option (d) is the correct answer. Petroleum and natural Gas\nSource: 70th B.P.S.C. Pre-2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 245,
     "sourcePdfPage": 245,
@@ -45104,7 +45104,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Digboi, Assam"
     ],
     "answer": "D",
-    "explanation": "The oldest oilfield in India is located at Digboi in Assam. It lies in the Brahmaputra Valley, which is the oldest petroleum- producing region of the country. Miscellaneous : Minerals\nSource: 56th to 59th B.P.S.C. (Pre) 2015",
+    "explanation": "The oldest oilfield in India is located at Digboi in Assam. It lies in the Brahmaputra Valley, which is the oldest petroleum-producing region of the country. Miscellaneous : Minerals\nSource: 56th to 59th B.P.S.C. (Pre) 2015",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 245,
     "sourcePdfPage": 245,
@@ -45151,7 +45151,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Electrical Energy",
-    "question": "Arrange the following thermal power projects of India\nfrom east to west:\n1. Kota 2. n amrup\n3. Obra 4. Parichha\nChoose the correct answer using the code given below:",
+    "question": "Arrange the following thermal power projects of India\nfrom east to west:\n1. Kota 2. Namrup\n3. Obra 4. Parichha\nChoose the correct answer using the code given below:",
     "options": [
       "1, 2, 3, 4",
       "2, 4, 1, 3",
@@ -45234,7 +45234,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "The industry is the major energy consuming sector in India."
     ],
     "answer": "C",
-    "explanation": "At the time of the question, the contribution of non- conventional energy sources to India’s total commercial energy production was more than one percent; therefore, statement (c) was incorrect. In the present context, from 2012-13 to 2023-24 (P), energy production has shown an increasing trend. Per capita energy consumption in India is not the lowest in the world. Hence, in the present context, statements (a) and (b) are also not correct. Therefore, no option is correct.\nSource: trend. 47th B.P.S.C. (Pre) 2005",
+    "explanation": "At the time of the question, the contribution of non-conventional energy sources to India’s total commercial energy production was more than one percent; therefore, statement (c) was incorrect. In the present context, from 2012-13 to 2023-24 (P), energy production has shown an increasing trend. Per capita energy consumption in India is not the lowest in the world. Hence, in the present context, statements (a) and (b) are also not correct. Therefore, no option is correct.\nSource: trend. 47th B.P.S.C. (Pre) 2005",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 246,
     "sourcePdfPage": 246,
@@ -45353,7 +45353,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Electrical Energy",
-    "question": "When was the Oil and n atural Gas Commission (On GC) established",
+    "question": "When was the Oil and natural Gas Commission (On GC) established",
     "options": [
       "1856",
       "1914",
@@ -45466,7 +45466,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "options": [
       "1",
       "2",
-      "l and 3",
+      "land 3",
       "More than one of the above"
     ],
     "answer": "A",
@@ -45480,7 +45480,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Industry",
-    "question": "The largest number of cotton mills in Tamil n adu are found in :",
+    "question": "The largest number of cotton mills in Tamil Nadu are found in :",
     "options": [
       "Chennai",
       "Coimbatore",
@@ -45518,7 +45518,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Industry",
-    "question": "d ue to Partition, which industry of India was affected the most",
+    "question": "due to Partition, which industry of India was affected the most",
     "options": [
       "Cotton and sugar industry",
       "Engineering and cement industry",
@@ -45893,7 +45893,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "4 1/2 ft"
     ],
     "answer": "B",
-    "explanation": "On the basis of gauge (distance between two rails), railways are classified into three categories— (1) Metre gauge—distance between the two rails is 1 metre. (2) Broad (or broad line)—distance between the two rails is 1.676 m or 1676 mm or 5½ feet. (3) n arrow gauge—distance between the two rails is 762 mm or 610 mm.\nSource: 38th B.P.S.C. (Pre) 2008",
+    "explanation": "On the basis of gauge (distance between two rails), railways are classified into three categories— (1) Metre gauge—distance between the two rails is 1 metre. (2) Broad (or broad line)—distance between the two rails is 1.676 m or 1676 mm or 5½ feet. (3) narrow gauge—distance between the two rails is 762 mm or 610 mm.\nSource: 38th B.P.S.C. (Pre) 2008",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 252,
     "sourcePdfPage": 252,
@@ -46050,7 +46050,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Transport",
-    "question": "Jawaharlal n ehru Port is located in the State of:",
+    "question": "Jawaharlal Nehru Port is located in the State of:",
     "options": [
       "Goa",
       "Gujarat",
@@ -46106,7 +46106,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Transport",
-    "question": "Arrange the following ports of India from north to\nsouth:\n1. Kakinada 2. Machilipatnam\n3. n agapattinam 4. v isakhapatnam\nChoose the correct answer using the code given below:",
+    "question": "Arrange the following ports of India from north to\nsouth:\n1. Kakinada 2. Machilipatnam\n3. Nagapattinam 4. Visakhapatnam\nChoose the correct answer using the code given below:",
     "options": [
       "1, 2, 3, 4",
       "4, 1, 2, 3",
@@ -46162,7 +46162,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Transport",
-    "question": "When was ‘Speed Post Service’ launched by the Indian Postal d epartment in competition to the ‘Courier service’",
+    "question": "When was ‘Speed Post Service’ launched by the Indian Postal Department in competition to the ‘Courier service’",
     "options": [
       "1988",
       "1987",
@@ -46189,7 +46189,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "B",
-    "explanation": "Topographical maps of India are prepared by the Survey of India. It works under the Department of Science and Tech- nology. The headquarters of the Survey of India is in Deh- radun, Uttarakhand.\nSource: B.P.S.C. School Teacher 08-12-2023",
+    "explanation": "Topographical maps of India are prepared by the Survey of India. It works under the Department of Science and Technology. The headquarters of the Survey of India is in Dehradun, Uttarakhand.\nSource: B.P.S.C. School Teacher 08-12-2023",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 254,
     "sourcePdfPage": 254,
@@ -46245,7 +46245,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Potato"
     ],
     "answer": "B",
-    "explanation": "The Grey Revolution is related to fertilizer production, whereas the Blue Revolution is related to fisheries, the Yellow Revolution to oilseed production, and the Gol (Round) Revolution to potato production.\nSource: 70th B.P.S.C Re-Exam (Pre) 2024",
+    "explanation": "The Grey Revolution is related to fertilizer production, whereas the Blue Revolution is related to fisheries, the Yellow Revolution to oilseed production, and the Gol (Round) Revolution to potato production.\nSource: 70th B.P.S.C. Re-Exam (Pre) 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 254,
     "sourcePdfPage": 254,
@@ -46255,7 +46255,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Indian Geography",
     "section": "Indian Geography",
     "topic": "Transport",
-    "question": "Which place is called the Silicon v alley of India",
+    "question": "Which place is called the Silicon Valley of India",
     "options": [
       "Hyderabad",
       "Mumbai",
@@ -46327,7 +46327,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Universe, Solar System, Earth, International Date Lines, Day and Night",
-    "question": "h ow many constellations are in our space",
+    "question": "How many constellations are in our space",
     "options": [
       "87",
       "88",
@@ -46363,7 +46363,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Universe, Solar System, Earth, International Date Lines, Day and Night",
-    "question": "i n the universe, what are pulsars",
+    "question": "in the universe, what are pulsars",
     "options": [
       "Radio waves emitted by a star",
       "A group of stars",
@@ -46427,7 +46427,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "D",
-    "explanation": "The chief celestial body of the solar system is the Sun. The Sun is located at the center of the solar system.\nSource: 67th B.P.S.C. (r e-e xam) (Pre)-2021",
+    "explanation": "The chief celestial body of the solar system is the Sun. The Sun is located at the center of the solar system.\nSource: 67th B.P.S.C. (Re-Exam) (Pre)-2021",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 255,
     "sourcePdfPage": 255,
@@ -46455,7 +46455,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Universe, Solar System, Earth, International Date Lines, Day and Night",
-    "question": "e nergy is produced on the Sun by—",
+    "question": "Energy is produced on the Sun by—",
     "options": [
       "Nuclear fission",
       "Nuclear fusion",
@@ -46473,7 +46473,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Universe, Solar System, Earth, International Date Lines, Day and Night",
-    "question": "n icolaus Copernicus is famous for—",
+    "question": "Nicolaus Copernicus is famous for—",
     "options": [
       "The invention of the telescope",
       "Stating that planets revolve around the Sun and not around the Earth",
@@ -46481,7 +46481,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "The study of surgical operations of the human body"
     ],
     "answer": "B",
-    "explanation": "Nicolaus Copernicus (1473–1543 AD), on the basis of his work in mathematics and astronomy, rejected Ptolemy’s belief that the Earth is the center. He considered the Sun as the center and stated that, like other planets, the Earth revolves around the Sun. v enus\nSource: 38th B.P.S.C. (Pre) 1992",
+    "explanation": "Nicolaus Copernicus (1473–1543 AD), on the basis of his work in mathematics and astronomy, rejected Ptolemy’s belief that the Earth is the center. He considered the Sun as the center and stated that, like other planets, the Earth revolves around the Sun. Venus\nSource: 38th B.P.S.C. (Pre) 1992",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 256,
     "sourcePdfPage": 256,
@@ -46509,7 +46509,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Universe, Solar System, Earth, International Date Lines, Day and Night",
-    "question": "Which planet is known as the ‘e vening Star’",
+    "question": "Which planet is known as the ‘Evening Star’",
     "options": [
       "Mars",
       "Jupiter",
@@ -46536,7 +46536,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "D",
-    "explanation": "The brightest planet in the solar system is Venus. Due to its close similarity to the Earth in size and mass, it is called the “Twin Sister of the Earth”. e arth\nSource: 65th B.P.S.C. (r e-e xam) (Pre) 2020",
+    "explanation": "The brightest planet in the solar system is Venus. Due to its close similarity to the Earth in size and mass, it is called the “Twin Sister of the Earth”. Earth\nSource: 65th B.P.S.C. (Re-Exam) (Pre) 2020",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 256,
     "sourcePdfPage": 256,
@@ -46546,7 +46546,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Universe, Solar System, Earth, International Date Lines, Day and Night",
-    "question": "Who among the following was the first to explain that the rotation of the e arth on its own axis accounts for the daily rising and setting of the Sun",
+    "question": "Who among the following was the first to explain that the rotation of the Earth on its own axis accounts for the daily rising and setting of the Sun",
     "options": [
       "Aryabhata",
       "Bhaskara",
@@ -46583,7 +46583,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Universe, Solar System, Earth, International Date Lines, Day and Night",
-    "question": "Time taken by light emitted from the Sun to reach the e arth is –",
+    "question": "Time taken by light emitted from the Sun to reach the Earth is –",
     "options": [
       "2 minutes",
       "1 minutes",
@@ -46601,7 +46601,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Universe, Solar System, Earth, International Date Lines, Day and Night",
-    "question": "Sunlight reaches the e arth-",
+    "question": "Sunlight reaches the Earth-",
     "options": [
       "In 5 minutes",
       "In 6 minutes",
@@ -46620,7 +46620,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Universe, Solar System, Earth, International Date Lines, Day and Night",
-    "question": "The time taken by sunlight to reach the e arth’s surface is approximately—",
+    "question": "The time taken by sunlight to reach the Earth’s surface is approximately—",
     "options": [
       "4.2 seconds",
       "4.8 seconds",
@@ -46638,7 +46638,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Universe, Solar System, Earth, International Date Lines, Day and Night",
-    "question": "i n completing one revolution around the Sun, e arth takes approximately –",
+    "question": "in completing one revolution around the Sun, Earth takes approximately –",
     "options": [
       "365 days",
       "365.25 days",
@@ -46656,7 +46656,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Universe, Solar System, Earth, International Date Lines, Day and Night",
-    "question": "Approximately how much distance per minute does the e arth rotate",
+    "question": "Approximately how much distance per minute does the Earth rotate",
     "options": [
       "49 km",
       "59 km",
@@ -46674,7 +46674,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Universe, Solar System, Earth, International Date Lines, Day and Night",
-    "question": "The distance between the e arth and the sun is greater during",
+    "question": "The distance between the Earth and the sun is greater during",
     "options": [
       "Aphelion",
       "Perihelion",
@@ -46693,7 +46693,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Universe, Solar System, Earth, International Date Lines, Day and Night",
-    "question": "h ow much is the equatorial diameter greater than the polar diameter",
+    "question": "How much is the equatorial diameter greater than the polar diameter",
     "options": [
       "43 km.",
       "36 km.",
@@ -46738,7 +46738,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "84 years"
     ],
     "answer": "C",
-    "explanation": "Saturn takes approximately 29.5 years to complete one revolution around the Sun. Uranus, n eptune and Pluto\nSource: 44th B.P.S.C. (Pre) 2000",
+    "explanation": "Saturn takes approximately 29.5 years to complete one revolution around the Sun. Uranus, Neptune and Pluto\nSource: 44th B.P.S.C. (Pre) 2000",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 257,
     "sourcePdfPage": 257,
@@ -46803,7 +46803,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Universe, Solar System, Earth, International Date Lines, Day and Night",
-    "question": "h ow many latitudes are there on the globe drawn at 1 degree interval",
+    "question": "How many latitudes are there on the globe drawn at 1 degree interval",
     "options": [
       "180",
       "178",
@@ -46821,7 +46821,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Universe, Solar System, Earth, International Date Lines, Day and Night",
-    "question": "What is the local time of Thimphu (Bhutan) located at 90° e ast longitude when the time at Greenwich (0°) is 12:00 noon",
+    "question": "What is the local time of Thimphu (Bhutan) located at 90° East longitude when the time at Greenwich (0°) is 12:00 noon",
     "options": [
       "6:00 p.m.",
       "4:00 p.m.",
@@ -46847,7 +46847,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "141o W"
     ],
     "answer": "D",
-    "explanation": "The 141° West longitude line forms the boundary between Canada and Alaska (United States of America).\nSource: 70th B.P.S.C r e-e xam 2024",
+    "explanation": "The 141° West longitude line forms the boundary between Canada and Alaska (United States of America).\nSource: 70th B.P.S.C. Re-Exam 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 258,
     "sourcePdfPage": 258,
@@ -46857,7 +46857,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Universe, Solar System, Earth, International Date Lines, Day and Night",
-    "question": "i nternational Date Line passes through –",
+    "question": "International Date Line passes through –",
     "options": [
       "Africa",
       "Asia",
@@ -46893,7 +46893,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Universe, Solar System, Earth, International Date Lines, Day and Night",
-    "question": "The time at Cairo is 2 hours ahead of Greenwich. h ence, it is located at-",
+    "question": "The time at Cairo is 2 hours ahead of Greenwich. Hence, it is located at-",
     "options": [
       "30° W longitude",
       "30° E longitude",
@@ -46901,7 +46901,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "28° W longitude"
     ],
     "answer": "B",
-    "explanation": "Cairo (Cairo, Egypt) is located at 30° 3′ N, 31° 14′ E. Since Cairo’s time is two hours ahead of Greenwich (0° longitude), it lies near 30° East longitude. The Earth rotates 360° in 24 hours; hence, it takes 4 minutes for the earth to travel 1° of longitude. Therefore, time difference at 30° longitude = 30 × 4 = 120 minutes, i.e., two hours. Hence, option (b) is the correct answer. Day & n ight\nSource: 53rd to 55th B.P.S.C. (Pre) 2011",
+    "explanation": "Cairo (Cairo, Egypt) is located at 30° 3′ N, 31° 14′ E. Since Cairo’s time is two hours ahead of Greenwich (0° longitude), it lies near 30° East longitude. The Earth rotates 360° in 24 hours; hence, it takes 4 minutes for the earth to travel 1° of longitude. Therefore, time difference at 30° longitude = 30 × 4 = 120 minutes, i.e., two hours. Hence, option (b) is the correct answer. Day & night\nSource: 53rd to 55th B.P.S.C. (Pre) 2011",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 258,
     "sourcePdfPage": 258,
@@ -46911,7 +46911,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Universe, Solar System, Earth, International Date Lines, Day and Night",
-    "question": "The Longest day in southern h emisphere is",
+    "question": "The Longest day in southern hemisphere is",
     "options": [
       "22 June",
       "22 December",
@@ -46929,7 +46929,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Universe, Solar System, Earth, International Date Lines, Day and Night",
-    "question": "The shortest day of the year in n orthern h emisphere is on –",
+    "question": "The shortest day of the year in Northern hemisphere is on –",
     "options": [
       "21 December",
       "22 December",
@@ -46937,7 +46937,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "22 June"
     ],
     "answer": "B",
-    "explanation": "See the explanation of the above question. Geological h istory\nSource: 47th B.P.S.C. (Pre) 2005",
+    "explanation": "See the explanation of the above question. Geological history\nSource: 47th B.P.S.C. (Pre) 2005",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 259,
     "sourcePdfPage": 259,
@@ -46947,7 +46947,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Universe, Solar System, Earth, International Date Lines, Day and Night",
-    "question": "The theory that states “pieces of the e arth’s crust are in constant, slow motion driven by movement in the mantle” is called",
+    "question": "The theory that states “pieces of the Earth’s crust are in constant, slow motion driven by movement in the mantle” is called",
     "options": [
       "the theory of continental drift",
       "the theory of Pangaea",
@@ -47021,7 +47021,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Universe, Solar System, Earth, International Date Lines, Day and Night",
-    "question": "Which elements are abundant in the formation of the interior layer of the e arth",
+    "question": "Which elements are abundant in the formation of the interior layer of the Earth",
     "options": [
       "Silica and aluminium",
       "Silica and magnesium",
@@ -47030,7 +47030,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "D",
-    "explanation": "In the formation of the Earth’s inner layer “Nife”, the elements Nickel and Iron are found in abundance. Nife is an abbreviation of Nickel (Ni) and Iron (Fe).\nSource: 67th B.P.S.C. (r e-e xam) (Pre) 2021",
+    "explanation": "In the formation of the Earth’s inner layer “Nife”, the elements Nickel and Iron are found in abundance. Nife is an abbreviation of Nickel (Ni) and Iron (Fe).\nSource: 67th B.P.S.C. (Re-Exam) (Pre) 2021",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 259,
     "sourcePdfPage": 259,
@@ -47049,7 +47049,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "B",
-    "explanation": "W. M. Davis (William Morris Davis) presented the concept of the cycle of erosion. Walter Penck, while presenting a critical and alternative view of Davis’s theory, gave a model which he named “Morphological Analysis”.\nSource: 67th B.P.S.C. (r e-e xam) (Pre)-2022",
+    "explanation": "W. M. Davis (William Morris Davis) presented the concept of the cycle of erosion. Walter Penck, while presenting a critical and alternative view of Davis’s theory, gave a model which he named “Morphological Analysis”.\nSource: 67th B.P.S.C. (Re-Exam) (Pre)-2022",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 259,
     "sourcePdfPage": 259,
@@ -47086,7 +47086,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Exogenic force"
     ],
     "answer": "C",
-    "explanation": "Orogenic forces are intense horizontal endogenic forces that cause extreme folding, faulting and deformation of the earth's crust resulting in mountain building. Under this, two types of forces work—compressional force and tensional force. Due to compressional force, rock layers bend, which is called “folding”. The upfolded part is called “anticline”, and the downfolded part is called “syncline”. r ock\nSource: 53rd to 55th B.P.S.C. (Pre) 2011",
+    "explanation": "Orogenic forces are intense horizontal endogenic forces that cause extreme folding, faulting and deformation of the earth's crust resulting in mountain building. Under this, two types of forces work—compressional force and tensional force. Due to compressional force, rock layers bend, which is called “folding”. The upfolded part is called “anticline”, and the downfolded part is called “syncline”. rock\nSource: 53rd to 55th B.P.S.C. (Pre) 2011",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 260,
     "sourcePdfPage": 260,
@@ -47096,7 +47096,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Geological History, Rocks",
-    "question": "r egarding a sedimentary rocks which of the following\nstatements is true",
+    "question": "Regarding a sedimentary rocks which of the following\nstatements is true",
     "options": [
       "These are such rocks whose structure depends on temperature and pressure",
       "These rocks are crystal line",
@@ -47177,7 +47177,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "A",
-    "explanation": "Minerals are deposited in sedimentary rocks (layered rocks). Sedimentary rocks are formed when the debris obtained from the breaking and weathering of rocks remains deposited in water. Remains of organisms and plants are found in them in very small quantities. By the metamorphism of sedimentary rocks, rocks such as slate, marble, gneiss, etc. are formed. v olcano\nSource: B.P.S.C. Teacher (9th-10th) 08-12-2023",
+    "explanation": "Minerals are deposited in sedimentary rocks (layered rocks). Sedimentary rocks are formed when the debris obtained from the breaking and weathering of rocks remains deposited in water. Remains of organisms and plants are found in them in very small quantities. By the metamorphism of sedimentary rocks, rocks such as slate, marble, gneiss, etc. are formed. volcano\nSource: B.P.S.C. Teacher (9th-10th) 08-12-2023",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 260,
     "sourcePdfPage": 260,
@@ -47205,7 +47205,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Volcano, Earthquake, Continents, World Mountain, Plateaus, Arid Regions/Deserts, Grasslands",
-    "question": "Mt. e tna is –",
+    "question": "Mt. Etna is –",
     "options": [
       "A mountain",
       "A mountain peak",
@@ -47243,7 +47243,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "topic": "Volcano, Earthquake, Continents, World Mountain, Plateaus, Arid Regions/Deserts, Grasslands",
     "question": "Kilimanjaro is a –",
     "options": [
-      "V olcano",
+      "volcano",
       "Island",
       "Peak",
       "River"
@@ -47268,7 +47268,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "C",
-    "explanation": "The world’s largest active volcano, Mauna Loa, located on the Hawaiian Islands of the United States, erupted in 2022— after 38 years since its earlier eruption in 1984. Since 1843, Mauna Loa has erupted 34 times. Most eruptions occurred before 1950. After 1950, eruptions occurred in 1975, 1984, and 2022. It is an active volcano. e arthquake\nSource: 68th B.P.S.C. (Pre) 2022",
+    "explanation": "The world’s largest active volcano, Mauna Loa, located on the Hawaiian Islands of the United States, erupted in 2022— after 38 years since its earlier eruption in 1984. Since 1843, Mauna Loa has erupted 34 times. Most eruptions occurred before 1950. After 1950, eruptions occurred in 1975, 1984, and 2022. It is an active volcano. earthquake\nSource: 68th B.P.S.C. (Pre) 2022",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 261,
     "sourcePdfPage": 261,
@@ -47287,7 +47287,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "B",
-    "explanation": "The Mercalli scale is used to measure the intensity (effects/ severity) of an earthquake, whereas the Richter scale is used to measure the magnitude of an earthquake. Continents\nSource: B.P.S.C. School Teacher/h eadmaster 10.12.2023",
+    "explanation": "The Mercalli scale is used to measure the intensity (effects/ severity) of an earthquake, whereas the Richter scale is used to measure the magnitude of an earthquake. Continents\nSource: B.P.S.C. School Teacher/Headmaster 10.12.2023",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 261,
     "sourcePdfPage": 261,
@@ -47360,7 +47360,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Salvin Valley"
     ],
     "answer": "",
-    "explanation": " Lake Eyre is an endorheic Salt lake in South Australia.  The Nullarbor Plain is a vast limestone plain in southern Australia, Spanning South Australia and Western Australia.  Selwyn Mountain is located in the Snowy Mountains/ Kosciuszko National Park region of New South Wales, Australia, and the Selwyn snow resort is also situated there.  Salvin Valley which lies in China (Tibet) and Myanmar, and also touches Thailand i.e. Southeast Asia, not Australia.\nSource: 70th B.P.S.C. r e-e xam (Pre), 2024",
+    "explanation": " Lake Eyre is an endorheic Salt lake in South Australia.  The Nullarbor Plain is a vast limestone plain in southern Australia, Spanning South Australia and Western Australia.  Selwyn Mountain is located in the Snowy Mountains/ Kosciuszko National Park region of New South Wales, Australia, and the Selwyn snow resort is also situated there.  Salvin Valley which lies in China (Tibet) and Myanmar, and also touches Thailand i.e. Southeast Asia, not Australia.\nSource: 70th B.P.S.C. Re-Exam (Pre), 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 262,
     "sourcePdfPage": 262,
@@ -47397,7 +47397,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Brazil Mountain"
     ],
     "answer": "A",
-    "explanation": "The physiography of South America is mainly divided into three parts: the Andes Mountains in the west, a vast lowland in the middle, and the Guiana Highlands and the Brazilian Highlands in the east. These eastern highlands are considered the oldest landmass of the South American continent. Within these eastern highlands, there are two large ancient shield regions: the Guiana Shield and the Brazil/Amazonian Craton. The Guiana Shield is counted among the oldest geological formations on Earth. Among the given options, the Pacaraima Mountains are a part of the Guiana Shield. Therefore, the correct answer will be option (a).\nSource: 70th B.P.S.C r e-e xam (Pre) 2024",
+    "explanation": "The physiography of South America is mainly divided into three parts: the Andes Mountains in the west, a vast lowland in the middle, and the Guiana Highlands and the Brazilian Highlands in the east. These eastern highlands are considered the oldest landmass of the South American continent. Within these eastern highlands, there are two large ancient shield regions: the Guiana Shield and the Brazil/Amazonian Craton. The Guiana Shield is counted among the oldest geological formations on Earth. Among the given options, the Pacaraima Mountains are a part of the Guiana Shield. Therefore, the correct answer will be option (a).\nSource: 70th B.P.S.C. Re-Exam (Pre) 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 262,
     "sourcePdfPage": 262,
@@ -47407,7 +47407,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Volcano, Earthquake, Continents, World Mountain, Plateaus, Arid Regions/Deserts, Grasslands",
-    "question": "h ighest peaks of the world are mostly found in which type of mountains",
+    "question": "Highest peaks of the world are mostly found in which type of mountains",
     "options": [
       "Old folded mountains",
       "Young folded mountains",
@@ -47434,7 +47434,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "D",
-    "explanation": "Fold mountains are those mountains which are formed as a result of folding in the upper parts of the Earth’s crust. These are of two types—young fold mountains and old fold mountains. Young fold mountains include the Himalayas, the Alps, etc., whereas old fold mountains include the Aravalli (India), the Appalachian (North America) and the Ural Mountains (Russia), etc.\nSource: B.P.S.C. School Teacher/h eadmaster 09.12.2023",
+    "explanation": "Fold mountains are those mountains which are formed as a result of folding in the upper parts of the Earth’s crust. These are of two types—young fold mountains and old fold mountains. Young fold mountains include the Himalayas, the Alps, etc., whereas old fold mountains include the Aravalli (India), the Appalachian (North America) and the Ural Mountains (Russia), etc.\nSource: B.P.S.C. School Teacher/Headmaster 09.12.2023",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 262,
     "sourcePdfPage": 262,
@@ -47525,7 +47525,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "A",
-    "explanation": "The Pyrenees form a boundary between Spain and France. This mountain range separates the Iberian Peninsula from the rest of the European continent. It extends from the Bay of Biscay to the Mediterranean Sea.\nSource: 66th B.P.S.C. (r e-e xam) (Pre) 2020",
+    "explanation": "The Pyrenees form a boundary between Spain and France. This mountain range separates the Iberian Peninsula from the rest of the European continent. It extends from the Bay of Biscay to the Mediterranean Sea.\nSource: 66th B.P.S.C. (Re-Exam) (Pre) 2020",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 263,
     "sourcePdfPage": 263,
@@ -47544,7 +47544,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "C",
-    "explanation": "The world’s longest continental mountain range is the Andes, located in the South American continent. However, among the given options, the Rocky is the longest mountain range, which is located in the North American continent. Since the question asks for “the longest mountain range among the following,” the answer will be option (c). According to the National Oceanic and Atmospheric Administration (NOAA), the longest mountain range on Earth is the Mid-Ocean Ridge. Plateaus\nSource: 65th B.P.S.C. (r e-e xam) (Pre) 2020",
+    "explanation": "The world’s longest continental mountain range is the Andes, located in the South American continent. However, among the given options, the Rocky is the longest mountain range, which is located in the North American continent. Since the question asks for “the longest mountain range among the following,” the answer will be option (c). According to the National Oceanic and Atmospheric Administration (NOAA), the longest mountain range on Earth is the Mid-Ocean Ridge. Plateaus\nSource: 65th B.P.S.C. (Re-Exam) (Pre) 2020",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 263,
     "sourcePdfPage": 263,
@@ -47554,7 +47554,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Volcano, Earthquake, Continents, World Mountain, Plateaus, Arid Regions/Deserts, Grasslands",
-    "question": "What is called the ‘r oof of the World’",
+    "question": "What is called the ‘roof of the World’",
     "options": [
       "Aravali",
       "Satpura",
@@ -47562,7 +47562,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Myanmar"
     ],
     "answer": "C",
-    "explanation": "The “Roof of the World” is called the Pamir Plateau. It is a meeting point of several mountain ranges. The term “Roof of the World” is also used for the Tibetan Plateau. Arid r egions/Desearts\nSource: 44th B.P.S.C. (Pre) 2000",
+    "explanation": "The “Roof of the World” is called the Pamir Plateau. It is a meeting point of several mountain ranges. The term “Roof of the World” is also used for the Tibetan Plateau. Arid regions/Deserts\nSource: 44th B.P.S.C. (Pre) 2000",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 263,
     "sourcePdfPage": 263,
@@ -47590,7 +47590,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Volcano, Earthquake, Continents, World Mountain, Plateaus, Arid Regions/Deserts, Grasslands",
-    "question": "i n which country is the Gobi desert located",
+    "question": "in which country is the Gobi desert located",
     "options": [
       "Mexico",
       "Somalia",
@@ -47608,7 +47608,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Volcano, Earthquake, Continents, World Mountain, Plateaus, Arid Regions/Deserts, Grasslands",
-    "question": "The Great v ictoria Desert is located at –",
+    "question": "The Great Victoria Desert is located at –",
     "options": [
       "Australia",
       "India",
@@ -47645,7 +47645,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Volcano, Earthquake, Continents, World Mountain, Plateaus, Arid Regions/Deserts, Grasslands",
-    "question": "i n desert regions, the formation of ‘Mushroom r ock’ is an example of—",
+    "question": "in desert regions, the formation of ‘Mushroom rock’ is an example of—",
     "options": [
       "Abrasion",
       "Erosion",
@@ -47673,7 +47673,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "D",
-    "explanation": "The Atacama Desert, located in the South American continent, is the driest desert in the world.\nSource: 65th B.P.S.C. (r e-e xam) (Pre) 2020",
+    "explanation": "The Atacama Desert, located in the South American continent, is the driest desert in the world.\nSource: 65th B.P.S.C. (Re-Exam) (Pre) 2020",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 264,
     "sourcePdfPage": 264,
@@ -47691,7 +47691,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Sahara : Africa"
     ],
     "answer": "B",
-    "explanation": "The Kalahari Desert is located in the African continent. The remaining pairs are correctly matched. Grasslands\nSource: 70th B.P.S.C r e-e xam 2024",
+    "explanation": "The Kalahari Desert is located in the African continent. The remaining pairs are correctly matched. Grasslands\nSource: 70th B.P.S.C. Re-Exam 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 264,
     "sourcePdfPage": 264,
@@ -47793,7 +47793,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Volcano, Earthquake, Continents, World Mountain, Plateaus, Arid Regions/Deserts, Grasslands",
-    "question": "i srael has common borders with:",
+    "question": "Israel has common borders with:",
     "options": [
       "Lebanon, Syria, Jordan and Egypt",
       "Lebanon, Syria, Turkey and Jordan",
@@ -47904,7 +47904,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Countries and Their Borders, Land-Locked Countries, Capital Cities of the World, Geographical Sobriquets",
-    "question": "n ame the city of r ussia that is known as ‘v enice of the n orth’.",
+    "question": "Name the city of Russia that is known as ‘Venice of the North’.",
     "options": [
       "Vladivostok",
       "St. Petersburg",
@@ -47913,7 +47913,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above / More than one of the above"
     ],
     "answer": "B",
-    "explanation": "Saint Petersburg is called the “Venice of the North”. Earlier, it was known as Petrograd and Leningrad. It is an important historical and cultural city and also a port city.\nSource: 66th B.P.S.C. (Pre) (r e-e xam) 2020",
+    "explanation": "Saint Petersburg is called the “Venice of the North”. Earlier, it was known as Petrograd and Leningrad. It is an important historical and cultural city and also a port city.\nSource: 66th B.P.S.C. (Pre) (Re-Exam) 2020",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 266,
     "sourcePdfPage": 266,
@@ -47923,7 +47923,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Countries and Their Borders, Land-Locked Countries, Capital Cities of the World, Geographical Sobriquets",
-    "question": "Which of the following is known as ‘Mistress of the e astern Sea’",
+    "question": "Which of the following is known as ‘Mistress of the eastern Sea’",
     "options": [
       "Sri Lanka",
       "Pakistan",
@@ -47949,7 +47949,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "France"
     ],
     "answer": "B",
-    "explanation": "Switzerland is called the Playground of Europe due to its natural beauty, outdoor sports, and tourism activities. h ydrosphere\nSource: 70th B.P.S.C r e-e xam 2024",
+    "explanation": "Switzerland is called the Playground of Europe due to its natural beauty, outdoor sports, and tourism activities. Hydrosphere\nSource: 70th B.P.S.C. Re-Exam 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 266,
     "sourcePdfPage": 266,
@@ -47995,7 +47995,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Countries and Their Borders, Land-Locked Countries, Capital Cities of the World, Geographical Sobriquets",
-    "question": "Where is ‘n inety e ast r idge’ situated",
+    "question": "Where is ‘Ninety East Ridge’ situated",
     "options": [
       "Pacific Ocean",
       "Indian Ocean",
@@ -48059,7 +48059,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "C",
-    "explanation": "The Sargasso Sea is located in the North Atlantic Ocean. In this region, a seaweed called Sargassum is found in abundance, due to which it is known as the Sargasso Sea.\nSource: 67th B.P.S.C. (Pre) r e-e xam, 2022",
+    "explanation": "The Sargasso Sea is located in the North Atlantic Ocean. In this region, a seaweed called Sargassum is found in abundance, due to which it is known as the Sargasso Sea.\nSource: 67th B.P.S.C. (Pre) Re-Exam, 2022",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 267,
     "sourcePdfPage": 267,
@@ -48165,7 +48165,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Rivers",
       "Land",
       "Wind",
-      "Ash ejected from the V olcano"
+      "Ash ejected from the volcano"
     ],
     "answer": "B",
     "explanation": "The main source of oceanic salinity is land, while rivers are the agents that carry salts to the sea.\nSource: 53rd to 55th B.P.S.C. (Pre) 2011",
@@ -48205,7 +48205,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "D",
-    "explanation": "As per the question, among the given options the Dead Sea has the highest salinity (238‰). Outside the polar regions, the highest salinity at the global level is found in Lake Assal (Djibouti). After that, Turkey’s Lake Van and the Dead Sea occupy the next positions, respectively. h igh Tide and Low Tide\nSource: 60th to 62nd B.P.S.C. (Pre) 2016",
+    "explanation": "As per the question, among the given options the Dead Sea has the highest salinity (238‰). Outside the polar regions, the highest salinity at the global level is found in Lake Assal (Djibouti). After that, Turkey’s Lake Van and the Dead Sea occupy the next positions, respectively. High Tide and Low Tide\nSource: 60th to 62nd B.P.S.C. (Pre) 2016",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 268,
     "sourcePdfPage": 268,
@@ -48223,7 +48223,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Moon"
     ],
     "answer": "D",
-    "explanation": "High ocean tides occur due to the resultant force of the Sun’s and Moon’s gravitational attraction and two forces produced on the Earth—centripetal force and centrifugal force. Ocean tides are mainly the result of the Moon’s gravitational pull. The Moon is much closer to the Earth than the Sun. Due to its attraction, sea water rises and forms tides. The gravitational pull of the Sun is not as effective. Therefore, the tides caused by the Sun do not rise as much as those caused by the Moon. It is notable that the tide-generating power of the Moon is about 2.17 times that of the Sun. r ivers of the World\nSource: 47th B.P.S.C. (Pre) 2005",
+    "explanation": "High ocean tides occur due to the resultant force of the Sun’s and Moon’s gravitational attraction and two forces produced on the Earth—centripetal force and centrifugal force. Ocean tides are mainly the result of the Moon’s gravitational pull. The Moon is much closer to the Earth than the Sun. Due to its attraction, sea water rises and forms tides. The gravitational pull of the Sun is not as effective. Therefore, the tides caused by the Sun do not rise as much as those caused by the Moon. It is notable that the tide-generating power of the Moon is about 2.17 times that of the Sun. rivers of the World\nSource: 47th B.P.S.C. (Pre) 2005",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 268,
     "sourcePdfPage": 268,
@@ -48251,7 +48251,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Salinity of the Ocean, Rivers of the World, Towns and cities along the banks of Rivers",
-    "question": "At the end of its mountainous journey near Attock, the indus r iver meets which river of Afghanistan",
+    "question": "At the end of its mountainous journey near Attock, the indus river meets which river of Afghanistan",
     "options": [
       "Helmand River",
       "Amu Darya",
@@ -48297,7 +48297,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Drainage basin"
     ],
     "answer": "A",
-    "explanation": "The specific area from which a river brings its water is called the catchment area. The area drained by a river and its tributaries is called the drainage basin. Town and Cities along the Bank of r ivers\nSource: B.P.S.C. (Auditor) 2019",
+    "explanation": "The specific area from which a river brings its water is called the catchment area. The area drained by a river and its tributaries is called the drainage basin. Town and Cities along the Bank of rivers\nSource: B.P.S.C. (Auditor) 2019",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 269,
     "sourcePdfPage": 269,
@@ -48307,7 +48307,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Salinity of the Ocean, Rivers of the World, Towns and cities along the banks of Rivers",
-    "question": "r ussia’s Saint Petersburg city is situated on the coast of which of the following",
+    "question": "Russia’s Saint Petersburg city is situated on the coast of which of the following",
     "options": [
       "Black Sea",
       "Caspian Sea",
@@ -48326,7 +48326,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Salinity of the Ocean, Rivers of the World, Towns and cities along the banks of Rivers",
-    "question": "Which of the following cities is located along the side of the r iver Seine",
+    "question": "Which of the following cities is located along the side of the river Seine",
     "options": [
       "Paris",
       "Belgrade",
@@ -48362,7 +48362,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Salinity of the Ocean, Rivers of the World, Towns and cities along the banks of Rivers",
-    "question": "Match the rivers with the cities through which they are\nflowing and select the correct answer using the codes\ngiven below:\nCity r iver\nA. r otterdam (1) Seine\nB. Paris (2) Potomac\nC. Budapest (3) r hine\nD. Washington (4) Danube\nCode :\nA B C D",
+    "question": "Match the rivers with the cities through which they are\nflowing and select the correct answer using the codes\ngiven below:\nCity river\nA. Rotterdam (1) Seine\nB. Paris (2) Potomac\nC. Budapest (3) Rhine\nD. Washington (4) Danube\nCode :\nA B C D",
     "options": [
       "2 3 1 4",
       "1 3 4 2",
@@ -48370,7 +48370,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "4 3 2 1"
     ],
     "answer": "C",
-    "explanation": "The correct matching of the above rivers and the related cities is as follows— (City) (r iver) Rotterdam – Rhine (Rhine and (Netherlands) the Nieuwe Maas) Paris (France) – Seine Budapest (Hungary) – Danube Washington D.C. (USA) – Potomac n ote : In the given question, Washington is matched with the Potomac River, where as washington, D.C. is located on the banks of the Potomac River. Washington is a state in the United State. Therefore, Washington D.C. should be replaced with Washington. Landforms by r ivers\nSource: 56th to 59th B.P.S.C. (Pre) 2014",
+    "explanation": "The correct matching of the above rivers and the related cities is as follows— (City) (river) Rotterdam – Rhine (Rhine and (Netherlands) the Nieuwe Maas) Paris (France) – Seine Budapest (Hungary) – Danube Washington D.C. (USA) – Potomac Note : In the given question, Washington is matched with the Potomac River, where as washington, D.C. is located on the banks of the Potomac River. Washington is a state in the United State. Therefore, Washington D.C. should be replaced with Washington. Landforms by rivers\nSource: 56th to 59th B.P.S.C. (Pre) 2014",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 269,
     "sourcePdfPage": 269,
@@ -48416,7 +48416,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Landforms by river, Islands, Lakes and Waterfall, Straits, Canals, Coral Reefs, Atmosphere, Insolation",
-    "question": "Which of the following statements are true regarding\ne sker and Drumlin\n1. e skers are ridges of crudely bedded gravel and sand.\n2. Drumlins are mostly made of boulders and clay.\n3. e gg basket topography is characteristic of\nescarpous areas.\n4. While eskers are formed by the currents of glaciers,\ndrumlins are produced by the action of glaciers. Select\nthe correct answer from the options given below.",
+    "question": "Which of the following statements are true regarding\nesker and Drumlin\n1. eskers are ridges of crudely bedded gravel and sand.\n2. Drumlins are mostly made of boulders and clay.\n3. egg basket topography is characteristic of\nescarpous areas.\n4. While eskers are formed by the currents of glaciers,\ndrumlins are produced by the action of glaciers. Select\nthe correct answer from the options given below.",
     "options": [
       "1, 2 and 3",
       "1, 2 and 4",
@@ -48425,7 +48425,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "none of the above / more than one of the above"
     ],
     "answer": "B",
-    "explanation": "Eskers are long and narrow ridges formed by the deposition of debris by meltwater streams originating from glaciers. They are composed mainly of gravel, sand and stones. Drumlins are depositional landforms formed by glacial action and are mainly composed of boulder clay. Their shape resembles an inverted boat or a truncated inverted egg. The egg-basket topography is a characteristic feature of drumlin- dominated regions. islands\nSource: 67th B.P.S.C. (Pre) 2022",
+    "explanation": "Eskers are long and narrow ridges formed by the deposition of debris by meltwater streams originating from glaciers. They are composed mainly of gravel, sand and stones. Drumlins are depositional landforms formed by glacial action and are mainly composed of boulder clay. Their shape resembles an inverted boat or a truncated inverted egg. The egg-basket topography is a characteristic feature of drumlin-dominated regions. islands\nSource: 67th B.P.S.C. (Pre) 2022",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 270,
     "sourcePdfPage": 270,
@@ -48547,7 +48547,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Landforms by river, Islands, Lakes and Waterfall, Straits, Canals, Coral Reefs, Atmosphere, Insolation",
-    "question": "n iagara Falls in n orth America is located between:",
+    "question": "Niagara Falls in North America is located between:",
     "options": [
       "Lake Superior and Lake Michigan",
       "Lake Michigan and Lake Huron",
@@ -48556,7 +48556,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above / More than one of the above"
     ],
     "answer": "D",
-    "explanation": "In North America, ‘Niagara Falls’ is situated between Lake Ontario and Lake Erie. This waterfall lies on the border of the United States of America and Canada. The ‘Niagara River’ connects Lake Erie and Lake Ontario.\nSource: 66th B.P.S.C. (Pre) (r e-e xam) 2020",
+    "explanation": "In North America, ‘Niagara Falls’ is situated between Lake Ontario and Lake Erie. This waterfall lies on the border of the United States of America and Canada. The ‘Niagara River’ connects Lake Erie and Lake Ontario.\nSource: 66th B.P.S.C. (Pre) (Re-Exam) 2020",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 271,
     "sourcePdfPage": 271,
@@ -48584,7 +48584,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Landforms by river, Islands, Lakes and Waterfall, Straits, Canals, Coral Reefs, Atmosphere, Insolation",
-    "question": "Consider the following statements :\n1. Lake v ictoria is the third largest freshwater lake\nin the world by surface area.\n2. It is one of the great lakes of Africa.\n3. It is bordered by four countries—Tanzania,\nUganda, r wanda and Kenya.\n4. The only outflow from Lake v ictoria is the n ile\nr iver, which exits the lake near Jinja, Uganda.\nWhich of the above statements are incorrect",
+    "question": "Consider the following statements :\n1. Lake Victoria is the third largest freshwater lake\nin the world by surface area.\n2. It is one of the great lakes of Africa.\n3. It is bordered by four countries—Tanzania,\nUganda, Rwanda and Kenya.\n4. The only outflow from Lake Victoria is the Nile\nriver, which exits the lake near Jinja, Uganda.\nWhich of the above statements are incorrect",
     "options": [
       "1 and 2",
       "2 and 4",
@@ -48602,7 +48602,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Landforms by river, Islands, Lakes and Waterfall, Straits, Canals, Coral Reefs, Atmosphere, Insolation",
-    "question": "Which of the following lsthmuses has been known as the 'Devil's n eck",
+    "question": "Which of the following lsthmuses has been known as the 'Devil's neck",
     "options": [
       "Kra Isthmus",
       "Isthmus of Panama",
@@ -48620,7 +48620,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Landforms by river, Islands, Lakes and Waterfall, Straits, Canals, Coral Reefs, Atmosphere, Insolation",
-    "question": "Strait of h ormuz connects",
+    "question": "Strait of Hormuz connects",
     "options": [
       "Red Sea to Gulf of Aden",
       "The Persian Gulf to Gulf of Oman",
@@ -48638,7 +48638,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Landforms by river, Islands, Lakes and Waterfall, Straits, Canals, Coral Reefs, Atmosphere, Insolation",
-    "question": "Which strait connects the r ed Sea and the indian Ocean",
+    "question": "Which strait connects the Red Sea and the indian Ocean",
     "options": [
       "Bab-el-Mandeb",
       "Hormuz",
@@ -48700,7 +48700,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Indian Ocean and Pacific Ocean"
     ],
     "answer": "B",
-    "explanation": "The Panama Canal is a major shipping canal built by cutting through the Isthmus of Panama in Central America. It connects the Atlantic Ocean to the Pacific Ocean. Coral r eafs\nSource: 43rd B.P.S.C. (Pre) 1999",
+    "explanation": "The Panama Canal is a major shipping canal built by cutting through the Isthmus of Panama in Central America. It connects the Atlantic Ocean to the Pacific Ocean. Coral reefs\nSource: 43rd B.P.S.C. (Pre) 1999",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 272,
     "sourcePdfPage": 272,
@@ -48710,7 +48710,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Landforms by river, Islands, Lakes and Waterfall, Straits, Canals, Coral Reefs, Atmosphere, Insolation",
-    "question": "i n which ocean is Addu Atoll located",
+    "question": "in which ocean is Addu Atoll located",
     "options": [
       "Atlantic Ocean",
       "Arctic Ocean",
@@ -48719,7 +48719,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "C",
-    "explanation": "The Addu coral island/atoll is located in the Indian Ocean. It is the southernmost atoll of the Maldives. Atmosphere\nSource: 66th B.P.S.C. (r e-e xam) (Pre) 2020",
+    "explanation": "The Addu coral island/atoll is located in the Indian Ocean. It is the southernmost atoll of the Maldives. Atmosphere\nSource: 66th B.P.S.C. (Re-Exam) (Pre) 2020",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 272,
     "sourcePdfPage": 272,
@@ -48792,7 +48792,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "B",
-    "explanation": "The Roaring Forties, Furious Fifties, and Shrieking Sixties blow in the Southern Hemisphere. These names are given on the basis of the extreme intensity of the westerlies in the Southern Hemisphere. Forests\nSource: 67th B.P.S.C. (r e-e xam) (Pre)-2021",
+    "explanation": "The Roaring Forties, Furious Fifties, and Shrieking Sixties blow in the Southern Hemisphere. These names are given on the basis of the extreme intensity of the westerlies in the Southern Hemisphere. Forests\nSource: 67th B.P.S.C. (Re-Exam) (Pre)-2021",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 272,
     "sourcePdfPage": 272,
@@ -48810,7 +48810,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Nearby Poles"
     ],
     "answer": "A",
-    "explanation": "Dense forests on the Earth are mainly found near the Equator. Tropical evergreen rainforests extend near the Equator, between 10° North and 10° South latitudes. These forests are very dense. They are spread over three major regions of the world— Amazon Basin—Brazil, Bolivia, Peru, Ecuador, Colombia, Venezuela, French Guiana, Guyana, and Suriname. Congo Basin—Republic of the Congo, Cameroon, Central African Republic, Gabon, Equatorial Guinea, and Democratic Republic of the Congo. Borneo–Mekong, South-e ast Asia Basin—This includes Borneo Island and the Mekong River basin. China, Myanmar, Thailand, Laos, Cambodia, etc. are included under it. Therefore, option (a) is the correct answer.\nSource: 41st B.P.S.C. (Pre) 1996",
+    "explanation": "Dense forests on the Earth are mainly found near the Equator. Tropical evergreen rainforests extend near the Equator, between 10° North and 10° South latitudes. These forests are very dense. They are spread over three major regions of the world— Amazon Basin—Brazil, Bolivia, Peru, Ecuador, Colombia, Venezuela, French Guiana, Guyana, and Suriname. Congo Basin—Republic of the Congo, Cameroon, Central African Republic, Gabon, Equatorial Guinea, and Democratic Republic of the Congo. Borneo–Mekong, South-East Asia Basin—This includes Borneo Island and the Mekong River basin. China, Myanmar, Thailand, Laos, Cambodia, etc. are included under it. Therefore, option (a) is the correct answer.\nSource: 41st B.P.S.C. (Pre) 1996",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 273,
     "sourcePdfPage": 273,
@@ -48856,7 +48856,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "World Climate, Soils, Major Tribes of the World, Languages",
-    "question": "i n which of the following areas, Mediterranean climate does not prevail",
+    "question": "in which of the following areas, Mediterranean climate does not prevail",
     "options": [
       "Central Chile",
       "Cape Town",
@@ -48884,7 +48884,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "D",
-    "explanation": "Through the process of leaching, the soluble nutrients present in the soil dissolve in water and, while seeping with water, pass through the soil and reach the lower layers. This phenomenon occurs more in high-rainfall regions of India.\nSource: BPSC School teacher/h eadmaster 10.12.2023",
+    "explanation": "Through the process of leaching, the soluble nutrients present in the soil dissolve in water and, while seeping with water, pass through the soil and reach the lower layers. This phenomenon occurs more in high-rainfall regions of India.\nSource: BPSC School teacher/Headmaster 10.12.2023",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 274,
     "sourcePdfPage": 274,
@@ -48966,7 +48966,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "World Climate, Soils, Major Tribes of the World, Languages",
-    "question": "e skimos are inhabitants of –",
+    "question": "Eskimos are inhabitants of –",
     "options": [
       "Canada",
       "Mongolia",
@@ -48984,7 +48984,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "World Climate, Soils, Major Tribes of the World, Languages",
-    "question": "Which of the following tribal communities belongs to the n egrito race",
+    "question": "Which of the following tribal communities belongs to the Negrito race",
     "options": [
       "Bahu",
       "Kyrgyz",
@@ -49011,7 +49011,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "E",
-    "explanation": "The Masai tribe lives in the plateau regions of Kenya and Tanzania in East Africa. The Sakai are found in the Malay Peninsula (Malaysia) and Indonesia. The Kirghiz (Khirgiz) are found in Central Asia. The Bedouin or Baddū tribe is found in the Arabian Peninsula and the Arabian desert region.\nSource: 66th B.P.S.C. (Pre) (r e-e xam) 2020",
+    "explanation": "The Masai tribe lives in the plateau regions of Kenya and Tanzania in East Africa. The Sakai are found in the Malay Peninsula (Malaysia) and Indonesia. The Kirghiz (Khirgiz) are found in Central Asia. The Bedouin or Baddū tribe is found in the Arabian Peninsula and the Arabian desert region.\nSource: 66th B.P.S.C. (Pre) (Re-Exam) 2020",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 274,
     "sourcePdfPage": 274,
@@ -49039,7 +49039,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "World Climate, Soils, Major Tribes of the World, Languages",
-    "question": "What is e speranto",
+    "question": "What is Esperanto",
     "options": [
       "Highest mountain of Latin America",
       "Seaport city of Spain",
@@ -49158,7 +49158,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Venezuela"
     ],
     "answer": "A",
-    "explanation": "The given question is erroneous. Brazil is the largest coffee- producing country in the world. In 2005, Brazil’s share in global coffee production was about 32 percent, while its share in global coffee exports was about 28 percent. According to FAO data released for 2024, the top five coffee (green) producing countries in the world are: Brazil, Vietnam, Colombia, Indonesia and Ethiopia. Minerals-coal\nSource: B.P.S.C. (C.D.P.O.) (Pre) 2005",
+    "explanation": "The given question is erroneous. Brazil is the largest coffee-producing country in the world. In 2005, Brazil’s share in global coffee production was about 32 percent, while its share in global coffee exports was about 28 percent. According to FAO data released for 2024, the top five coffee (green) producing countries in the world are: Brazil, Vietnam, Colombia, Indonesia and Ethiopia. Minerals-coal\nSource: B.P.S.C. (C.D.P.O.) (Pre) 2005",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 275,
     "sourcePdfPage": 275,
@@ -49186,7 +49186,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Minerals",
-    "question": "Which of the following countries is the leading country in the reserve of h ard Coal",
+    "question": "Which of the following countries is the leading country in the reserve of hard Coal",
     "options": [
       "Nepal",
       "China",
@@ -49250,7 +49250,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "B",
-    "explanation": "Ruhr Valley, Saar Basin, and Aachen Basin are coalfields of Germany, whereas the Lorraine Basin is mainly a coalfield of France. iron Ores\nSource: 66th B.P.S.C. (r e-e xam) (Pre) 2020",
+    "explanation": "Ruhr Valley, Saar Basin, and Aachen Basin are coalfields of Germany, whereas the Lorraine Basin is mainly a coalfield of France. iron Ores\nSource: 66th B.P.S.C. (Re-Exam) (Pre) 2020",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 276,
     "sourcePdfPage": 276,
@@ -49260,7 +49260,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Minerals",
-    "question": "i n which country is the world-famous iron ore deposit called Krivoy r og located",
+    "question": "in which country is the world-famous iron ore deposit called Krivoy Rog located",
     "options": [
       "Ukraine",
       "Sweden",
@@ -49296,7 +49296,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Minerals",
-    "question": "The ‘r ust Bowl’ of the United States is related to which of the following regions",
+    "question": "The ‘Rust Bowl’ of the United States is related to which of the following regions",
     "options": [
       "Great Lakes region",
       "Alabama region",
@@ -49342,7 +49342,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above / More than one of the above"
     ],
     "answer": "C",
-    "explanation": "In the question period, and even at present, China is the top producer of gold. According to the data up to the year 2023 in World Mineral Production 2019–2023, the top four gold- producing countries respectively are: China, Russia, Australia and Canada.\nSource: 66th BPSC (Pre) 2020",
+    "explanation": "In the question period, and even at present, China is the top producer of gold. According to the data up to the year 2023 in World Mineral Production 2019–2023, the top four gold-producing countries respectively are: China, Russia, Australia and Canada.\nSource: 66th BPSC (Pre) 2020",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 277,
     "sourcePdfPage": 277,
@@ -49389,7 +49389,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Minerals",
-    "question": "Assertion : r ich placer deposits of gold are found on\nthe coast of Ghana and gold veins are found in Brazil.\nr eason ( r ) : At one time these continents were joined\ntogether along the Atlantic coast.\nChoose the correct answer.",
+    "question": "Assertion : rich placer deposits of gold are found on\nthe coast of Ghana and gold veins are found in Brazil.\nreason ( r ) : At one time these continents were joined\ntogether along the Atlantic coast.\nChoose the correct answer.",
     "options": [
       "Both (A) and ( R ) are correct and ( R ) is the correct explanation of ( A )",
       "Both (A) and ( R ) are correct; but ( R ) is not the correct explanation of (A)",
@@ -49499,7 +49499,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "The Minerals",
-    "question": "r adium is extracted from the mines of –",
+    "question": "Radium is extracted from the mines of –",
     "options": [
       "Limestone",
       "Pitchblende",
@@ -49627,7 +49627,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Cities and Industries, Transport, Ports and Harbours, Miscellaneous",
-    "question": "Match List-i with List-ii -\nList— i List— ii\n(Space Mission) (e xploration)\nA. Cassini h uygens 1. Jupiter\nB. Juno 2. Saturn and its rings\nC. Artemis 3. v enus\nD. VERITAS 4. Human Spaceflight—\nMoon to Mars\nChoose the correct answer using the code given below.\nA B C D",
+    "question": "Match List-I with List-II -\nList— i List— ii\n(Space Mission) (exploration)\nA. Cassini Huygens 1. Jupiter\nB. Juno 2. Saturn and its rings\nC. Artemis 3. Venus\nD. VERITAS 4. Human Spaceflight—\nMoon to Mars\nChoose the correct answer using the code given below.\nA B C D",
     "options": [
       "3 1 2 4",
       "2 1 4 3",
@@ -49738,7 +49738,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Cities and Industries, Transport, Ports and Harbours, Miscellaneous",
-    "question": "Match List-i with List-ii —\nList-i List-ii\n(Shoes/Fashion accessories) (Description)\nA. Beret 1. A type of men’s shoe\nB. Stilettos 2. A type of sunglasses\nC. Aviators 3. A type of cap/hat\nD. Chignon 4. A type of women’s shoe\nE. Brogue 5. A type of hairstyle\nChoose the correct answer using the code given below.\nA B C D E",
+    "question": "Match List-I with List-II —\nList-I List-II\n(Shoes/Fashion accessories) (Description)\nA. Beret 1. A type of men’s shoe\nB. Stilettos 2. A type of sunglasses\nC. Aviators 3. A type of cap/hat\nD. Chignon 4. A type of women’s shoe\nE. Brogue 5. A type of hairstyle\nChoose the correct answer using the code given below.\nA B C D E",
     "options": [
       "1 2 3 4 5",
       "3 2 1 4 5",
@@ -49784,7 +49784,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "E",
-    "explanation": "According to the International Commission on Large Dams, about 40 percent of the total large dams in the world are located in China (23,841 dams). Large dams are defined as those having a height of 15 metres or more, or a storage capacity exceeding 3 million cubic metres. In some cases, dams with a height between 5 and 15 metres are also classified as large dams based on storage capacity criteria.\nSource: 65th B.P.S.C. r e-e xam (Pre) 2020",
+    "explanation": "According to the International Commission on Large Dams, about 40 percent of the total large dams in the world are located in China (23,841 dams). Large dams are defined as those having a height of 15 metres or more, or a storage capacity exceeding 3 million cubic metres. In some cases, dams with a height between 5 and 15 metres are also classified as large dams based on storage capacity criteria.\nSource: 65th B.P.S.C. Re-Exam (Pre) 2020",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 280,
     "sourcePdfPage": 280,
@@ -49830,7 +49830,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "World Geography",
     "section": "World Geography",
     "topic": "Cities and Industries, Transport, Ports and Harbours, Miscellaneous",
-    "question": "i n which country is Oymyakon, generally considered the coldest inhabited place in the world, located",
+    "question": "in which country is Oymyakon, generally considered the coldest inhabited place in the world, located",
     "options": [
       "Mongolia",
       "Russia",
@@ -49874,7 +49874,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "River depositional"
     ],
     "answer": "C",
-    "explanation": "The Dalmatian Coast, one of the most rugged coastlines in the world, is mainly located along the Adriatic Sea in Croatia (Southern Europe). It is an example of a karstic piedmont coast. Karst landforms have developed here. According to NASA, this distinctive coastal landform was formed due to faulting caused by tectonic activity after the end of the Ice Age, along with a rise in sea level.\nSource: 70th B.P.S.C. (r e-e xam) 2024",
+    "explanation": "The Dalmatian Coast, one of the most rugged coastlines in the world, is mainly located along the Adriatic Sea in Croatia (Southern Europe). It is an example of a karstic piedmont coast. Karst landforms have developed here. According to NASA, this distinctive coastal landform was formed due to faulting caused by tectonic activity after the end of the Ice Age, along with a rise in sea level.\nSource: 70th B.P.S.C. (Re-Exam) 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 281,
     "sourcePdfPage": 281,
@@ -50225,7 +50225,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "A",
-    "explanation": "Silent Valley is located in the state of Kerala, near the south- western edge of the Nilgiri region. Many rare species of plants and animals are found in Silent Valley. It is rich in biodiversity and therefore has been protected. The Kunthipuzha River flows through Silent Valley National Park; it is a tributary of the Bharathapuzha River.\nSource: B.P.S.C. Teacher (11th-12th) 26.08.2023",
+    "explanation": "Silent Valley is located in the state of Kerala, near the south-western edge of the Nilgiri region. Many rare species of plants and animals are found in Silent Valley. It is rich in biodiversity and therefore has been protected. The Kunthipuzha River flows through Silent Valley National Park; it is a tributary of the Bharathapuzha River.\nSource: B.P.S.C. Teacher (11th-12th) 26.08.2023",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 284,
     "sourcePdfPage": 284,
@@ -50410,7 +50410,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "A",
-    "explanation": "After being heated by Solar rediation, the Earth transfers heat in long-wave form to the nearby layers of the atmosphere. Long- wave radiation is absorbed by atmospheric gases (especially carbon dioxide and other greenhouse gases). Hence, the Earth’s atmosphere is mainly heated by long-wave terrestrial radiation. 26.. Which of the following is a greenhouse gas (a) Carbon dioxide (c) CFC (b) Ozone (d) Methane (e) None of the above / More than one of the above B.P.S.C. CDPO 2022 Ans. (e) Due to the presence of greenhouse gases, the atmosphere behaves like a greenhouse. The atmosphere allows incoming solar radiation to pass through, but it absorbs most of the long-wave radiation emitted upward from the Earth’s surface. Gases that absorb long-wave radiation are called greenhouse gases. Some major greenhouse gases include carbon dioxide, methane, nitrous oxide, chlorofluorocarbons (CFCs), and ozone. Therefore, since more than one option is correct in this question, the correct answer is option (e). 27.. Which gas contributes to global warming through its greenhouse effect (a) Carbon dioxide (b) Nitrous oxide (c) Methane (d) More than one of the above (e) None of the above 68th B.P.S.C. (Pre) 2022 Ans. (d) See the explaination above the question\nSource: 68th B.P.S.C. (Pre) 2022",
+    "explanation": "After being heated by Solar rediation, the Earth transfers heat in long-wave form to the nearby layers of the atmosphere. Long-wave radiation is absorbed by atmospheric gases (especially carbon dioxide and other greenhouse gases). Hence, the Earth’s atmosphere is mainly heated by long-wave terrestrial radiation. 26.. Which of the following is a greenhouse gas (a) Carbon dioxide (c) CFC (b) Ozone (d) Methane (e) None of the above / More than one of the above B.P.S.C. CDPO 2022 Ans. (e) Due to the presence of greenhouse gases, the atmosphere behaves like a greenhouse. The atmosphere allows incoming solar radiation to pass through, but it absorbs most of the long-wave radiation emitted upward from the Earth’s surface. Gases that absorb long-wave radiation are called greenhouse gases. Some major greenhouse gases include carbon dioxide, methane, nitrous oxide, chlorofluorocarbons (CFCs), and ozone. Therefore, since more than one option is correct in this question, the correct answer is option (e). 27.. Which gas contributes to global warming through its greenhouse effect (a) Carbon dioxide (b) Nitrous oxide (c) Methane (d) More than one of the above (e) None of the above 68th B.P.S.C. (Pre) 2022 Ans. (d) See the explaination above the question\nSource: 68th B.P.S.C. (Pre) 2022",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 286,
     "sourcePdfPage": 286,
@@ -50763,7 +50763,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "A",
-    "explanation": "The atmosphere receives its maximum energy from long- wave terrestrial radiation.\nSource: B.P.S.C. TRE-3, July 2024",
+    "explanation": "The atmosphere receives its maximum energy from long-wave terrestrial radiation.\nSource: B.P.S.C. TRE-3, July 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 289,
     "sourcePdfPage": 289,
@@ -51078,7 +51078,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "C",
-    "explanation": "Earth Day is celebrated worldwide on 22 April to promote environmental awareness. It was started by American Senator Gaylord Nelson in 1970 as an environmental education initiative. The theme of Earth Day observed on 22 April 2025 was ‘Our Power, Our Planet’ EConomi C DEv Elo PmEnt n ature of indian Economic\nSource: B.P.S.C. TRE-3, July 2024",
+    "explanation": "Earth Day is celebrated worldwide on 22 April to promote environmental awareness. It was started by American Senator Gaylord Nelson in 1970 as an environmental education initiative. The theme of Earth Day observed on 22 April 2025 was ‘Our Power, Our Planet’ EConomi C DEv Elo PmEnt nature of indian Economic\nSource: B.P.S.C. TRE-3, July 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 291,
     "sourcePdfPage": 291,
@@ -51169,7 +51169,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "A capital-surplus economy"
     ],
     "answer": "B",
-    "explanation": "Due to the large population in India, it is defined as a labour- surplus economy. EConomi C an D So Cial D Ev Elo PmEnt\nSource: 48th to 52nd B.P.S.C. (Pre) 2008",
+    "explanation": "Due to the large population in India, it is defined as a labour-surplus economy. Economic and Social Development\nSource: 48th to 52nd B.P.S.C. (Pre) 2008",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 292,
     "sourcePdfPage": 292,
@@ -51179,7 +51179,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "a ccording to the World Bank's Development Report, the position of the indian economy in the world is the :",
+    "question": "According to the World Bank's Development Report, the position of the indian economy in the world is the :",
     "options": [
       "Largest",
       "Smallest",
@@ -51197,7 +51197,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "in which Budget did the Finance minister announce the l iberalised Exchange r ate management System",
+    "question": "in which Budget did the Finance minister announce the liberalised Exchange rate management System",
     "options": [
       "Union Budget, 1993-1994",
       "Union Budget, 1991-1992",
@@ -51216,7 +51216,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "The aim of the n ew Economic Policy of 1991 was-",
+    "question": "The aim of the New Economic Policy of 1991 was-",
     "options": [
       "Liberalisation",
       "Privatisation",
@@ -51415,7 +51415,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "o ne of the problems in calculating national income in india is :",
+    "question": "one of the problems in calculating national income in india is :",
     "options": [
       "Under-employment",
       "Inflation",
@@ -51510,7 +51510,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "i n the recent Union Budget, F. m. has increased the Foreign Direct investment (FDi) ……….. limit in the insurance sector from the present.",
+    "question": "in the recent Union Budget, F. m. has increased the Foreign Direct investment (FDI) ……….. limit in the insurance sector from the present.",
     "options": [
       "50%",
       "62%",
@@ -51529,7 +51529,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "What was the maximum amount that was been provided as financial autonomy by the Ministry of Heavy industries and Public Enterprises of the Union Government to the 'mini r atna', Category-i",
+    "question": "What was the maximum amount that was been provided as financial autonomy by the Ministry of Heavy industries and Public Enterprises of the Union Government to the 'mini Ratna', Category-I",
     "options": [
       "Rs. 250 crore",
       "Rs. 350 crore",
@@ -51573,7 +51573,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "National Income"
     ],
     "answer": "D",
-    "explanation": "When Net National Product (NNP) is calculated at factor cost, it is equal to National Income (NI). NNP at factor cost is the total of factor incomes earned in a year by all factors of production of a country in the form of wages, profits, rent, and interest. It is a national product, but it is not limited only to production within national boundaries. It is the sum of net domestic factor income and net factor income received from abroad. a griculture and a llied Sector\nSource: 70th B.P.S.C Re-Exam (Pre) 2024",
+    "explanation": "When Net National Product (NNP) is calculated at factor cost, it is equal to National Income (NI). NNP at factor cost is the total of factor incomes earned in a year by all factors of production of a country in the form of wages, profits, rent, and interest. It is a national product, but it is not limited only to production within national boundaries. It is the sum of net domestic factor income and net factor income received from abroad. agriculture and a llied Sector\nSource: 70th B.P.S.C. Re-Exam (Pre) 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 295,
     "sourcePdfPage": 295,
@@ -51583,7 +51583,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "Which of the following solutions can provide improvement in indian agriculture 1. Small and fragmented land holdings 2. Distribution of high-quality seeds to farmers 3. l ack of mechanization Choose the correct answer using the options given below.",
+    "question": "Which of the following solutions can provide improvement in indian agriculture 1. Small and fragmented land holdings 2. Distribution of high-quality seeds to farmers 3. lack of mechanization Choose the correct answer using the options given below.",
     "options": [
       "Only 1",
       "1 and 3",
@@ -51601,7 +51601,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "i n india, the agricultural 'crop year' period is",
+    "question": "in india, the agricultural 'crop year' period is",
     "options": [
       "1st January - 31st December",
       "1st April - 31st March",
@@ -51629,7 +51629,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "D",
-    "explanation": "According to the Agricultural Census 2015-16, the size- groups of operational holdings and their sizes are as follows— marginal agricultural holding – Less than 1 hectare Small holding – From 1.0 hectare to less than 2.0 hectares (1.0 to < 2.0 ha) Semi-medium holding – From 2.0 hectares to less than 4.0 hectares (2.0 to < 4.0 ha) medium holding – From 4.0 hectares to less than 10.0 hectares (4.0 to < 10.0 ha) l arge holding –10 hectares or more\nSource: 63rd B.P.S.C. (Pre) 2017",
+    "explanation": "According to the Agricultural Census 2015-16, the size-groups of operational holdings and their sizes are as follows— marginal agricultural holding – Less than 1 hectare Small holding – From 1.0 hectare to less than 2.0 hectares (1.0 to < 2.0 ha) Semi-medium holding – From 2.0 hectares to less than 4.0 hectares (2.0 to < 4.0 ha) medium holding – From 4.0 hectares to less than 10.0 hectares (4.0 to < 10.0 ha) large holding –10 hectares or more\nSource: 63rd B.P.S.C. (Pre) 2017",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 296,
     "sourcePdfPage": 296,
@@ -51677,7 +51677,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "a ccording to a nnual Pl FS 2023-24 report:",
+    "question": "According to Annual Pl FS 2023-24 report:",
     "options": [
       "There is greater increase in Labour Force Participation Rate (LFPR) of rural females as compared to urban females since 2021-22",
       "Among the 36 states and union territories, 90% states have a Workforce Participation Rate (WPR) (for all ages) below the national average of 43.7 percent",
@@ -51732,7 +51732,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "i n the Union Budget Speech 2024-2025, under the goal of ‘a tmanirbharata’ (self-reliance), which oilseed has not been included",
+    "question": "in the Union Budget Speech 2024-2025, under the goal of ‘Atmanirbharata’ (self-reliance), which oilseed has not been included",
     "options": [
       "Sesame",
       "Coconut",
@@ -51786,7 +51786,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "m ost of the people in india are useless in-",
+    "question": "Most of the people in india are useless in-",
     "options": [
       "Industry",
       "Agriculture",
@@ -51822,7 +51822,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "Abolition of intermediaries or middlemen. 2. Under Tenancy Reform, steps such as regulation of rent, protection of tenancy rights, and providing ownership rights over land to tenants were taken. 3. r eorganisation of agriculture—under this, redistribution of land, consolidation of land holdings or consolidation of holdings (chakbandi), and cooperative farming are included. 14. na Bar D lends to-",
+    "question": "Abolition of intermediaries or middlemen. 2. Under Tenancy Reform, steps such as regulation of rent, protection of tenancy rights, and providing ownership rights over land to tenants were taken. 3. reorganisation of agriculture—under this, redistribution of land, consolidation of land holdings or consolidation of holdings (chakbandi), and cooperative farming are included. 14. na Bar D lends to-",
     "options": [
       "To the individual of agriculture",
       "The institutions of rural development",
@@ -51859,7 +51859,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "During which Plan Period was the national Bank for a griculture and r ural Development ( na Bar D) established",
+    "question": "During which Plan Period was the national Bank for agriculture and rural Development ( na Bar D) established",
     "options": [
       "Third Five Year Plan",
       "Fifth Five Year Plan",
@@ -51877,7 +51877,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "a ccording to the index of industrial production (ii P) data from the ministry of Statistics and Programme implementation, which indices experienced significant growth in financial year 2023",
+    "question": "According to the index of industrial production (ii P) data from the ministry of Statistics and Programme implementation, which indices experienced significant growth in financial year 2023",
     "options": [
       "Consumer goods and infrastructure/construction goods",
       "Consumer goods and capital goods",
@@ -51895,7 +51895,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "i n which year was the i ndustrial Policy r esolution adopted",
+    "question": "in which year was the Industrial Policy resolution adopted",
     "options": [
       "1956",
       "1954",
@@ -51913,7 +51913,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "Consider the following statements about the Production-\nl inked incentive (Pli ) scheme :\n1. The scheme offers a production-linked incentive\nto boost domestic manufacturing and attract large\ninvestments in mobile phone manufacturing and\nspecified electronic components.\n2. The scheme has two categories of applicants,\nnamely, global companies and domestic companies.\n3. The scheme shall extend an average incentive of\naround 8% on net incremental sales (over the base\nyear) of goods manufactured in india and covered\nunder the target segment, to eligible companies, for\na period of six years.\n4. The target segment under P li shall include (i)\nlaptops, (ii) tablets, (iii) all-in-one PCs, (iv) servers\nand (v) Ultra-Small Form Factor (USFF).\nWhich of the above statements are incorrect",
+    "question": "Consider the following statements about the Production-\nlinked incentive (PLI ) scheme :\n1. The scheme offers a production-linked incentive\nto boost domestic manufacturing and attract large\ninvestments in mobile phone manufacturing and\nspecified electronic components.\n2. The scheme has two categories of applicants,\nnamely, global companies and domestic companies.\n3. The scheme shall extend an average incentive of\naround 8% on net incremental sales (over the base\nyear) of goods manufactured in india and covered\nunder the target segment, to eligible companies, for\na period of six years.\n4. The target segment under P li shall include (i)\nlaptops, (ii) tablets, (iii) all-in-one PCs, (iv) servers\nand (v) Ultra-Small Form Factor (USFF).\nWhich of the above statements are incorrect",
     "options": [
       "1 and 4",
       "2 and 4",
@@ -51921,7 +51921,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "2 and 3"
     ],
     "answer": "D",
-    "explanation": "Keeping in mind the vision of making India self-reliant, the Production-Linked Incentive (PLI) scheme was announced in 2021 for 14 important sectors to enhance the country’s manufacturing capabilities and exports. The scheme aims to attract investment in key sectors and cutting-edge technology, ensure better capacity, expand manufacturing at scale and the size of the economy, and make Indian companies and manufacturers globally competitive. It offers production- linked incentives to promote domestic manufacturing and to attract large investments in mobile phone manufacturing and specified electronic components. Under the scheme, the target category will include laptops, tablets, all-in-one PCs, servers, and ultra-small form factor (USFF). Therefore, the correct answer is option (a).\nSource: 69th B.P.S.C. (Pre) 2023",
+    "explanation": "Keeping in mind the vision of making India self-reliant, the Production-Linked Incentive (PLI) scheme was announced in 2021 for 14 important sectors to enhance the country’s manufacturing capabilities and exports. The scheme aims to attract investment in key sectors and cutting-edge technology, ensure better capacity, expand manufacturing at scale and the size of the economy, and make Indian companies and manufacturers globally competitive. It offers production-linked incentives to promote domestic manufacturing and to attract large investments in mobile phone manufacturing and specified electronic components. Under the scheme, the target category will include laptops, tablets, all-in-one PCs, servers, and ultra-small form factor (USFF). Therefore, the correct answer is option (a).\nSource: 69th B.P.S.C. (Pre) 2023",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 298,
     "sourcePdfPage": 298,
@@ -51950,7 +51950,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "Which of the following agencies releases the index of i ndustrial Production to measure industrial performance in india",
+    "question": "Which of the following agencies releases the index of Industrial Production to measure industrial performance in india",
     "options": [
       "The National Sample Survey Office (NSSO)",
       "The Reserve Bank of India (RBI)",
@@ -51969,7 +51969,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "Share of micro, Small and medium Enterprises in the country's Gross v alue a dded (G v a) has increased from 2020-21 to in 2022-23.",
+    "question": "Share of micro, Small and medium Enterprises in the country's Gross value added (GVA) has increased from 2020-21 to in 2022-23.",
     "options": [
       "30.3%, 35.6%",
       "27.3%, 30.1%",
@@ -52014,7 +52014,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "A",
-    "explanation": "Fourteen years after the MSME Development Act, 2006 came into existence, on 13 May, 2020, under the Atmanirbhar Bharat Package, it was announced that the definition of MSME would be revised. As per the new definition, a micro- enterprise is an enterprise in which investment in plant and machinery or equipment does not exceed Rs. 1 crore, and its annual turnover does not exceed Rs. 5 crore. In the Union Budget, 2025–26, the investment and turnover limits related to MSME classification were increased up to 2.5 times and 2 times respectively, as given below— New investment and turnover in the MSME sector (in crore rupees) Investment Turnover Micro enterprise 1 2.5 5 10 Small enterprise 10 25 50 100 Medium enterprise 50 125 250 500\nSource: 67th B.P.S.C. (Re-Exam) (Pre)2022",
+    "explanation": "Fourteen years after the MSME Development Act, 2006 came into existence, on 13 May, 2020, under the Atmanirbhar Bharat Package, it was announced that the definition of MSME would be revised. As per the new definition, a micro-enterprise is an enterprise in which investment in plant and machinery or equipment does not exceed Rs. 1 crore, and its annual turnover does not exceed Rs. 5 crore. In the Union Budget, 2025–26, the investment and turnover limits related to MSME classification were increased up to 2.5 times and 2 times respectively, as given below— New investment and turnover in the MSME sector (in crore rupees) Investment Turnover Micro enterprise 1 2.5 5 10 Small enterprise 10 25 50 100 Medium enterprise 50 125 250 500\nSource: 67th B.P.S.C. (Re-Exam) (Pre)2022",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 300,
     "sourcePdfPage": 300,
@@ -52043,7 +52043,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "i nstruction: Consider the following statements and\nchoose the correct answer using the code given below:\nStatement ( a ): Until the 1980s, Indian industries\nreflected a clear trend of structural shift from consumer\ngoods industries to basic and capital goods industries.\nr eason (r ): Demand for consumer goods decreased\nduring this period.\nCode:",
+    "question": "instruction: Consider the following statements and\nchoose the correct answer using the code given below:\nStatement ( a ): Until the 1980s, Indian industries\nreflected a clear trend of structural shift from consumer\ngoods industries to basic and capital goods industries.\nreason (r ): Demand for consumer goods decreased\nduring this period.\nCode:",
     "options": [
       "Both (A) and (R) are correct and (R), is the correct explanation of (A).",
       "Both (A) and (R) are correct, but (R) is not the correct explanation of (A).",
@@ -52069,7 +52069,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Unit Trust of India"
     ],
     "answer": "B",
-    "explanation": "The National Bank for Agriculture and Rural Development (NABARD) was established in July, 1982 as the apex bank for agriculture and rural development. It is related to small- scale industrial finance to some extent, but it has no connection with financing heavy industries and other forms of industrial financing. Therefore, the correct answer is option (b). t ertiary Sector\nSource: 44th B.P.S.C. (Pre) 2000",
+    "explanation": "The National Bank for Agriculture and Rural Development (NABARD) was established in July, 1982 as the apex bank for agriculture and rural development. It is related to small-scale industrial finance to some extent, but it has no connection with financing heavy industries and other forms of industrial financing. Therefore, the correct answer is option (b). t ertiary Sector\nSource: 44th B.P.S.C. (Pre) 2000",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 301,
     "sourcePdfPage": 301,
@@ -52133,7 +52133,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "What were the shares of the a griculture, industry and Services sectors in overall G v a at current prices in Financial Year 2024 according to the Economic Survey 2023-24",
+    "question": "What were the shares of the agriculture, industry and Services sectors in overall GVA at current prices in Financial Year 2024 according to the Economic Survey 2023-24",
     "options": [
       "17.7%, 27.6% and 54.7%",
       "18.7%, 28.6% and 52.7%",
@@ -52159,7 +52159,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "goes on decreasing"
     ],
     "answer": "C",
-    "explanation": "As the economy develops, the share of the tertiary sector (service sector) in national income keeps increasing, while the share of the primary sector, which includes agriculture and allied activities as well as mining and quarrying, gradually declines. As per the Provisional Estimates of National Income 2024-25 released on 30 May 2025, in India’s nominal GV A (at current prices) the contributions of the primary sector, secondary sector and tertiary sector are 19.7 percent, 25.3 percent and 55 percent, respectively. Fiscal Policy & r evenue\nSource: 47th B.P.S.C. (Pre) 2005",
+    "explanation": "As the economy develops, the share of the tertiary sector (service sector) in national income keeps increasing, while the share of the primary sector, which includes agriculture and allied activities as well as mining and quarrying, gradually declines. As per the Provisional Estimates of National Income 2024-25 released on 30 May 2025, in India’s nominal GV A (at current prices) the contributions of the primary sector, secondary sector and tertiary sector are 19.7 percent, 25.3 percent and 55 percent, respectively. Fiscal Policy & revenue\nSource: 47th B.P.S.C. (Pre) 2005",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 301,
     "sourcePdfPage": 301,
@@ -52214,7 +52214,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Bank Rate"
     ],
     "answer": "A",
-    "explanation": "Among the given options, taxes is an instrument of fiscal policy. All the others (Cash Reserve Ratio, credit ceiling and bank rate) are instruments of monetary policy.\nSource: 70th B.P.S.C Re-Exam 2024",
+    "explanation": "Among the given options, taxes is an instrument of fiscal policy. All the others (Cash Reserve Ratio, credit ceiling and bank rate) are instruments of monetary policy.\nSource: 70th B.P.S.C. Re-Exam 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 302,
     "sourcePdfPage": 302,
@@ -52316,7 +52316,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "i n the Ce ntral Budget (1995–96), the proposed allocation for family welfare services directly related to rural areas is—",
+    "question": "in the Central Budget (1995–96), the proposed allocation for family welfare services directly related to rural areas is—",
     "options": [
       "Rs. 267 crore",
       "Rs. 627 crore",
@@ -52334,7 +52334,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "i n wh ich budget, the Commodity t ransaction t ax (Ctt ) was introduced in the Budget of india",
+    "question": "in which budget, the Commodity Transaction tax (CTT ) was introduced in the Budget of india",
     "options": [
       "2013-14",
       "2012-13",
@@ -52391,7 +52391,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "Who is the Chairperson of the GSt Council",
+    "question": "Who is the Chairperson of the GST Council",
     "options": [
       "RBI Governor",
       "Union Minister of Corporate Affairs",
@@ -52399,7 +52399,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Union Finance Minister"
     ],
     "answer": "D",
-    "explanation": "The Chairperson of the GST Council is the Union Finance Minister. At present, the Chairperson of the GST Council is Union Finance Minister Nirmala Sitharaman.\nSource: 70th B.P.S.C Re-Exam 2024",
+    "explanation": "The Chairperson of the GST Council is the Union Finance Minister. At present, the Chairperson of the GST Council is Union Finance Minister Nirmala Sitharaman.\nSource: 70th B.P.S.C. Re-Exam 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 303,
     "sourcePdfPage": 303,
@@ -52409,7 +52409,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "i n the context of 'Goods and Services t ax (GSt )', what does 'r evenue n eutral r ate' mean",
+    "question": "in the context of 'Goods and Services tax (GST )', what does 'revenue neutral rate' mean",
     "options": [
       "The rate at which tax revenue for the state and center re",
       "The tax rate will be the same for the center and the state",
@@ -52446,7 +52446,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "Consider the following important tax revenue sources\nof the Central Government:\ni . Corporation t ax\nii . t axes on income o ther t han Corporation t ax\niii . Customs\niv . Union Excise Duties\nWhich of the following represents the correct\ndescending order of Gross t ax r evenue",
+    "question": "Consider the following important tax revenue sources\nof the Central Government:\ni. Corporation tax\nii. taxes on income other than Corporation tax\niii. Customs\niv. Union Excise Duties\nWhich of the following represents the correct\ndescending order of Gross tax revenue",
     "options": [
       "I-II-IV-III",
       "I-II-III-IV",
@@ -52472,7 +52472,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": "A",
-    "explanation": "Among the given options, the correct statement about the non- plan expenditure of the Central Government is—expenditure is on interest payments. It may be noted that when expenditure is accounted for outside plan expenditure (such as maintenance, administrative expenses, etc.), it is called non-plan expenditure. At present, in India, the plan and non-plan classification has been discontinued, and only capital expenditure and revenue expenditure are accounted for.\nSource: 69th B.P.S.C. (Pre) 2023",
+    "explanation": "Among the given options, the correct statement about the non-plan expenditure of the Central Government is—expenditure is on interest payments. It may be noted that when expenditure is accounted for outside plan expenditure (such as maintenance, administrative expenses, etc.), it is called non-plan expenditure. At present, in India, the plan and non-plan classification has been discontinued, and only capital expenditure and revenue expenditure are accounted for.\nSource: 69th B.P.S.C. (Pre) 2023",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 304,
     "sourcePdfPage": 304,
@@ -52500,7 +52500,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "i n the r ailway Budget of 1992-93, the estimated increase in additional revenue is approximately—",
+    "question": "in the Railway Budget of 1992-93, the estimated increase in additional revenue is approximately—",
     "options": [
       "₹ 130 crore",
       "₹ 2,090 crore",
@@ -52590,7 +52590,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "i nterest payment is an item of :",
+    "question": "interest payment is an item of :",
     "options": [
       "Revenue expenditure",
       "Capital expenditure",
@@ -52663,7 +52663,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "Which one is not included in the Budget Priorities in pursuit of ‘v iksit Bharat' in Union Budget 2024-25",
+    "question": "Which one is not included in the Budget Priorities in pursuit of ‘Viksit Bharat' in Union Budget 2024-25",
     "options": [
       "Energy Security",
       "Productivity and Resilience in Agriculture",
@@ -52719,7 +52719,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "i n the Budget of 1995–96, the income-tax exemption limit was increased up to—",
+    "question": "in the Budget of 1995–96, the income-tax exemption limit was increased up to—",
     "options": [
       "₹35,000",
       "₹40,000",
@@ -52791,7 +52791,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "a ccording to a rticle 113 of the Constitution, how much Demands for Grants in the annual budget are presented in Parliament",
+    "question": "According to Article 113 of the Constitution, how much Demands for Grants in the annual budget are presented in Parliament",
     "options": [
       "98",
       "96",
@@ -52810,7 +52810,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "mo Dv at , which comes into effect from a pril 2001, replaces-",
+    "question": "MODVAT , which comes into effect from April 2001, replaces-",
     "options": [
       "sales tax",
       "customs",
@@ -52828,7 +52828,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "i n which year was r ailway Budget merged with the General Budget in india",
+    "question": "in which year was Railway Budget merged with the General Budget in india",
     "options": [
       "2015",
       "2016",
@@ -52865,7 +52865,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "i n which sector has the maximum total expenditure of the Central Government in india been done in the last year",
+    "question": "in which sector has the maximum total expenditure of the Central Government in india been done in the last year",
     "options": [
       "Security",
       "development",
@@ -52956,7 +52956,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "a ccording to the 14 th Finance Commission, the percentage share of States in the net proceeds of the shareable central tax revenue should be :",
+    "question": "According to the 14 th Finance Commission, the percentage share of States in the net proceeds of the shareable central tax revenue should be :",
     "options": [
       "32 percent",
       "35 percent",
@@ -52993,7 +52993,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "i n india, the planned economy is based on -",
+    "question": "in india, the planned economy is based on -",
     "options": [
       "Socialist system",
       "Mixed economy",
@@ -53030,7 +53030,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "The final approval of the Five-Y ear Plan is given by -",
+    "question": "The final approval of the Five-year Plan is given by -",
     "options": [
       "National Development Council",
       "Parliament",
@@ -53066,7 +53066,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "Which of the following were the objectives of the Five- Year Plans 1. Growth 2. modernization 3. Self-reliance 4. l iterature",
+    "question": "Which of the following were the objectives of the Five- Year Plans 1. Growth 2. modernization 3. Self-reliance 4. literature",
     "options": [
       "Only 1, 2 and 4",
       "Only 1, 3 and 4",
@@ -53085,7 +53085,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "m ahalanobis Plan model adopted in india in the mid- fifties aimed at :",
+    "question": "Mahalanobis Plan model adopted in india in the mid-fifties aimed at :",
     "options": [
       "Building a strong defence industry base",
       "Setting up heavy industries which were capital intensive",
@@ -53183,7 +53183,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "First Five-Year Plan - Focus on Agriculture"
     ],
     "answer": "D",
-    "explanation": "Among the given options, all pairs except option (d) are wrongly matched. First Five-Year Plan - Focused on agriculture along with price stability, power, and transport t hird Five-Year Plan - Focused on building a self-reliant and self-sustaining economy Fourth Five-Year Plan - Focused on growth with stability and progressive achievement of self-reliance Fifth Five-Year Plan - Focused on poverty eradication (Remove Poverty) and achieving self-reliance\nSource: 70th B.P.S.C Re-Exam 2024",
+    "explanation": "Among the given options, all pairs except option (d) are wrongly matched. First Five-Year Plan - Focused on agriculture along with price stability, power, and transport t hird Five-Year Plan - Focused on building a self-reliant and self-sustaining economy Fourth Five-Year Plan - Focused on growth with stability and progressive achievement of self-reliance Fifth Five-Year Plan - Focused on poverty eradication (Remove Poverty) and achieving self-reliance\nSource: 70th B.P.S.C. Re-Exam 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 310,
     "sourcePdfPage": 310,
@@ -53375,7 +53375,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "During t welfth Five-Year Plan, which one of the following average annual growth rate targets was envisaged for agriculture and allied sector",
+    "question": "During Twelfth Five-Year Plan, which one of the following average annual growth rate targets was envisaged for agriculture and allied sector",
     "options": [
       "3.0 percent",
       "3.5 percent",
@@ -53394,7 +53394,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "The 'r olling Plan' concept in national Planning was introduced by :",
+    "question": "The 'Rolling Plan' concept in national Planning was introduced by :",
     "options": [
       "Indira Gandhi",
       "The National Front Government",
@@ -53412,7 +53412,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "Consider the following about the 'r olling Plan' :\ni . a plan for the current year which includes the\nannual budget\nII. A plan for a fixed number of years, say 3, 4 or 5\niii . It is revised every year as per the requirements\nof the economy\niv . a perspective plan for 10, 15 or 20 years\nWhich of the above are correct",
+    "question": "Consider the following about the 'Rolling Plan' :\ni. a plan for the current year which includes the\nannual budget\nII. A plan for a fixed number of years, say 3, 4 or 5\niii. It is revised every year as per the requirements\nof the economy\niv. a perspective plan for 10, 15 or 20 years\nWhich of the above are correct",
     "options": [
       "I and II",
       "I and III",
@@ -53420,7 +53420,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "I, II, III and IV"
     ],
     "answer": "D",
-    "explanation": "A ‘Rolling Plan’ is a flexible planning approach. Under it, three plans are prepared—short-term (for one year), medium- term (for 3–5 years) and long-term (for 10–20 years). Necessary modifications are made every year as per requirements. Thus, it is a flexible plan that moves forward by adjusting itself according to circumstances.\nSource: 53rd to 55th B.P.S.C. (Pre) 2011",
+    "explanation": "A ‘Rolling Plan’ is a flexible planning approach. Under it, three plans are prepared—short-term (for one year), medium-term (for 3–5 years) and long-term (for 10–20 years). Necessary modifications are made every year as per requirements. Thus, it is a flexible plan that moves forward by adjusting itself according to circumstances.\nSource: 53rd to 55th B.P.S.C. (Pre) 2011",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 312,
     "sourcePdfPage": 312,
@@ -53448,7 +53448,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "The Foreign Exchange r eserves (FEr ) of r Bi include which of the following 1. Foreign Currency a ssets (FCa ) 2. Gold 3. Special Drawing r ights (SDr ) 4. Reserve t ranche Position Select the correct answer using the codes given below.",
+    "question": "The Foreign Exchange Reserves (FER ) of RBI include which of the following 1. Foreign Currency assets (FCA ) 2. Gold 3. Special Drawing Rights (SDR ) 4. Reserve Tranche Position Select the correct answer using the codes given below.",
     "options": [
       "Only 1 and 2",
       "Only 2, 3 and 4",
@@ -53466,7 +53466,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "Consider the following statements regarding insolvency\nand bankruptcy :\n1. Bankruptcy refers to a financial state in which an\nindividual or entity is unable to pay off their debts\nas they become due.\n2. i nsolvency refers to a legal process, where the assets\nof the debtor are liquidated or reorganized for the\nbenefit of creditors.\n3. Bankruptcy is a state whereas insolvency is the\nconclusion.\n4. The insolvency and Bankruptcy Board of india\n(i BBi ) is the regulatory body responsible for\noverseeing insolvency and bankruptcy proceedings.\nWhich of the above statements is/are correct",
+    "question": "Consider the following statements regarding insolvency\nand bankruptcy :\n1. Bankruptcy refers to a financial state in which an\nindividual or entity is unable to pay off their debts\nas they become due.\n2. insolvency refers to a legal process, where the assets\nof the debtor are liquidated or reorganized for the\nbenefit of creditors.\n3. Bankruptcy is a state whereas insolvency is the\nconclusion.\n4. The insolvency and Bankruptcy Board of india\n(i BBi ) is the regulatory body responsible for\noverseeing insolvency and bankruptcy proceedings.\nWhich of the above statements is/are correct",
     "options": [
       "1, 2 and 3",
       "2, 3 and 4",
@@ -53484,7 +53484,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "Which of the following factors could potentially contribute to stagflation in the Indian economy 1. High inflationary pressures due to increased Government spending 2. Decline in industrial production and sluggish economic growth 3. Decrease in aggregate demand and consumer spending 4. a ppreciation of the domestic currency leading to a reduction in export competitiveness Select the correct answer using the codes given below.",
+    "question": "Which of the following factors could potentially contribute to stagflation in the Indian economy 1. High inflationary pressures due to increased Government spending 2. Decline in industrial production and sluggish economic growth 3. Decrease in aggregate demand and consumer spending 4. appreciation of the domestic currency leading to a reduction in export competitiveness Select the correct answer using the codes given below.",
     "options": [
       "Only 1 and 2",
       "Only 2 and 3",
@@ -53502,7 +53502,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "l owering the Cash Reserve r atio, it will have the\nfollowing impact on the economy:\ni . Banks will have higher liquidity leverage.\nii . The economy may see increased investment.\niii . Supply of currency in the economy may broaden.\niv . r eal investment rate may decline.\nSelect the correct code :",
+    "question": "lowering the Cash Reserve ratio, it will have the\nfollowing impact on the economy:\ni. Banks will have higher liquidity leverage.\nii. The economy may see increased investment.\niii. Supply of currency in the economy may broaden.\niv. real investment rate may decline.\nSelect the correct code :",
     "options": [
       "I only",
       "Both I and II",
@@ -53521,7 +53521,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "i n a ugust 2019, how much principal (in crores) did the ministry of Finance, Government of india announce to infuse to improve the liquidity and lending arrangements of public sector banks",
+    "question": "in August 2019, how much principal (in crores) did the ministry of Finance, Government of india announce to infuse to improve the liquidity and lending arrangements of public sector banks",
     "options": [
       "Rs. 30,000",
       "Rs 45,000",
@@ -53540,7 +53540,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "Before the launch of Kisan r in Portal (Kr P), farmers used to submit manual claims under the i nterest Subvention and Prompt r epayment incentive schemes to which of the following institutions",
+    "question": "Before the launch of Kisan Rin Portal (Kr P), farmers used to submit manual claims under the interest Subvention and Prompt repayment incentive schemes to which of the following institutions",
     "options": [
       "Ministry of Agriculture and Farmers Welfare and NABARD",
       "Reserve Bank of India and NABARD",
@@ -53558,7 +53558,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "Which of the following investors or agencies can\npurchase Government of india securities\ni . The Reserve Bank of india\nii . individuals\niii . Financial institution\nSelect the correct answer using the code given below.",
+    "question": "Which of the following investors or agencies can\npurchase Government of india securities\ni. The Reserve Bank of india\nii. individuals\niii. Financial institution\nSelect the correct answer using the code given below.",
     "options": [
       "I only",
       "I, II and III",
@@ -53596,7 +53596,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "a ccording to the Reserve Bank of india (r Bi), what is the forecast for headline inflation in Financial Y ear 2025",
+    "question": "According to the Reserve Bank of india (RBI), what is the forecast for headline inflation in Financial year 2025",
     "options": [
       "5.0%",
       "4.1%",
@@ -53614,7 +53614,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "The Reserve Bank of India is using which of the following inflation indices as the anchor for 'Inflation t argeting'",
+    "question": "The Reserve Bank of India is using which of the following inflation indices as the anchor for 'Inflation targeting'",
     "options": [
       "WPI",
       "GDP deflator",
@@ -53670,7 +53670,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "t o what extent did the n arasimhan Committee suggest reducing the Statutory l iquidity r atio",
+    "question": "to what extent did the Narasimhan Committee suggest reducing the Statutory liquidity ratio",
     "options": [
       "10 percent",
       "12 percent",
@@ -53725,7 +53725,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "The base year for a ll-india Wholesale Price index (WPi) has been changed by the Government of india from 2004-05 to :",
+    "question": "The base year for All-india Wholesale Price index (WPI) has been changed by the Government of india from 2004-05 to :",
     "options": [
       "2010-11",
       "2011-12",
@@ -53744,7 +53744,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "Consider the following Consumer Price index :\ni . Consumer Price index for industrial Workers.\nii . Consumer Price index for a gricultural l abourers.\niii . Consumer Price index for r ural Workers.\niv . Consumer Price index for Urban n on-manual\nEmployees.\ni n the given indices, which is/are compiled by Central\nStatistics Office (CSO)",
+    "question": "Consider the following Consumer Price index :\ni. Consumer Price index for industrial Workers.\nii. Consumer Price index for agricultural labourers.\niii. Consumer Price index for rural Workers.\niv. Consumer Price index for Urban non-manual\nEmployees.\nin the given indices, which is/are compiled by Central\nStatistics Office (CSO)",
     "options": [
       "Only III and IV",
       "Only I, II and III",
@@ -53780,7 +53780,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "i f the Cash Reserve r atio is lowered by the r Bi, its impact on credit creation will be :",
+    "question": "if the Cash Reserve ratio is lowered by the RBI, its impact on credit creation will be :",
     "options": [
       "Increase",
       "Decrease",
@@ -53806,7 +53806,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "All of the above"
     ],
     "answer": "D",
-    "explanation": "The Reserve Bank of India (India’s central bank) performs the following responsibilities: → Management of monetary policy (repo rate, CRR, SLR, bank rate, etc.) → Issuer of currency → Banker to the government and manager of public debt → Banker to banks → Regulator of the banking system → Foreign exchange management, etc.\nSource: 70th B.P.S.C Re-Exam (Pre) 2024",
+    "explanation": "The Reserve Bank of India (India’s central bank) performs the following responsibilities: → Management of monetary policy (repo rate, CRR, SLR, bank rate, etc.) → Issuer of currency → Banker to the government and manager of public debt → Banker to banks → Regulator of the banking system → Foreign exchange management, etc.\nSource: 70th B.P.S.C. Re-Exam (Pre) 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 316,
     "sourcePdfPage": 316,
@@ -53816,7 +53816,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "Consider the following statements :\n1. Bank r ate is the rate of interest which r Bi charges\nits clients on their short-term borrowing.\n2. r epo r ate is the rate of interest which r Bi charges\nits clients on their long-term borrowing.\nWhich of the statements given above is / are incorrect",
+    "question": "Consider the following statements :\n1. Bank rate is the rate of interest which RBI charges\nits clients on their short-term borrowing.\n2. repo rate is the rate of interest which RBI charges\nits clients on their long-term borrowing.\nWhich of the statements given above is / are incorrect",
     "options": [
       "1 only",
       "2 only",
@@ -53834,7 +53834,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "i n indian currency, the one rupee note is issued under the signature of :",
+    "question": "in indian currency, the one rupee note is issued under the signature of :",
     "options": [
       "Governor of the Reserve Bank of India",
       "President of India",
@@ -53870,7 +53870,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "o n o ctober 8, 1991, the Reserve Bank of India increased the bank rate from 11% to -",
+    "question": "o n October 8, 1991, the Reserve Bank of India increased the bank rate from 11% to -",
     "options": [
       "11.5% per annum",
       "12.0% per annum",
@@ -53924,7 +53924,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "l ife insurance Corporation is an example of-",
+    "question": "life insurance Corporation is an example of-",
     "options": [
       "Commercial bank",
       "Development bank",
@@ -53932,7 +53932,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Co-operative bank"
     ],
     "answer": "C",
-    "explanation": "Life Insurance Corporation of India (LIC) mobilises public savings and invests them in industrial securities and government securities, or in a mix of both. Thus, LIC is an example of an investment bank. On the basis of insurance, LIC collects huge amounts of money from the public, invests them in other sectors of the economy and, through such large- scale investment, earns large returns.\nSource: 41st B.P.S.C. (Pre) 1996",
+    "explanation": "Life Insurance Corporation of India (LIC) mobilises public savings and invests them in industrial securities and government securities, or in a mix of both. Thus, LIC is an example of an investment bank. On the basis of insurance, LIC collects huge amounts of money from the public, invests them in other sectors of the economy and, through such large-scale investment, earns large returns.\nSource: 41st B.P.S.C. (Pre) 1996",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 317,
     "sourcePdfPage": 317,
@@ -53942,7 +53942,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "When was the l ife insurance Corporation of india established",
+    "question": "When was the life insurance Corporation of india established",
     "options": [
       "1956",
       "1944",
@@ -53968,7 +53968,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Nashik Printing Press"
     ],
     "answer": "D",
-    "explanation": "Among the given options, Indian currency is printed at the Currency Note Press, Nashik (Maharashtra). The currency- note printing and allied units in India are as follows-\nSource: 43rd B.P.S.C. (Pre) 1999",
+    "explanation": "Among the given options, Indian currency is printed at the Currency Note Press, Nashik (Maharashtra). The currency-note printing and allied units in India are as follows-\nSource: 43rd B.P.S.C. (Pre) 1999",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 317,
     "sourcePdfPage": 317,
@@ -53978,7 +53978,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "Currency Note Press, Nashik 2. Bank Note Press, Dewas 3. Security Printing Press, Hyderabad 4. Security Paper Mill, Narmadapuram 5. India Security Press, Nashik The minting (coin) units are as follows- 1. Mumbai 2. Kolkata 3. Hyderabad 4. Noida 30. i n general, the main objective of monetary policy is-",
+    "question": "Currency Note Press, Nashik 2. Bank Note Press, Dewas 3. Security Printing Press, Hyderabad 4. Security Paper Mill, Narmadapuram 5. India Security Press, Nashik The minting (coin) units are as follows- 1. Mumbai 2. Kolkata 3. Hyderabad 4. Noida 30. in general, the main objective of monetary policy is-",
     "options": [
       "Control the money supply",
       "Control private banks",
@@ -54050,7 +54050,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "Who amongst the following is the present Governor of the r Bi",
+    "question": "Who amongst the following is the present Governor of the RBI",
     "options": [
       "Bimal Jalan",
       "Arvind Subramanian",
@@ -54107,7 +54107,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "l and Development Bank is a part of—",
+    "question": "land Development Bank is a part of—",
     "options": [
       "Commercial Bank",
       "IDBI",
@@ -54115,7 +54115,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Cooperative Credit Structure"
     ],
     "answer": "D",
-    "explanation": "“Land Development Bank” is the main institution of long- term cooperative credit Structure in the agricultural sector.\nSource: 42nd B.P.S.C. (Pre) 1997-98",
+    "explanation": "“Land Development Bank” is the main institution of long-term cooperative credit Structure in the agricultural sector.\nSource: 42nd B.P.S.C. (Pre) 1997-98",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 318,
     "sourcePdfPage": 318,
@@ -54125,7 +54125,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "r egional r ural Banks, also known as Gramin Banks, are classified as-",
+    "question": "Regional rural Banks, also known as Gramin Banks, are classified as-",
     "options": [
       "In the form of land development banks",
       "In the form of branches of commercial banks",
@@ -54143,7 +54143,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "n ote issue system in india is based on-",
+    "question": "Note issue system in india is based on-",
     "options": [
       "Proportional Fund System",
       "Minimum Reserve System",
@@ -54179,7 +54179,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "a ccording to the Reserve Bank of india, what is one of the eligibility criteria for a Small Finance Bank (SFB) to transition into a Universal Bank",
+    "question": "According to the Reserve Bank of india, what is one of the eligibility criteria for a Small Finance Bank (SFB) to transition into a Universal Bank",
     "options": [
       "Minimum net worth of ₹1,500 crore",
       "Minimum net worth of ₹500 crore",
@@ -54197,7 +54197,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "Scheduled bank status and a satisfactory track record of performance for a minimum period of five years. 2. The bank’s shares should be listed on a recognised stock exchange. 3. Minimum net worth of ₹1,000 crore at the end of the previous quarter (audited). 4. The prescribed CRAR requirements for SFBs must be met. 5. Net profit should have been earned in the last two financial years. 6. In the last two financial years, GNPA and NNPA should be less than or equal to 3% and 1% respectively. Part -2 So Cial D Ev Elo PmEnt Human Development 1. a ccording to the U n DP Human Development index (HDi) Report 2025, life expectancy in india increased from 58.6 years 6753 in 1990 to how many years in 2023",
+    "question": "Scheduled bank status and a satisfactory track record of performance for a minimum period of five years. 2. The bank’s shares should be listed on a recognised stock exchange. 3. Minimum net worth of ₹1,000 crore at the end of the previous quarter (audited). 4. The prescribed CRAR requirements for SFBs must be met. 5. Net profit should have been earned in the last two financial years. 6. In the last two financial years, GNPA and NNPA should be less than or equal to 3% and 1% respectively. Part -2 So Cial D Ev Elo PmEnt Human Development 1. According to the U n DP Human Development index (HDi) Report 2025, life expectancy in india increased from 58.6 years 6753 in 1990 to how many years in 2023",
     "options": [
       "72 years",
       "73 years",
@@ -54233,7 +54233,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Economic Development",
-    "question": "Which of the following is not taken as one of the parts for preparing the “Human Development index in India” under the United n ations Development Program (Un DP)",
+    "question": "Which of the following is not taken as one of the parts for preparing the “Human Development index in India” under the United Nations Development Program (Un DP)",
     "options": [
       "Real GDP per capita income in US dollars",
       "Literacy rate",
@@ -54269,7 +54269,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Social Development",
-    "question": "The a tmanirbhar Bharat Scheme announced by the Government helps in: (1) Enhancing india's manufacturing capabilities and exports across the industries (2) i ncentivizing foreign investments for domestic production o ut of these:",
+    "question": "The Atmanirbhar Bharat Scheme announced by the Government helps in: (1) Enhancing india's manufacturing capabilities and exports across the industries (2) incentivizing foreign investments for domestic production out of these:",
     "options": [
       "1 is correct",
       "2 is correct",
@@ -54277,7 +54277,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Neither 1 nor 2 is correct"
     ],
     "answer": "C",
-    "explanation": "The declared objective of Atmanirbhar Bharat Abhiyan is to increase domestic manufacturing capacity and develop In- dia as a global supply chain and export hub. This campaign is not against foreign investment; rather, by liberalising the FDI policy in specific sectors, it encourages setting up pro- duction facilities in India itself (especially in defence and other manufacturing sectors).\nSource: 71st B.P.S.C. (Pre) 2025",
+    "explanation": "The declared objective of Atmanirbhar Bharat Abhiyan is to increase domestic manufacturing capacity and develop India as a global supply chain and export hub. This campaign is not against foreign investment; rather, by liberalising the FDI policy in specific sectors, it encourages setting up production facilities in India itself (especially in defence and other manufacturing sectors).\nSource: 71st B.P.S.C. (Pre) 2025",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 320,
     "sourcePdfPage": 320,
@@ -54287,7 +54287,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Social Development",
-    "question": "Consider the following statements regarding the\nSv amitv a scheme :\n1. It is a Central Sector Scheme under the ministry\nof mines.\n2. This scheme seeks to create geo-positioning\ninfrastructure like Cor S network to benchmark\nthe location and provides five centimetre level\naccuracy.\n3. Cor S means Cross-origin r esource Sharing.\n4. The scheme is a reformatory step towards\nestablishment of clear ownership of property in\nrural inhabited (a badi) areas, by mapping of land\nparcels using drone technology.\nWhich of the above statements are incorrect",
+    "question": "Consider the following statements regarding the\nSv amitv a scheme :\n1. It is a Central Sector Scheme under the ministry\nof mines.\n2. This scheme seeks to create geo-positioning\ninfrastructure like Cor S network to benchmark\nthe location and provides five centimetre level\naccuracy.\n3. Cor S means Cross-origin Resource Sharing.\n4. The scheme is a reformatory step towards\nestablishment of clear ownership of property in\nrural inhabited (abadi) areas, by mapping of land\nparcels using drone technology.\nWhich of the above statements are incorrect",
     "options": [
       "2 and 4",
       "1 and 3",
@@ -54305,7 +54305,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Social Development",
-    "question": "Which one is not true about a yushman Sahakar Scheme",
+    "question": "Which one is not true about Ayushman Sahakar Scheme",
     "options": [
       "The Finance Ministry of India launched this scheme",
       "It is a scheme to assist cooperatives in the creation of health infrastructure",
@@ -54352,7 +54352,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "C",
-    "explanation": "The Union Ministry of Health and Family Welfare launched the ‘Mission Indradhanush’ scheme in 2014. The objective of this mission is to immunize partially immunized and left- out children, as well as pregnant women. ‘Intensified Mission Indradhanush (IMI) 3.0’ was launched in February 2021. Un- der this mission, special emphasis was placed on vaccinating those children and pregnant women whose vaccination could not be completed due to the COVID-19 pandemic.\nSource: B.P.S.C. (CDPO ) (Pre) 2022",
+    "explanation": "The Union Ministry of Health and Family Welfare launched the ‘Mission Indradhanush’ scheme in 2014. The objective of this mission is to immunize partially immunized and left-out children, as well as pregnant women. ‘Intensified Mission Indradhanush (IMI) 3.0’ was launched in February 2021. Under this mission, special emphasis was placed on vaccinating those children and pregnant women whose vaccination could not be completed due to the COVID-19 pandemic.\nSource: B.P.S.C. (CDPO ) (Pre) 2022",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 321,
     "sourcePdfPage": 321,
@@ -54362,7 +54362,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Social Development",
-    "question": "What is the objective of the 'Pradhan m antri Shram Yogi maandhan Yojana' announced in Budget 2019-20",
+    "question": "What is the objective of the 'Pradhan Mantri Shram Yogi maandhan Yojana' announced in Budget 2019-20",
     "options": [
       "Providing education allowance for a single girl child",
       "Providing allowance for unemployed youth",
@@ -54381,7 +54381,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Social Development",
-    "question": "i n Pradhan mantri Shram Yogi maandhan Scheme, each subscriber shall receive the minimum assured pension of ......... per month after attaining the age of 60 years.",
+    "question": "in Pradhan mantri Shram Yogi maandhan Scheme, each subscriber shall receive the minimum assured pension of ......... per month after attaining the age of 60 years.",
     "options": [
       "Rs. 3,500",
       "Rs. 2,000",
@@ -54419,7 +54419,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Social Development",
-    "question": "The Government of India launched Community Development Scheme on 2nd o ctober-",
+    "question": "The Government of India launched Community Development Scheme on 2nd October-",
     "options": [
       "1950",
       "1951",
@@ -54446,7 +54446,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "E",
-    "explanation": "The all-round development of any community—such as physical, social, moral, and cultural development—is called “community development” (Community Development). Community development includes all important elements of life such as agriculture, animal husbandry, irrigation, co- operatives, education, health, social productive activities, communication, village industries, panchayats, etc. According to the United Nations, “Community development denotes the processes by which the efforts of the people themselves are united with those of governmental authorities to improve the economic, social and cultural conditions of communities, to integrate these communities into the life of the nation, and to enable them to contribute fully to national progress.”\nSource: 67th B.P.S.C. Re-Exam (Pre) 2022",
+    "explanation": "The all-round development of any community—such as physical, social, moral, and cultural development—is called “community development” (Community Development). Community development includes all important elements of life such as agriculture, animal husbandry, irrigation, co-operatives, education, health, social productive activities, communication, village industries, panchayats, etc. According to the United Nations, “Community development denotes the processes by which the efforts of the people themselves are united with those of governmental authorities to improve the economic, social and cultural conditions of communities, to integrate these communities into the life of the nation, and to enable them to contribute fully to national progress.”\nSource: 67th B.P.S.C. Re-Exam (Pre) 2022",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 322,
     "sourcePdfPage": 322,
@@ -54475,7 +54475,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Social Development",
-    "question": "Consider the following Schemes :\ni. Ea S\nii . tr YSEm\niii . Jr Y\niv . rl EGP\nThe correct chronological sequence of the launching\nof these schemes is :",
+    "question": "Consider the following Schemes :\ni. Ea S\nii. TRYSEM\niii. Jr Y\niv. rl EGP\nThe correct chronological sequence of the launching\nof these schemes is :",
     "options": [
       "II-IV-I-III",
       "IV-II-III-I",
@@ -54493,7 +54493,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Social Development",
-    "question": "Choose the correct statement regarding the v ibrant\nv illage Programme.",
+    "question": "Choose the correct statement regarding the Vibrant\nVillage Programme.",
     "options": [
       "It is for the development of road connectivity in Bihar.",
       "It is for the Maharashtra State of India.",
@@ -54569,7 +54569,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Social Development",
-    "question": "Which of the following is not a component of ‘Bharat n irman’",
+    "question": "Which of the following is not a component of ‘Bharat Nirman’",
     "options": [
       "Agro-based industries",
       "Rural electrification",
@@ -54719,7 +54719,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "topic": "Social Development",
     "question": "Which of the following statement/s is/are correct about\nCapability Poverty measure (CPm) developed by the\nUn DP\n1. CPm includes child malnutrition as a proxy for lack\nof health and nourishment.\n2. Female illiteracy is included to reflect deprivation\nin education and knowledge.\n3. It considers male illiteracy as a key indicator of\ncapability poverty.\n4. It includes lack of access to clean drinking water\nas an important indicator of capability poverty.\nSelect the correct answer using the codes given below:",
     "options": [
-      "l and 2",
+      "land 2",
       "1,2 and 3",
       "Only 1",
       "More than one of the above"
@@ -54735,7 +54735,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Social Development",
-    "question": "The capability to live a healthy and well-nourished life,\n2. The capability of healthy reproduction, and The capabil -\nity to be educated and knowledgeable.\nUnder this, child malnutrition (the proportion of children\nunder five years of age who are underweight) has been in-\ncluded to indicate deprivation in health and nutrition. To\nmeasure deprivation in education and knowledge, CPM\nuses “the percentage of illiterate women aged 15 years and\nabove” as an indicator. Male illiteracy is not treated as an\nindicator in CPM. Only statements 1 and 2 match the of-\nficial definition of CPM, while statements 3 and 4 are in-\ncorrect.\n2. a s per n FHS-5 data, which of the following\nstate(s) recorded less than 6% of the population as\nmultidimensionally poor in 2019-20",
+    "question": "The capability to live a healthy and well-nourished life,\n2. The capability of healthy reproduction, and The capabil -\nity to be educated and knowledgeable.\nUnder this, child malnutrition (the proportion of children\nunder five years of age who are underweight) has been included to indicate deprivation in health and nutrition. To\nmeasure deprivation in education and knowledge, CPM\nuses “the percentage of illiterate women aged 15 years and\nabove” as an indicator. Male illiteracy is not treated as an\nindicator in CPM. Only statements 1 and 2 match the of-\nficial definition of CPM, while statements 3 and 4 are in-\ncorrect.\n2. a s per n FHS-5 data, which of the following\nstate(s) recorded less than 6% of the population as\nmultidimensionally poor in 2019-20",
     "options": [
       "Jammu and Kashmir",
       "Himachal Pradesh",
@@ -54791,7 +54791,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Social Development",
-    "question": "a ccording to the Planning Commission of india, which of the following are correct for the poverty line i . r s. 42 per capita per day in urban area ii . r s. 26 per capita per day in rural area iii . r s. 32 per capita per day in urban area iv . r s. 32 per capita per day in rural area Choose the correct option from the following :",
+    "question": "According to the Planning Commission of india, which of the following are correct for the poverty line i. r s. 42 per capita per day in urban area ii. r s. 26 per capita per day in rural area iii. r s. 32 per capita per day in urban area iv. r s. 32 per capita per day in rural area Choose the correct option from the following :",
     "options": [
       "I and II",
       "I and III",
@@ -54799,7 +54799,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "III and IV"
     ],
     "answer": "C",
-    "explanation": "Using the data of the NSSO Household Consumer Expenditure Survey and as per the recommendations of the Tendulkar Committee, the Planning Commission updated the poverty ratio and poverty lines for 2011-12 and released the poverty estimates for 2011-12 in July 2013. According to these, in 2011-12, at the all-India level, the poverty line was recorded as consumption expenditure of Rs. 816 per person per month (Rs. 26.32 per day) for rural areas and Rs. 1000 per person per month (Rs. 32.25 per day) for urban areas. Therefore, as the nearest correct answer, option (c) can be selected. n ote- Here, the month has been taken as equivalent to 31 days.\nSource: 56th to 59th B. P. S.C.(Pre) 2014",
+    "explanation": "Using the data of the NSSO Household Consumer Expenditure Survey and as per the recommendations of the Tendulkar Committee, the Planning Commission updated the poverty ratio and poverty lines for 2011-12 and released the poverty estimates for 2011-12 in July 2013. According to these, in 2011-12, at the all-India level, the poverty line was recorded as consumption expenditure of Rs. 816 per person per month (Rs. 26.32 per day) for rural areas and Rs. 1000 per person per month (Rs. 32.25 per day) for urban areas. Therefore, as the nearest correct answer, option (c) can be selected. Note- Here, the month has been taken as equivalent to 31 days.\nSource: 56th to 59th B. P. S.C.(Pre) 2014",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 325,
     "sourcePdfPage": 325,
@@ -54809,7 +54809,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Social Development",
-    "question": "r elative poverty means-",
+    "question": "Relative poverty means-",
     "options": [
       "Bankruptcy",
       "Trade cycles",
@@ -54846,7 +54846,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Social Development",
-    "question": "a ccording to the report of World Bank, more than 50 percent poor in india, live in these four states :",
+    "question": "According to the report of World Bank, more than 50 percent poor in india, live in these four states :",
     "options": [
       "Bihar, Uttar Pradesh, Madhya Pradesh, Odisha",
       "Rajasthan, Uttar Pradesh, Madhya Pradesh, Odisha",
@@ -54854,7 +54854,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Bihar, Odisha, Madhya Pradesh, Jammu & Kashmir"
     ],
     "answer": "A",
-    "explanation": "At the time of the question, more than 50 percent of the poor in India lived in four states— namely Bihar, Uttar Pradesh, Madhya Pradesh and Odisha (Orissa). According to National Family Health Survey-5 (2019-21), the top five states of India affected by multidimensional poverty, along with the percentage of their population, are as follows— Bihar (33.76%), Jharkhand (28.81%), Meghalaya (27.79%), Uttar Pradesh (22.93%) and Madhya Pradesh (20.63%). Part -3 Ext Ernal S ECtor international t rade\nSource: 48th to 52nd B.P.S.C. (Pre) 2008",
+    "explanation": "At the time of the question, more than 50 percent of the poor in India lived in four states— namely Bihar, Uttar Pradesh, Madhya Pradesh and Odisha (Orissa). According to National Family Health Survey-5 (2019-21), the top five states of India affected by multidimensional poverty, along with the percentage of their population, are as follows— Bihar (33.76%), Jharkhand (28.81%), Meghalaya (27.79%), Uttar Pradesh (22.93%) and Madhya Pradesh (20.63%). Part -3 Ext Ernal S ECtor international Trade\nSource: 48th to 52nd B.P.S.C. (Pre) 2008",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 326,
     "sourcePdfPage": 326,
@@ -54919,7 +54919,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Social Development",
-    "question": "a ccording to the Gems and Jewellery Export Promotion Council of india, what is the decrease in the export growth rate in a pril-July, 2019 compared to the same period in 2018",
+    "question": "According to the Gems and Jewellery Export Promotion Council of india, what is the decrease in the export growth rate in April-July, 2019 compared to the same period in 2018",
     "options": [
       "7%",
       "5%",
@@ -54975,7 +54975,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "External Sector",
-    "question": "Which of the following is not among the top ten principal commodities of india's export during a pril- September 2024-25",
+    "question": "Which of the following is not among the top ten principal commodities of india's export during April- September 2024-25",
     "options": [
       "Petroleum Products",
       "Iron and Steel",
@@ -55048,7 +55048,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "External Sector",
-    "question": "i n which of the following years was the trade balance favourable to india :",
+    "question": "in which of the following years was the trade balance favourable to india :",
     "options": [
       "1970-71 and 1974-75",
       "1972-73 and 1976-77",
@@ -55085,7 +55085,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "External Sector",
-    "question": "Consider the following statements regarding agriculture\nand trade of india during the year 2001-02 and 2002-\n03-\n1. a gricultural imports contributed about 12% of\nindia's total imports.\n2. The contribution of edible oils to india's total agro-\nimport value was about 62%.\n3. a gricultural exports contributed about 4% to\nindia's total exports.\n4. m arine products contributed about 23% to the\ntotal agricultural export value in india.\nWhich of these statements are correct",
+    "question": "Consider the following statements regarding agriculture\nand trade of india during the year 2001-02 and 2002-\n03-\n1. agricultural imports contributed about 12% of\nindia's total imports.\n2. The contribution of edible oils to india's total agro-\nimport value was about 62%.\n3. agricultural exports contributed about 4% to\nindia's total exports.\n4. Marine products contributed about 23% to the\ntotal agricultural export value in india.\nWhich of these statements are correct",
     "options": [
       "2 and 4",
       "2 and 3",
@@ -55149,7 +55149,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "England"
     ],
     "answer": "B",
-    "explanation": "From 1991 to 2001-02, Japan provided 21.4% of the total foreign aid received by India. During the period from 2002- 03 to the present, the foreign aid provided by Japan constituted the largest share of total foreign aid. From the beginning of the First Five-Year Plan to the end of the Fourth Five-Year Plan, the United States of America (USA) had the largest share in total foreign aid. Foreign Exchange FDi & External Debt\nSource: 44th B.P.S.C. (Pre) 2000",
+    "explanation": "From 1991 to 2001-02, Japan provided 21.4% of the total foreign aid received by India. During the period from 2002- 03 to the present, the foreign aid provided by Japan constituted the largest share of total foreign aid. From the beginning of the First Five-Year Plan to the end of the Fourth Five-Year Plan, the United States of America (USA) had the largest share in total foreign aid. Foreign Exchange FDI & External Debt\nSource: 44th B.P.S.C. (Pre) 2000",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 329,
     "sourcePdfPage": 329,
@@ -55159,7 +55159,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "External Sector",
-    "question": "Which of the following Indian states received the highest Foreign Direct investment (FDi), in the form of equity, during a pril to September, 2022",
+    "question": "Which of the following Indian states received the highest Foreign Direct investment (FDI), in the form of equity, during April to September, 2022",
     "options": [
       "Gujarat",
       "Karnataka",
@@ -55233,7 +55233,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "External Sector",
-    "question": "a ccording to the Reserve Bank of india, what was the total value of the foreign exchange reserves of india in 2018-19",
+    "question": "According to the Reserve Bank of india, what was the total value of the foreign exchange reserves of india in 2018-19",
     "options": [
       "493560 million US dollars",
       "481078 million US dollars",
@@ -55308,7 +55308,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "External Sector",
-    "question": "Which sector in india attracts the highest FDi equity flow",
+    "question": "Which sector in india attracts the highest FDI equity flow",
     "options": [
       "Construction Sector",
       "Energy Sector",
@@ -55327,7 +55327,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "External Sector",
-    "question": "Consider the following statements regarding the recent\nexport-import trade of india-\n1. The textile sector contributes 21% and gems and\njewellery 17% in india's exports.\n2. Western Europe and n orth a merica together\naccount for 53% of india's exports and 40% of its\nimports.\n3. Latin a merica, Sub-Saharan a frican and middle\nEast countries present the most potential markets\nfor indian export trade.\n4. India's share in world exports is a little over 2%.\nWhich of these statements are correct",
+    "question": "Consider the following statements regarding the recent\nexport-import trade of india-\n1. The textile sector contributes 21% and gems and\njewellery 17% in india's exports.\n2. Western Europe and North America together\naccount for 53% of india's exports and 40% of its\nimports.\n3. Latin America, Sub-Saharan African and middle\nEast countries present the most potential markets\nfor indian export trade.\n4. India's share in world exports is a little over 2%.\nWhich of these statements are correct",
     "options": [
       "1 and 2",
       "2, 3 and 4",
@@ -55335,7 +55335,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "1, 2 and 3"
     ],
     "answer": "",
-    "explanation": "In India’s exports, the contribution of the textile sector was 12.0% in 2004-05, and the contribution of the gems & jewellery sector was 16.5%. In 2004-05, the European Union (EU) had a 21% share and the United States of America (USA) had a 16.5% share in India’s exports. In 2004-05, the EU’s share in India’s imports was 16.8% and the USA’s share was 6.3%. The New Export-Import Policy, 2004 identified Latin America, sub-Saharan Africa and the Middle East as the most promising markets for Indian exports. In 2004-05, India’s share in world exports was 0.8%. Thus, among the above, only the third statement is correct. Therefore, none of the options given above is correct. international o rganisation\nSource: 47th B.P.S.C. (Pre) 2005",
+    "explanation": "In India’s exports, the contribution of the textile sector was 12.0% in 2004-05, and the contribution of the gems & jewellery sector was 16.5%. In 2004-05, the European Union (EU) had a 21% share and the United States of America (USA) had a 16.5% share in India’s exports. In 2004-05, the EU’s share in India’s imports was 16.8% and the USA’s share was 6.3%. The New Export-Import Policy, 2004 identified Latin America, sub-Saharan Africa and the Middle East as the most promising markets for Indian exports. In 2004-05, India’s share in world exports was 0.8%. Thus, among the above, only the third statement is correct. Therefore, none of the options given above is correct. international Organisation\nSource: 47th B.P.S.C. (Pre) 2005",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 331,
     "sourcePdfPage": 331,
@@ -55453,7 +55453,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "External Sector",
-    "question": "South Asian Preferential t rade a greement (Sa Pta ) was formally inaugurated on-",
+    "question": "South Asian Preferential Trade Agreement (Sa Pta ) was formally inaugurated on-",
     "options": [
       "7th December, 1994",
       "7th November, 1993",
@@ -55526,7 +55526,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "External Sector",
-    "question": "Which country is not a member of the South Asian Association for r egional Cooperation",
+    "question": "Which country is not a member of the South Asian Association for Regional Cooperation",
     "options": [
       "Afghanistan",
       "Bangladesh",
@@ -55598,7 +55598,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "External Sector",
-    "question": "The first Director-General of the World t rade o rganisation (World t rade o rganisation) was—",
+    "question": "The first Director-General of the World Trade Organisation (World Trade Organisation) was—",
     "options": [
       "Arthur Dunkel",
       "Peter Sutherland",
@@ -55688,7 +55688,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "a ccording to the Census 2001, the density of population in india (per sq. km) is :",
+    "question": "According to the Census 2001, the density of population in india (per sq. km) is :",
     "options": [
       "304",
       "324",
@@ -55769,7 +55769,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "proportion of children that die before the age of 1 year as a proportion of 1000 live children born in that particular year"
     ],
     "answer": "D",
-    "explanation": "See the explanation above the question.\nSource: 70th B.P.S.C Re-Exam (Pre) 2024",
+    "explanation": "See the explanation above the question.\nSource: 70th B.P.S.C. Re-Exam (Pre) 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 334,
     "sourcePdfPage": 334,
@@ -55779,7 +55779,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "With reference to infant mortality r ate, consider the\nfollowing statements—\n1. It is the probability of death of an infant between\nbirth and exactly 1 year of age, expressed per\n10,000 live births.\n2. i n the year 1950, the infant mortality rate was\n189.6.\n3. i n the year 2019, the infant mortality rate was 30.\n4. a ccording to the Sample r egistration System\n(S.r .S.) Bulletin of the r egistrar General of india\n(r .G.i .), Uttar Pradesh was the state with the\nhighest infant mortality rate in 2019.\nWhich of the above statements are correct",
+    "question": "With reference to infant mortality rate, consider the\nfollowing statements—\n1. It is the probability of death of an infant between\nbirth and exactly 1 year of age, expressed per\n10,000 live births.\n2. in the year 1950, the infant mortality rate was\n189.6.\n3. in the year 2019, the infant mortality rate was 30.\n4. According to the Sample Registration System\n(S.r .S.) Bulletin of the Registrar General of india\n(r .G.i. ), Uttar Pradesh was the state with the\nhighest infant mortality rate in 2019.\nWhich of the above statements are correct",
     "options": [
       "1 and 4",
       "1, 2 and 3",
@@ -55805,7 +55805,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "15.5%"
     ],
     "answer": "B",
-    "explanation": "In India, the increase in literacy rate during 1991–2001 was 12.62 percentage points (from 52.21% to 64.83%). From 2001 to 2011, the literacy rate increased by 8.15 percentage points (from 64.83% to 72.98%). n ote– In the options of the given question, “percentage points” should be used in place of “percent”.\nSource: 48th to 52nd B.P.S.C. (Pre) 2008",
+    "explanation": "In India, the increase in literacy rate during 1991–2001 was 12.62 percentage points (from 52.21% to 64.83%). From 2001 to 2011, the literacy rate increased by 8.15 percentage points (from 64.83% to 72.98%). Note– In the options of the given question, “percentage points” should be used in place of “percent”.\nSource: 48th to 52nd B.P.S.C. (Pre) 2008",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 335,
     "sourcePdfPage": 335,
@@ -55852,7 +55852,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "a ccording to the 1991 census, the population of india is-",
+    "question": "According to the 1991 census, the population of india is-",
     "options": [
       "80.2 crores",
       "82.2 percent",
@@ -55870,7 +55870,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "a ccording to the last census report, the population growth rate of india was-",
+    "question": "According to the last census report, the population growth rate of india was-",
     "options": [
       "129.9%",
       "84.25%",
@@ -55888,7 +55888,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "a ccording to the latest census the average annual population growth rate of india is-",
+    "question": "According to the latest census the average annual population growth rate of india is-",
     "options": [
       "showed an increasing",
       "showed a declining",
@@ -55924,7 +55924,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "i n demography, the sex ratio refers to -",
+    "question": "in demography, the sex ratio refers to -",
     "options": [
       "From the number of women in a country",
       "From the number of men in a country",
@@ -55986,7 +55986,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Kerala"
     ],
     "answer": "",
-    "explanation": "According to Census 2011, among Indian states, Kerala has the highest literacy rate. However, the question asks about the literacy rate as per “Census 2023”, whereas after 2011, no Census report has been released by the Government so far. On this basis, the Bihar Public Service Commission deleted this question in its answer key.\nSource: 70th B.P.S.C Re-Exam (Pre) 2024",
+    "explanation": "According to Census 2011, among Indian states, Kerala has the highest literacy rate. However, the question asks about the literacy rate as per “Census 2023”, whereas after 2011, no Census report has been released by the Government so far. On this basis, the Bihar Public Service Commission deleted this question in its answer key.\nSource: 70th B.P.S.C. Re-Exam (Pre) 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 336,
     "sourcePdfPage": 336,
@@ -55996,7 +55996,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "a ccording to the 1991 census, the birth rate in the indian economy is-",
+    "question": "According to the 1991 census, the birth rate in the indian economy is-",
     "options": [
       "30.0 per thousand",
       "24 per thousand",
@@ -56023,7 +56023,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "D",
-    "explanation": "According to Census 2011, the literacy rates of religious groups in India are as follows— r eligious group | l iteracy rate Hindu 73.27% Muslim 68.54% Sikh 75.39% Christian 84.53% Buddhist 81.29% Jain 94.88% Therefore, among India’s religious communities, the highest literacy rate is of the Jain community (94.88%), while the lowest literacy rate is of the Muslim community (68.54%).\nSource: 65th B.P.S.C. (Pre) 2019",
+    "explanation": "According to Census 2011, the literacy rates of religious groups in India are as follows— religious group | Literacy rate Hindu 73.27% Muslim 68.54% Sikh 75.39% Christian 84.53% Buddhist 81.29% Jain 94.88% Therefore, among India’s religious communities, the highest literacy rate is of the Jain community (94.88%), while the lowest literacy rate is of the Muslim community (68.54%).\nSource: 65th B.P.S.C. (Pre) 2019",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 336,
     "sourcePdfPage": 336,
@@ -56033,7 +56033,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "a ccording to the Census of India, 2011, which Scheduled t ribe is largest in india",
+    "question": "According to the Census of India, 2011, which Scheduled Tribe is largest in india",
     "options": [
       "Santhal",
       "Kol",
@@ -56061,7 +56061,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above / More than one of the above"
     ],
     "answer": "C",
-    "explanation": "According to Census 2011, the Scheduled Tribe population and its percentage in total population in the given states are as follows— State Scheduled t ribe population Percentage of total population Arunachal Pradesh 951,821 68.8 Nagaland 1,710,973 86.5 Mizoram 1,036,115 94.4 Meghalaya 2,555,861 86.1 Therefore, among the given options, the percentage of tribal population is the highest in Mizoram as compared to its to- tal population.\nSource: 66th B.P.S.C. (Pre) 2020",
+    "explanation": "According to Census 2011, the Scheduled Tribe population and its percentage in total population in the given states are as follows— State Scheduled Tribe population Percentage of total population Arunachal Pradesh 951,821 68.8 Nagaland 1,710,973 86.5 Mizoram 1,036,115 94.4 Meghalaya 2,555,861 86.1 Therefore, among the given options, the percentage of tribal population is the highest in Mizoram as compared to its to- tal population.\nSource: 66th B.P.S.C. (Pre) 2020",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 337,
     "sourcePdfPage": 337,
@@ -56071,7 +56071,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "The States/Union t erritories of India having the highest percentage of SC and S t population in their total population as per 2011 Census are",
+    "question": "The States/Union Territories of India having the highest percentage of SC and ST population in their total population as per 2011 Census are",
     "options": [
       "Uttar Pradesh and Mizoram",
       "West Bengal and Nagaland",
@@ -56080,7 +56080,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above/More than one of the above"
     ],
     "answer": "C",
-    "explanation": "According to Census 2011, in the given states/Union Terri- tories, the Scheduled Caste and Scheduled Tribe population and their percentage in total population are as follows— State/Union t erritory Scheduled Caste population and % Scheduled t ribe population and % Uttar Pradesh 41,357,608 (20.7%) 1,134,273 (0.6%) Mizoram 1,218 (0.1%) 1,036,115 (94.4%) West Bengal 21,463,270 (23.5%) 5,296,953 (5.8%) Nagaland – 1,710,973 (86.5%) Punjab 8,860,179 (31.9%) – Bihar 16,567,325 (15.9%) 1,336,573 (1.3%) Meghalaya 17,355 (0.6%) 2,555,861 (86.1%) Therefore, among the given options, in percentage terms, the Scheduled Caste population is highest in Punjab, while in percentage terms, the Scheduled Tribe population is highest in Lakshadweep (94.8%). india Urbanisation\nSource: B.P.S.C. C.D.P.O . (Pre) 2018",
+    "explanation": "According to Census 2011, in the given states/Union Terri- tories, the Scheduled Caste and Scheduled Tribe population and their percentage in total population are as follows— State/Union t erritory Scheduled Caste population and % Scheduled Tribe population and % Uttar Pradesh 41,357,608 (20.7%) 1,134,273 (0.6%) Mizoram 1,218 (0.1%) 1,036,115 (94.4%) West Bengal 21,463,270 (23.5%) 5,296,953 (5.8%) Nagaland – 1,710,973 (86.5%) Punjab 8,860,179 (31.9%) – Bihar 16,567,325 (15.9%) 1,336,573 (1.3%) Meghalaya 17,355 (0.6%) 2,555,861 (86.1%) Therefore, among the given options, in percentage terms, the Scheduled Caste population is highest in Punjab, while in percentage terms, the Scheduled Tribe population is highest in Lakshadweep (94.8%). india Urbanisation\nSource: B.P.S.C. C.D.P.O . (Pre) 2018",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 337,
     "sourcePdfPage": 337,
@@ -56090,7 +56090,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "a ccording to the 2001 census, which is the state with the highest total urban population",
+    "question": "According to the 2001 census, which is the state with the highest total urban population",
     "options": [
       "Uttar Pradesh",
       "Maharashtra",
@@ -56098,7 +56098,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Kerala"
     ],
     "answer": "B",
-    "explanation": "According to the final national Census 2001 data, the state with the highest urban population was Maharashtra. According to the Census 2011, the urban population figures are as follows - State t otal Urban Population, Urban Population as a percentage of the State’s t otal Population Maharashtra 50818259 45.2 Uttar Pradesh 44495063 22.3 Tamil Nadu 34917440 48.4 Kerala 15934926 47.7 Urban Population as a percentage of the State’s Total Population: The country’s urbanisation is 31.1 percent, while the least urbanised states are Himachal Pradesh (10 percent), Bihar (11.3 percent) and Assam (14.1 percent).\nSource: 40th B.P.S.C. (Pre) 1995",
+    "explanation": "According to the final national Census 2001 data, the state with the highest urban population was Maharashtra. According to the Census 2011, the urban population figures are as follows - State total Urban Population, Urban Population as a percentage of the State’s total Population Maharashtra 50818259 45.2 Uttar Pradesh 44495063 22.3 Tamil Nadu 34917440 48.4 Kerala 15934926 47.7 Urban Population as a percentage of the State’s Total Population: The country’s urbanisation is 31.1 percent, while the least urbanised states are Himachal Pradesh (10 percent), Bihar (11.3 percent) and Assam (14.1 percent).\nSource: 40th B.P.S.C. (Pre) 1995",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 337,
     "sourcePdfPage": 337,
@@ -56219,7 +56219,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "Which organization has jointly developed the national Urban innovation Stack (n UiS) Digital Blueprint with the ministry of Housing and Urban a ffairs (moHUa )",
+    "question": "Which organization has jointly developed the national Urban innovation Stack (n UiS) Digital Blueprint with the ministry of Housing and Urban Affairs (moHUa )",
     "options": [
       "Ministry of Electronics and Information Technology",
       "National Institute of Urban Affairs (NIUA)",
@@ -56237,7 +56237,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "Which group was permitted at n andigram area under the SEZ policy :",
+    "question": "Which group was permitted at Nandigram area under the SEZ policy :",
     "options": [
       "Tata group",
       "Birla group",
@@ -56311,7 +56311,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "i n which year was the indian rupee devalued twice in one month",
+    "question": "in which year was the indian rupee devalued twice in one month",
     "options": [
       "1990",
       "1991",
@@ -56420,7 +56420,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "Which indian State topped the niti a ayog's SDG india index 2023",
+    "question": "Which indian State topped the niti Aayog's SDG india index 2023",
     "options": [
       "Gujarat",
       "Maharashtra",
@@ -56428,7 +56428,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "Kerala"
     ],
     "answer": "D",
-    "explanation": "In July 2024, NITI Aayog released its latest Sustainable Development Goals (SDG) India Index, 2023–24, in which India’s national score reached 71 in 2023–24 (it was 66 in 2020–21 and 60 in 2019–20). The top-performing states were Uttarakhand and Kerala, with each scoring 79 points. The worst-performing state was Bihar with 57 points, followed by Jharkhand with 62 points (second-lowest).\nSource: 70th B.P.S.C Re-Exam 2024",
+    "explanation": "In July 2024, NITI Aayog released its latest Sustainable Development Goals (SDG) India Index, 2023–24, in which India’s national score reached 71 in 2023–24 (it was 66 in 2020–21 and 60 in 2019–20). The top-performing states were Uttarakhand and Kerala, with each scoring 79 points. The worst-performing state was Bihar with 57 points, followed by Jharkhand with 62 points (second-lowest).\nSource: 70th B.P.S.C. Re-Exam 2024",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 340,
     "sourcePdfPage": 340,
@@ -56457,7 +56457,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "With reference to Bare n ecessities i ndex (B ni ),\nconsider the following statements-\n1. The Economic Survey has come up with the Bare\nn ecessities index at the rural and urban levels.\n2.\nB. n . i. has been created for 2018 only for all states.\n3.\nB. n . i. is based on 26 indicators.\n4.\nB. n . i. consists of six dimensions.\nWhich of the above statements are correct",
+    "question": "With reference to Bare Necessities Index (BNI ),\nconsider the following statements-\n1. The Economic Survey has come up with the Bare\nNecessities index at the rural and urban levels.\n2.\nB. n . i. has been created for 2018 only for all states.\n3.\nB. n . i. is based on 26 indicators.\n4.\nB. n . i. consists of six dimensions.\nWhich of the above statements are correct",
     "options": [
       "1 and 3 only",
       "2 and 3 only",
@@ -56494,7 +56494,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "By how much did the Female l abour Force Participation r ate increase from 2017-18 to 2022-23, according to the National Sample Survey Office (NSSO)",
+    "question": "By how much did the Female labour Force Participation rate increase from 2017-18 to 2022-23, according to the National Sample Survey Office (NSSO)",
     "options": [
       "From 25.3% to 35%",
       "From 23.3% to 37%",
@@ -56550,7 +56550,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "The Prevention of money l aundering Act came into force in india during :",
+    "question": "The Prevention of money laundering Act came into force in india during :",
     "options": [
       "1998",
       "1999",
@@ -56569,7 +56569,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "Consider the following Statements :\n1. v arsha Bima, the rainfall insurance scheme, is\nmanaged by the a griculture insurance Company\nof india l td. (ai Cil ).\n2. The scheme was introduced during the 2007 South-\nWest monsoon period.\nWhich of the statements given above is/are correct",
+    "question": "Consider the following Statements :\n1. Varsha Bima, the rainfall insurance scheme, is\nmanaged by the agriculture insurance Company\nof india Ltd. (AICIL ).\n2. The scheme was introduced during the 2007 South-\nWest monsoon period.\nWhich of the statements given above is/are correct",
     "options": [
       "Only 1",
       "Only 2",
@@ -56587,7 +56587,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "Which one of the following approaches is associated with Prof. a martya Sen",
+    "question": "Which one of the following approaches is associated with Prof. Amartya Sen",
     "options": [
       "Basic Needs Approach",
       "Capability Approach",
@@ -56606,7 +56606,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "m atch Column-a with Column-B and select the correct\nanswer with the help of the code given below -\nColumn - a Column B\na . o pen General l icense 1. Employment\nB. tr YSEm 2. Foreign trade\nC. Wholesale Price index 3. Debt control\nD. Cash Reserve Ratio 4. Inflation\na B C D",
+    "question": "Match Column-a with Column-B and select the correct\nanswer with the help of the code given below -\nColumn - a Column B\na . Open General License 1. Employment\nB. TRYSEM 2. Foreign trade\nC. Wholesale Price index 3. Debt control\nD. Cash Reserve Ratio 4. Inflation\na B C D",
     "options": [
       "2 1 4 3",
       "2 4 3 1",
@@ -56642,7 +56642,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "m atch the Column- a with the Column-B and select the correct answer using the codes given below : Column -a Column -B a . 1955 1. Export-import Bank of india B. 1964 2. i ndustrial Development Bank of india C. 1982 3 . i ndustrial Credit and i nvestment Corporation of india D. 1987 4. Board of industrial and Financial r econstruction Codes : A B C D",
+    "question": "Match the Column- a with the Column-B and select the correct answer using the codes given below : Column -a Column -B a . 1955 1. Export-import Bank of india B. 1964 2. Industrial Development Bank of india C. 1982 3 . Industrial Credit and Investment Corporation of india D. 1987 4. Board of industrial and Financial Reconstruction Codes : A B C D",
     "options": [
       "1 2 3 4",
       "2 3 1 4",
@@ -56660,7 +56660,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "m atch the Column a with Column B and select the correct answer using the codes given below : Column a Column B a . national a gricultural Policy 1. 2004 B. m arine Fishing Policy 2. 1978 C. n ew Foreign t rade Policy 3. 2000 D. Seventh Finance Commission 4. 2014 A B C D",
+    "question": "Match the Column a with Column B and select the correct answer using the codes given below : Column a Column B a . national agricultural Policy 1. 2004 B. Marine Fishing Policy 2. 1978 C. New Foreign Trade Policy 3. 2000 D. Seventh Finance Commission 4. 2014 A B C D",
     "options": [
       "2 1 3 4",
       "4 3 1 2",
@@ -56678,7 +56678,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "match l ist-i with l ist-ii :\nl ist-i l ist-ii\na . Sarkaria Commission 1. to review the methodology\nfor measuring poverty\nB. C. Rangarajan 2. Infrastructure financing\nCommittee\nC. Parekh Committee 3. Centre-State relations\nD. n arasimham 4. Banking sector reforms\nCommittee\nSelect the correct answer from the options given below :\na B C D",
+    "question": "match List-I with List-II :\nList-I List-II\na . Sarkaria Commission 1. to review the methodology\nfor measuring poverty\nB. C. Rangarajan 2. Infrastructure financing\nCommittee\nC. Parekh Committee 3. Centre-State relations\nD. Narasimham 4. Banking sector reforms\nCommittee\nSelect the correct answer from the options given below :\na B C D",
     "options": [
       "3 1 2 4",
       "2 1 3 4",
@@ -56687,7 +56687,7 @@ window.BPSC_QUIZ_QUESTIONS = [
       "None of the above / More than one of the above"
     ],
     "answer": "A",
-    "explanation": "Correctly matched are— l ist-i l ist-ii Sarkaria Commission – Centre–State relations C. Rangarajan Committee – To review the methodology for measuring poverty Parekh Committee Infrastructure financing Narasimham Committee Banking sector reforms\nSource: 67th B.P.S.C. (Pre) 2022",
+    "explanation": "Correctly matched are— List-I List-II Sarkaria Commission – Centre–State relations C. Rangarajan Committee – To review the methodology for measuring poverty Parekh Committee Infrastructure financing Narasimham Committee Banking sector reforms\nSource: 67th B.P.S.C. (Pre) 2022",
     "sourceBook": "BPSC General Studies 2026",
     "sourcePrintedPage": 343,
     "sourcePdfPage": 343,
@@ -56697,7 +56697,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "i n which year the new currency 'Euro' was introduced",
+    "question": "in which year the new currency 'Euro' was introduced",
     "options": [
       "1996",
       "1997",
@@ -56715,7 +56715,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "PUra (Providing Urban a menities to r ural a reas) model was advocated by :",
+    "question": "PURA (Providing Urban Amenities to rural Areas) model was advocated by :",
     "options": [
       "A.P.J. Abdul Kalam",
       "Manmohan Singh",
@@ -56734,7 +56734,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "Who was awarded the n obel Prize in Economics in 1998",
+    "question": "Who was awarded the Nobel Prize in Economics in 1998",
     "options": [
       "Solow",
       "Marshall",
@@ -56752,7 +56752,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "i n the following P.i.o . card scheme is related to- (i) It means persons of Indian origin who have residence abroad. (ii) visa is required for P.i.o . card holders. (iii) it includes residents of Bangladesh and Pakistan. (iv) t hey can avail facilities to acquire, hold, exchange and sell immovable property, including agricultural and plantation property, anywhere in india.",
+    "question": "in the following P.i.o . card scheme is related to- (i) It means persons of Indian origin who have residence abroad. (ii) visa is required for P.i.o . card holders. (iii) it includes residents of Bangladesh and Pakistan. (iv) they can avail facilities to acquire, hold, exchange and sell immovable property, including agricultural and plantation property, anywhere in india.",
     "options": [
       "(i) and (ii) only",
       "(i), (ii) and (iii) only",
@@ -56788,7 +56788,7 @@ window.BPSC_QUIZ_QUESTIONS = [
     "subject": "Economic and Social Development",
     "section": "",
     "topic": "Demography",
-    "question": "The full form of UPi is—",
+    "question": "The full form of UPI is—",
     "options": [
       "Uninterrupted Payment Initiation",
       "Uniform Payment Inception",
